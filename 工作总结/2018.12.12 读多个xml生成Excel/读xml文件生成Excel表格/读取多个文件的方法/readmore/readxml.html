@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <script src="./excellentexport.js"></script>
+    <script src="https://cdn.bootcss.com/x2js/1.2.0/xml2json.js"></script>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+        
+        td,
+        th {
+            padding: 5px 10px;
+        }
+        
+        caption {
+            height: 44.25pt;
+            mso-style-parent: style0;
+            mso-number-format: General;
+            text-align: center;
+            vertical-align: middle;
+            white-space: nowrap;
+            background: auto;
+            mso-pattern: auto;
+            color: #000000;
+            font-size: 36pt;
+            font-weight: 400;
+            font-style: normal;
+            font-family: "Microsoft YaHei", "sans-serif";
+            border-top: none;
+            border-right: none;
+            border-left: none;
+            mso-diagonal-down: none;
+            mso-diagonal-up: none;
+            mso-protection: locked visible;
+            margin-bottom: 10px;
+        }
+        
+        th {
+            mso-style-parent: style0;
+            mso-number-format: General;
+            text-align: center;
+            vertical-align: middle;
+            white-space: normal;
+            word-wrap: break-word;
+            background: #404040;
+            mso-pattern: auto none;
+            color: #FFFFFF;
+            font-size: 10pt;
+            font-weight: 400;
+            font-style: normal;
+            font-family: "Arial", "sans-serif";
+            border-top: 1px solid #000000;
+            border-right: 1px solid #000000;
+            border-bottom: 1px solid #000000;
+            border-left: 1px solid #000000;
+            mso-diagonal-down: none;
+            mso-diagonal-up: none;
+            mso-protection: locked visible;
+        }
+        
+        td {
+            mso-style-parent: style0;
+            mso-number-format: General;
+            text-align: center;
+            vertical-align: middle;
+            white-space: normal;
+            word-wrap: break-word;
+            background: auto;
+            mso-pattern: auto;
+            color: #333333;
+            font-size: 10pt;
+            font-weight: 400;
+            font-style: normal;
+            font-family: "Arial", "sans-serif";
+            border-top: 1px solid #000000;
+            border-right: 1px solid #000000;
+            border-bottom: 1px solid #000000;
+            border-left: 1px solid #000000;
+            mso-diagonal-down: none;
+            mso-diagonal-up: none;
+            mso-protection: locked visible;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="readfile">
+        <input type="file" @change="readFile" multiple="multiple">
+        <a id="download" style="display: block;padding: 5px 10px;background-color:pink;width:100px" onclick="return ExcellentExport.excel(this, 'tableD', 'data');">download</a>
+        <a download="somedata.xlsx" href="#" onclick="return ExcellentExport.convert({ anchor: this, filename: 'data_123.array', format: 'xlsx'},[{name: 'Sheet Name Here 1', from: {table: 'tableD'}}]);">Export to CSV</a>
+        <table id="tableD">
+            <caption>Overview– Output Excel</caption>
+            <thead>
+                <tr>
+                    <th>SMN</th>
+                    <th>UMN</th>
+                    <th>Display Model Number</th>
+                    <th style="background: #98A91F;">DAM IDs (Manual)</th>
+                    <th style="background: #98A91F;">HMX ID</th>
+                    <th style="background: #98A91F;">Image File Names</th>
+                    <th style="background: #98A91F;">Video URL</th>
+                    <th style="background: #0070C0;">Image Asset ID</th>
+                    <th style="background: #0070C0;">Video Asset ID</th>
+                    <th style="background: #0070C0;">HTML File Asset ID</th>
+                </tr>
+            </thead>
+            <tbody>
+                <template v-for="(xml, index) in xmlArr">
+                    <tr v-for="(umnV,umnI) in xml.umn">
+                        <td v-if="umnI==0">{{xml.smn}}</td>
+                        <td v-else></td>
+                        <td>{{xml.umn[umnI]}}</td>
+                        <td v-if="umnI==0">{{xml.displayModelName}}</td>
+                        <td v-else></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </template>
+            </tbody>
+        </table>
+    </div>
+    <script>
+        new Vue({
+            el: '#readfile',
+            data: {
+                newXml: {
+                    smn: '',
+                    umn: [],
+                    displayModelName: ''
+                },
+                xmlArr: []
+
+            },
+            methods: {
+                readFile: function(obj) {
+
+                    // console.log(obj)
+                    for (var fileI = 0; fileI < obj.target.files.length; fileI++) {
+                        var file = obj.target.files[fileI];
+                        var reader = new FileReader();
+                        var _this = this
+                        reader.onload = function(ev) {
+                            // console.log(ev)
+                            _this.newXml = {
+                                smn: '',
+                                umn: [],
+                                displayModelName: ''
+                            };
+                            var datas = ev.target.result
+                            var parser = new DOMParser();
+                            var xmlDocument = parser.parseFromString(datas, "text/xml");
+                            var nodes = xmlDocument.getElementsByTagName("data")
+                            for (let i = 0; i < nodes.length; i++) {
+                                switch (nodes[i].attributes.nodeName.value) {
+                                    case 'ShortModelNumber':
+                                        _this.newXml.smn = nodes[i].textContent;
+                                        break;
+                                    case 'VariationUMN1':
+                                        if (nodes[i].textContent) _this.newXml.umn.push(nodes[i].textContent)
+                                        break;
+                                    case 'VariationUMN2':
+                                        if (nodes[i].textContent) _this.newXml.umn.push(nodes[i].textContent)
+                                        break;
+                                    case 'VariationUMN3':
+                                        if (nodes[i].textContent) _this.newXml.umn.push(nodes[i].textContent)
+                                        break;
+                                    case 'VariationUMN4':
+                                        if (nodes[i].textContent) _this.newXml.umn.push(nodes[i].textContent)
+                                        break;
+                                    case 'VariationUMN5':
+                                        if (nodes[i].textContent) _this.newXml.push(nodes[i].textContent)
+                                        break;
+                                    case 'VariationUMN6':
+                                        if (nodes[i].textContent) _this.newXml.push(nodes[i].textContent)
+                                        break;
+                                    case 'VariationUMN7':
+                                        if (nodes[i].textContent) _this.newXml.umn.push(nodes[i].textContent)
+                                        break;
+                                    case 'VariationUMN8':
+                                        if (nodes[i].textContent) _this.newXml.umn.push(nodes[i].textContent)
+                                        break;
+                                    case 'VariationUMN9':
+                                        if (nodes[i].textContent) _this.newXml.umn.push(nodes[i].textContent)
+                                        break;
+                                    case 'DisplayModelNumber':
+                                        _this.newXml.displayModelName = nodes[i].textContent
+                                        break;
+                                }
+
+                            }
+                            _this.xmlArr.push(_this.newXml)
+                                // console.log(nodes[0])
+
+                        }
+                        reader.readAsBinaryString(file);
+                    }
+
+
+                },
+                download: function() {
+                    var table = document.getElementById("tableD").outerHTML
+                    var downloadHtml = '<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel"' +
+                        'xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet>' +
+                        '<x:Name>{worksheet}</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets>' +
+                        '</x:ExcelWorkbook></xml><![endif]-->' + '<style  type="text/css"> table { border-collapse: collapse; } td, th { padding: 5px 10px; } caption { height: 44.25pt; mso-style-parent: style0; mso-number-format: General; text-align: center; vertical-align: middle; white-space: nowrap; background: auto; mso-pattern: auto; color: #000000; font-size: 36pt; font-weight: 400; font-style: normal; font-family: "Microsoft YaHei", "sans-serif"; border-top: none; border-right: none; border-left: none; mso-diagonal-down: none; mso-diagonal-up: none; mso-protection: locked visible; margin-bottom: 10px; } th { mso-style-parent: style0; mso-number-format: General; text-align: center; vertical-align: middle; white-space: normal; word-wrap: break-word; background: #404040; mso-pattern: auto none; color: #FFFFFF; font-size: 10pt; font-weight: 400; font-style: normal; font-family: "Arial", "sans-serif"; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; mso-diagonal-down: none; mso-diagonal-up: none; mso-protection: locked visible; } td { mso-style-parent: style0; mso-number-format: General; text-align: center; vertical-align: middle; white-space: normal; word-wrap: break-word; background: auto; mso-pattern: auto; color: #333333; font-size: 10pt; font-weight: 400; font-style: normal; font-family: "Arial", "sans-serif"; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; mso-diagonal-down: none; mso-diagonal-up: none; mso-protection: locked visible; } </style>' + '</head><body>' + table + "</body></html>";
+                    var blob = new Blob([downloadHtml], {
+                        type: "application/vnd.ms-excel"
+                    });
+                    var a = document.getElementById("download");
+                    // 利用URL.createObjectURL()方法为a元素生成blob URL
+                    a.href = URL.createObjectURL(blob);
+                    // 设置文件名，目前只有Chrome和FireFox支持此属性
+                    a.download = "down.xls";
+                }
+            }
+
+        })
+    </script>
+</body>
+
+</html>

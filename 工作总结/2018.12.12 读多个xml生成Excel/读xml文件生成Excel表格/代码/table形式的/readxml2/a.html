@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script type="text/javascript" src="js/xlsx.core.min.js"></script>
+    <script type="text/javascript" src="js/Blob.js"></script>
+    <script src="js/xlsx.full.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    
+    <script>
+        const saveAs = (obj, fileName)=>{
+            const a = document.createElement('a');
+            a.download = fileName || '下载';
+            a.href = URL.createObjectURL(obj);     
+            a.click();                           
+            setTimeout(()=> {                     
+            URL.revokeObjectURL(obj);     
+            }, 100);
+        };
+
+        const s2ab = s => {
+            let buf = new ArrayBuffer(s.length);
+            let view = new Uint8Array(buf);
+            for (let i = 0; i !== s.length; ++i) view[i] = s.charCodeAt(i) & 0xFF;
+            return buf;
+        };
+        const borderAll = {  //单元格外侧框线
+            top: {
+                style: 'thin'
+            },
+            bottom: {
+                style: 'thin'
+            },
+            left: {
+                style: 'thin'
+            },
+            right: {
+                style: 'thin'
+            }
+        };
+        const workbook = {
+            SheetNames: ['Sheet1'],
+            Sheets: {
+                Sheet1: {
+                    '!ref': 'A1:D4',
+                    '!cols': [{wpx: 45}, {wpx: 165}, {wpx: 45}, {wpx: 45}],
+                    '!merges': [{
+                        s: {c: 0, r: 0},
+                        e: {c: 3, r: 0}
+                    }],
+                    A1: {
+                        v: '采购单',
+                        t: 's',
+                        s: {
+                            font: {
+                                sz: 18,
+                                bold: true
+                            },
+                            alignment: {
+                                horizontal: 'center'
+                            }
+                        }
+                    },
+                    A2: {
+                        v: '序号',
+                        t: 's',
+                        s: {
+                            border: borderAll
+                        }
+                    },
+                    B2: {
+                        v: '商品名称',
+                        t: 's',
+                        s: {
+                            border: borderAll
+                        }
+                    },
+                    C2: {
+                        v: '数量',
+                        t: 's',
+                        s: {
+                            border: borderAll
+                        }
+                    },
+                    D2: {
+                        v: '颜色',
+                        t: 's',
+                        s: {
+                            border: borderAll
+                        }
+                    },
+                    A3: {
+                        v: 1,
+                        t: 'n',
+                        s: {
+                            border: borderAll
+                        }
+                    },
+                    B3: {
+                        v: '商品1',
+                        t: 's',
+                        s: {
+                            border: borderAll
+                        }
+                    },
+                    C3: {
+                        v: 100,
+                        t: 'n',
+                        s: {
+                        border: borderAll,
+                        font: {
+                            color: {
+                                rgb: 'FF4F81BD'  //字体颜色
+                            }
+                        }
+                        }
+                    },
+                    D3: {
+                        v: '',
+                        s: {
+                            border: borderAll,
+                            fill: {
+                                fgColor: {
+                                    rgb: 'FFC0504D'  //背景颜色
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        };
+
+        const workbookOut = XLSX.write(workbook, {
+            bookType: 'xlsx',
+            bookSST: false,
+            type: 'binary'
+        });
+
+        saveAs(new Blob([s2ab(workbookOut)], {
+            type: 'application/octet-stream'
+        }), 'export.xlsx')
+    </script>
+</body>
+</html>

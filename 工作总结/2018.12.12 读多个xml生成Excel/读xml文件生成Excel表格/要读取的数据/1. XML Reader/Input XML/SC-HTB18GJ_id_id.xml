@@ -1,0 +1,1575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemContents>
+   <ItemContent nodeName="ItemContent">
+      <data nodeName="ShortModelNumber" attributeName="Short Model Number"
+            transAttributeName="Short Model Number"
+            dataType="string"><![CDATA[SC-HTB18GJ]]></data>
+      <data nodeName="UnifiedModelNumber" attributeName="Unified Model Number"
+            transAttributeName="Unified Model Number"
+            dataType="string"><![CDATA[SC-HTB18GJ]]></data>
+      <data nodeName="catalogName" attributeName="catalogName"
+            transAttributeName="catalogName"
+            dataType="string"><![CDATA[Home Theatre]]></data>
+      <dataGroup nodeName="Category" attributeName="Category" transAttributeName="Category"
+                 dataType="string">
+         <data nodeName="CategoryTree1" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[Home Theatre]]></data>
+         <data nodeName="CategoryTree2" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[Global-Home Theatre]]></data>
+         <data nodeName="CategoryTree3" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[G_Sound Bar]]></data>
+         <data nodeName="CategoryTree4" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[G_Sound Bar - 2016]]></data>
+         <data nodeName="CategoryTree5" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[GJ-HTB2016]]></data>
+      </dataGroup>
+      <dataGroup nodeName="GeneralData" attributeName="GeneralData"
+                 transAttributeName="GeneralData"
+                 dataType="string">
+         <data nodeName="BrandName" attributeName="Brand Name" transAttributeName="Brand Name"
+               dataType="string"><![CDATA[Panasonic]]></data>
+         <data nodeName="ProductType" attributeName="Product Type"
+               transAttributeName="Product Type"
+               dataType="string"><![CDATA[Main Unit]]></data>
+         <data nodeName="Tentative" attributeName="Tentative" transAttributeName="Tentative"
+               dataType="flag"><![CDATA[false]]></data>
+         <dataGroup nodeName="SalesRegion" attributeName="Sales Region"
+                    transAttributeName="Sales Region"
+                    dataType="string">
+            <data nodeName="locale" attributeName="locale" transAttributeName="locale"
+                  dataType="string"><![CDATA[id_id]]></data>
+         </dataGroup>
+         <dataGroup nodeName="Dates" attributeName="Dates" transAttributeName="Dates"
+                    dataType="string">
+            <data nodeName="WebPublishingDate" attributeName="Web Publishing Date"
+                  transAttributeName="Web Publishing Date"
+                  dataType="date"><![CDATA[2016-11-01T17:00:00.0Z]]></data>
+         </dataGroup>
+         <data nodeName="NumberofDaysNew" attributeName="Number of Days New"
+               transAttributeName="Number of Days New"
+               dataType="number"><![CDATA[90]]></data>
+      </dataGroup>
+      <dataGroup nodeName="MarketingDescription" attributeName="MarketingDescription"
+                 transAttributeName="Marketing Description"
+                 dataType="string">
+         <data nodeName="ModelName" attributeName="Model Name" transAttributeName="Model Name"
+               dataType="string"><![CDATA[Home Theater System]]></data>
+         <dataGroup nodeName="ShortDescriptions" attributeName="ShortDescriptions"
+                    transAttributeName="Short Descriptions"
+                    dataType="string">
+            <data nodeName="ShortDescription" attributeName="Short Description"
+                  transAttributeName="Short Description"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="SalesArguments" attributeName="SalesArguments"
+                    transAttributeName="Sales Arguments"
+                    dataType="string">
+            <data nodeName="SalesArgument" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"/>
+            <data nodeName="SalesArgument_0" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"/>
+            <data nodeName="SalesArgument_1" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"/>
+            <data nodeName="SalesArgument_2" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"/>
+            <data nodeName="SalesArgument_3" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"/>
+            <data nodeName="SalesArgument_4" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="LongDescription" attributeName="LongDescription"
+                    transAttributeName="Long Description"
+                    dataType="string">
+            <data nodeName="Heading" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"/>
+            <data nodeName="Paragraph" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"/>
+            <data nodeName="Heading_0" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"/>
+            <data nodeName="Paragraph_0" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"/>
+            <data nodeName="Heading_1" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"/>
+            <data nodeName="Paragraph_1" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"/>
+            <data nodeName="Heading_2" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"/>
+            <data nodeName="Paragraph_2" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"/>
+            <data nodeName="Heading_3" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"/>
+            <data nodeName="Paragraph_3" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="DigitalAssets" attributeName="DigitalAssets"
+                 transAttributeName="DigitalAssets"
+                 dataType="string">
+         <dataGroup nodeName="Images" attributeName="Images" transAttributeName="Images"
+                    dataType="string">
+</dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="Overview" attributeName="Overview" transAttributeName="Overview"
+                 dataType="string">
+         <data nodeName="OverviewTemplateSelector" attributeName="Overview Template Selector"
+               transAttributeName="Overview Template Selector"
+               dataType="string"><![CDATA[LEFT]]></data>
+         <data nodeName="DisplayModelNumber" attributeName="Display Model Number"
+               transAttributeName="Display Model Number"
+               dataType="string"/>
+         <data nodeName="FullProductName" attributeName="Full Product Name"
+               transAttributeName="Full Product Name"
+               dataType="string"><![CDATA[Home Cinema System  SC-HTB18]]></data>
+         <data nodeName="ModelNumber" attributeName="Model Number"
+               transAttributeName="Model Number"
+               dataType="string"><![CDATA[SC-HTB18]]></data>
+         <data nodeName="DescriptionForSeeAll" attributeName="Description For See All"
+               transAttributeName="Description For See All"
+               dataType="string"><![CDATA[The HTB18 features a Stylish Delta Form Design for attractively simple living room use and a 2.1-channel High-Quality Sound System. It also offers Bluetooth® compatibility and, in addition to movies, it lets you enjoy music from your smartphone with truly dynamic sound.]]></data>
+         <data nodeName="ProductMainPicture" attributeName="Product Main Picture"
+               transAttributeName="Product Main Picture"
+               dataType="file"><![CDATA[SC-HTB18GJ-Product_Main_PictureGlobal-1_id_id.jpg]]></data>
+         <data nodeName="ProductMainImageCopyRights"
+               attributeName="Product Main Image Copy Rights"
+               transAttributeName="Product Main Image Copy Rights"
+               dataType="flag"><![CDATA[false]]></data>
+         <data nodeName="ProductMainImageExpireDate"
+               attributeName="Product Main Image Expire Date"
+               transAttributeName="Product Main Image Expire Date"
+               dataType="date"/>
+         <data nodeName="ProductLogoImage" attributeName="Product Logo Image"
+               transAttributeName="Product Logo Image"
+               dataType="file"/>
+         <data nodeName="PromotionLogoImage" attributeName="Promotion Logo Image"
+               transAttributeName="Promotion Logo Image"
+               dataType="file"/>
+         <data nodeName="SubBrandLogoImage" attributeName="Sub Brand Logo Image"
+               transAttributeName="Sub Brand Logo Image"
+               dataType="file"/>
+         <data nodeName="KeyCopy" attributeName="Key Copy" transAttributeName="Key Copy"
+               dataType="string"><![CDATA[True to Cinema Sound Quality]]></data>
+         <data nodeName="SubCopy" attributeName="Sub Copy" transAttributeName="Sub Copy"
+               dataType="string"><![CDATA[The HTB18 features a Stylish Delta Form Design for attractively simple living room use and a 2.1-channel High-Quality Sound System. It also offers Bluetooth® compatibility and, in addition to movies, it lets you enjoy music from your smartphone with truly dynamic sound.]]></data>
+         <data nodeName="SalesDateForTopPage" attributeName="Sales Date For Top Page"
+               transAttributeName="Sales Date For Top Page"
+               dataType="string"/>
+         <data nodeName="Annotation" attributeName="Annotation"
+               transAttributeName="Annotation"
+               dataType="string"/>
+         <data nodeName="MicrositeBannerImage" attributeName="Microsite Banner Image"
+               transAttributeName="Microsite Banner Image"
+               dataType="file"/>
+         <data nodeName="MicrositeBannerImageURL" attributeName="Microsite Banner Image URL"
+               transAttributeName="Microsite Banner Image URL"
+               dataType="string"/>
+      </dataGroup>
+      <dataGroup nodeName="Features" attributeName="Features" transAttributeName="Features"
+                 dataType="string">
+         <data nodeName="NumberOfFeatures" attributeName="Number Of Features"
+               transAttributeName="Number Of Features"
+               dataType="number"><![CDATA[3]]></data>
+         <dataGroup nodeName="Feature1" attributeName="Feature1" transAttributeName="Feature 1"
+                    dataType="string">
+            <data nodeName="SectorName1" attributeName="Sector Name 1"
+                  transAttributeName="Sector Name 1"
+                  dataType="string"><![CDATA[Smart Networking]]></data>
+            <data nodeName="FactorName1-1" attributeName="Factor Name 1-1"
+                  transAttributeName="Factor Name 1-1"
+                  dataType="string"><![CDATA[Bluetooth® Wireless Technology]]></data>
+            <data nodeName="FactorID1-1" attributeName="Factor ID 1-1"
+                  transAttributeName="Factor ID 1-1"
+                  dataType="string"><![CDATA[homeav-2016-htb685-2-4-1]]></data>
+            <data nodeName="FactorName1-2" attributeName="Factor Name 1-2"
+                  transAttributeName="Factor Name 1-2"
+                  dataType="string"/>
+            <data nodeName="FactorID1-2" attributeName="Factor ID 1-2"
+                  transAttributeName="Factor ID 1-2"
+                  dataType="string"/>
+            <data nodeName="FactorName1-3" attributeName="Factor Name 1-3"
+                  transAttributeName="Factor Name 1-3"
+                  dataType="string"/>
+            <data nodeName="FactorID1-3" attributeName="Factor ID 1-3"
+                  transAttributeName="Factor ID 1-3"
+                  dataType="string"/>
+            <data nodeName="FactorName1-4" attributeName="Factor Name 1-4"
+                  transAttributeName="Factor Name 1-4"
+                  dataType="string"/>
+            <data nodeName="FactorID1-4" attributeName="Factor ID 1-4"
+                  transAttributeName="Factor ID 1-4"
+                  dataType="string"/>
+            <data nodeName="FactorName1-5" attributeName="Factor Name 1-5"
+                  transAttributeName="Factor Name 1-5"
+                  dataType="string"/>
+            <data nodeName="FactorID1-5" attributeName="Factor ID 1-5"
+                  transAttributeName="Factor ID 1-5"
+                  dataType="string"/>
+            <data nodeName="FactorName1-6" attributeName="Factor Name 1-6"
+                  transAttributeName="Factor Name 1-6"
+                  dataType="string"/>
+            <data nodeName="FactorID1-6" attributeName="Factor ID 1-6"
+                  transAttributeName="Factor ID 1-6"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="Feature2" attributeName="Feature2" transAttributeName="Feature 2"
+                    dataType="string">
+            <data nodeName="SectorName2" attributeName="Sector Name 2"
+                  transAttributeName="Sector Name 2"
+                  dataType="string"><![CDATA[Design]]></data>
+            <data nodeName="FactorName2-1" attributeName="Factor Name 2-1"
+                  transAttributeName="Factor Name 2-1"
+                  dataType="string"><![CDATA[Delta Form Design]]></data>
+            <data nodeName="FactorID2-1" attributeName="Factor ID 2-1"
+                  transAttributeName="Factor ID 2-1"
+                  dataType="string"><![CDATA[homeav-2016-htb685-2-3-1]]></data>
+            <data nodeName="FactorName2-2" attributeName="Factor Name 2-2"
+                  transAttributeName="Factor Name 2-2"
+                  dataType="string"/>
+            <data nodeName="FactorID2-2" attributeName="Factor ID 2-2"
+                  transAttributeName="Factor ID 2-2"
+                  dataType="string"/>
+            <data nodeName="FactorName2-3" attributeName="Factor Name 2-3"
+                  transAttributeName="Factor Name 2-3"
+                  dataType="string"/>
+            <data nodeName="FactorID2-3" attributeName="Factor ID 2-3"
+                  transAttributeName="Factor ID 2-3"
+                  dataType="string"/>
+            <data nodeName="FactorName2-4" attributeName="Factor Name 2-4"
+                  transAttributeName="Factor Name 2-4"
+                  dataType="string"/>
+            <data nodeName="FactorID2-4" attributeName="Factor ID 2-4"
+                  transAttributeName="Factor ID 2-4"
+                  dataType="string"/>
+            <data nodeName="FactorName2-5" attributeName="Factor Name 2-5"
+                  transAttributeName="Factor Name 2-5"
+                  dataType="string"/>
+            <data nodeName="FactorID2-5" attributeName="Factor ID 2-5"
+                  transAttributeName="Factor ID 2-5"
+                  dataType="string"/>
+            <data nodeName="FactorName2-6" attributeName="Factor Name 2-6"
+                  transAttributeName="Factor Name 2-6"
+                  dataType="string"/>
+            <data nodeName="FactorID2-6" attributeName="Factor ID 2-6"
+                  transAttributeName="Factor ID 2-6"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="Feature3" attributeName="Feature3" transAttributeName="Feature 3"
+                    dataType="string">
+            <data nodeName="SectorName3" attributeName="Sector Name 3"
+                  transAttributeName="Sector Name 3"
+                  dataType="string"><![CDATA[Design]]></data>
+            <data nodeName="FactorName3-1" attributeName="Factor Name 3-1"
+                  transAttributeName="Factor Name 3-1"
+                  dataType="string"><![CDATA[Wall-Mountable]]></data>
+            <data nodeName="FactorID3-1" attributeName="Factor ID 3-1"
+                  transAttributeName="Factor ID 3-1"
+                  dataType="string"><![CDATA[homeav-2014-htb8-2-1-2]]></data>
+            <data nodeName="FactorName3-2" attributeName="Factor Name 3-2"
+                  transAttributeName="Factor Name 3-2"
+                  dataType="string"/>
+            <data nodeName="FactorID3-2" attributeName="Factor ID 3-2"
+                  transAttributeName="Factor ID 3-2"
+                  dataType="string"/>
+            <data nodeName="FactorName3-3" attributeName="Factor Name 3-3"
+                  transAttributeName="Factor Name 3-3"
+                  dataType="string"/>
+            <data nodeName="FactorID3-3" attributeName="Factor ID 3-3"
+                  transAttributeName="Factor ID 3-3"
+                  dataType="string"/>
+            <data nodeName="FactorName3-4" attributeName="Factor Name 3-4"
+                  transAttributeName="Factor Name 3-4"
+                  dataType="string"/>
+            <data nodeName="FactorID3-4" attributeName="Factor ID 3-4"
+                  transAttributeName="Factor ID 3-4"
+                  dataType="string"/>
+            <data nodeName="FactorName3-5" attributeName="Factor Name 3-5"
+                  transAttributeName="Factor Name 3-5"
+                  dataType="string"/>
+            <data nodeName="FactorID3-5" attributeName="Factor ID 3-5"
+                  transAttributeName="Factor ID 3-5"
+                  dataType="string"/>
+            <data nodeName="FactorName3-6" attributeName="Factor Name 3-6"
+                  transAttributeName="Factor Name 3-6"
+                  dataType="string"/>
+            <data nodeName="FactorID3-6" attributeName="Factor ID 3-6"
+                  transAttributeName="Factor ID 3-6"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="Feature4" attributeName="Feature4" transAttributeName="Feature 4"
+                    dataType="string">
+            <data nodeName="SectorName4" attributeName="Sector Name 4"
+                  transAttributeName="Sector Name 4"
+                  dataType="string"/>
+            <data nodeName="FactorName4-1" attributeName="Factor Name 4-1"
+                  transAttributeName="Factor Name 4-1"
+                  dataType="string"/>
+            <data nodeName="FactorID4-1" attributeName="Factor ID 4-1"
+                  transAttributeName="Factor ID 4-1"
+                  dataType="string"/>
+            <data nodeName="FactorName4-2" attributeName="Factor Name 4-2"
+                  transAttributeName="Factor Name 4-2"
+                  dataType="string"/>
+            <data nodeName="FactorID4-2" attributeName="Factor ID 4-2"
+                  transAttributeName="Factor ID 4-2"
+                  dataType="string"/>
+            <data nodeName="FactorName4-3" attributeName="Factor Name 4-3"
+                  transAttributeName="Factor Name 4-3"
+                  dataType="string"/>
+            <data nodeName="FactorID4-3" attributeName="Factor ID 4-3"
+                  transAttributeName="Factor ID 4-3"
+                  dataType="string"/>
+            <data nodeName="FactorName4-4" attributeName="Factor Name 4-4"
+                  transAttributeName="Factor Name 4-4"
+                  dataType="string"/>
+            <data nodeName="FactorID4-4" attributeName="Factor ID 4-4"
+                  transAttributeName="Factor ID 4-4"
+                  dataType="string"/>
+            <data nodeName="FactorName4-5" attributeName="Factor Name 4-5"
+                  transAttributeName="Factor Name 4-5"
+                  dataType="string"/>
+            <data nodeName="FactorID4-5" attributeName="Factor ID 4-5"
+                  transAttributeName="Factor ID 4-5"
+                  dataType="string"/>
+            <data nodeName="FactorName4-6" attributeName="Factor Name 4-6"
+                  transAttributeName="Factor Name 4-6"
+                  dataType="string"/>
+            <data nodeName="FactorID4-6" attributeName="Factor ID 4-6"
+                  transAttributeName="Factor ID 4-6"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="Feature5" attributeName="Feature5" transAttributeName="Feature 5"
+                    dataType="string">
+            <data nodeName="SectorName5" attributeName="Sector Name 5"
+                  transAttributeName="Sector Name 5"
+                  dataType="string"/>
+            <data nodeName="FactorName5-1" attributeName="Factor Name 5-1"
+                  transAttributeName="Factor Name 5-1"
+                  dataType="string"/>
+            <data nodeName="FactorID5-1" attributeName="Factor ID 5-1"
+                  transAttributeName="Factor ID 5-1"
+                  dataType="string"/>
+            <data nodeName="FactorName5-2" attributeName="Factor Name 5-2"
+                  transAttributeName="Factor Name 5-2"
+                  dataType="string"/>
+            <data nodeName="FactorID5-2" attributeName="Factor ID 5-2"
+                  transAttributeName="Factor ID 5-2"
+                  dataType="string"/>
+            <data nodeName="FactorName5-3" attributeName="Factor Name 5-3"
+                  transAttributeName="Factor Name 5-3"
+                  dataType="string"/>
+            <data nodeName="FactorID5-3" attributeName="Factor ID 5-3"
+                  transAttributeName="Factor ID 5-3"
+                  dataType="string"/>
+            <data nodeName="FactorName5-4" attributeName="Factor Name 5-4"
+                  transAttributeName="Factor Name 5-4"
+                  dataType="string"/>
+            <data nodeName="FactorID5-4" attributeName="Factor ID 5-4"
+                  transAttributeName="Factor ID 5-4"
+                  dataType="string"/>
+            <data nodeName="FactorName5-5" attributeName="Factor Name 5-5"
+                  transAttributeName="Factor Name 5-5"
+                  dataType="string"/>
+            <data nodeName="FactorID5-5" attributeName="Factor ID 5-5"
+                  transAttributeName="Factor ID 5-5"
+                  dataType="string"/>
+            <data nodeName="FactorName5-6" attributeName="Factor Name 5-6"
+                  transAttributeName="Factor Name 5-6"
+                  dataType="string"/>
+            <data nodeName="FactorID5-6" attributeName="Factor ID 5-6"
+                  transAttributeName="Factor ID 5-6"
+                  dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="GetInspired" attributeName="GetInspired"
+                 transAttributeName="Get Inspired"
+                 dataType="string">
+         <data nodeName="GetInspiredTemplateSelector"
+               attributeName="Get Inspired Template Selector"
+               transAttributeName="Get Inspired Template Selector"
+               dataType="string"/>
+         <data nodeName="GetInspiredTitle1" attributeName="Get Inspired Title 1"
+               transAttributeName="Get Inspired Title 1"
+               dataType="string"/>
+         <data nodeName="GetInspiredID1" attributeName="Get Inspired ID 1"
+               transAttributeName="Get Inspired ID 1"
+               dataType="string"/>
+         <data nodeName="GetInspiredTitle2" attributeName="Get Inspired Title 2"
+               transAttributeName="Get Inspired Title 2"
+               dataType="string"/>
+         <data nodeName="GetInspiredID2" attributeName="Get Inspired ID 2"
+               transAttributeName="Get Inspired ID 2"
+               dataType="string"/>
+         <data nodeName="GetInspiredTitle3" attributeName="Get Inspired Title 3"
+               transAttributeName="Get Inspired Title 3"
+               dataType="string"/>
+         <data nodeName="GetInspiredID3" attributeName="Get Inspired ID 3"
+               transAttributeName="Get Inspired ID 3"
+               dataType="string"/>
+         <data nodeName="GetInspiredTitle4" attributeName="Get Inspired Title 4"
+               transAttributeName="Get Inspired Title 4"
+               dataType="string"/>
+         <data nodeName="GetInspiredID4" attributeName="Get Inspired ID 4"
+               transAttributeName="Get Inspired ID 4"
+               dataType="string"/>
+         <data nodeName="GetInspiredTitle5" attributeName="Get Inspired Title 5"
+               transAttributeName="Get Inspired Title 5"
+               dataType="string"/>
+         <data nodeName="GetInspiredID5" attributeName="Get Inspired ID 5"
+               transAttributeName="Get Inspired ID 5"
+               dataType="string"/>
+      </dataGroup>
+      <dataGroup nodeName="Accessory" attributeName="Accessory" transAttributeName="Accessory"
+                 dataType="string">
+         <dataGroup nodeName="AccessoryCategory" attributeName="AccessoryCategory"
+                    transAttributeName="Accessory Category"
+                    dataType="string">
+            <data nodeName="AccessoryTemplateSelector"
+                  attributeName="Accessory Template Selector"
+                  transAttributeName="Accessory Template Selector"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryTitle1" attributeName="Accessory Category Title 1"
+                  transAttributeName="Accessory Category Title 1"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryID1" attributeName="Accessory Category ID 1"
+                  transAttributeName="Accessory Category ID 1"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryTitle2" attributeName="Accessory Category Title 2"
+                  transAttributeName="Accessory Category Title 2"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryID2" attributeName="Accessory Category ID 2"
+                  transAttributeName="Accessory Category ID 2"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryTitle3" attributeName="Accessory Category Title 3"
+                  transAttributeName="Accessory Category Title 3"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryID3" attributeName="Accessory Category ID 3"
+                  transAttributeName="Accessory Category ID 3"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryTitle4" attributeName="Accessory Category Title 4"
+                  transAttributeName="Accessory Category Title 4"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryID4" attributeName="Accessory Category ID 4"
+                  transAttributeName="Accessory Category ID 4"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryTitle5" attributeName="Accessory Category Title 5"
+                  transAttributeName="Accessory Category Title 5"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryID5" attributeName="Accessory Category ID 5"
+                  transAttributeName="Accessory Category ID 5"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryTitle6" attributeName="Accessory Category Title 6"
+                  transAttributeName="Accessory Category Title 6"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryID6" attributeName="Accessory Category ID 6"
+                  transAttributeName="Accessory Category ID 6"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryTitle7" attributeName="Accessory Category Title 7"
+                  transAttributeName="Accessory Category Title 7"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryID7" attributeName="Accessory Category ID 7"
+                  transAttributeName="Accessory Category ID 7"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="AccessoryItems" attributeName="AccessoryItems"
+                    transAttributeName="Accessory Items"
+                    dataType="string">
+            <data nodeName="AccessoryModelNumber1" attributeName="Accessory Model Number 1"
+                  transAttributeName="Accessory Model Number 1"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage1" attributeName="Accessory Image 1"
+                  transAttributeName="Accessory Image 1"
+                  dataType="file"/>
+            <data nodeName="AccessoryText1" attributeName="Accessory Text 1"
+                  transAttributeName="Accessory Text 1"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber2" attributeName="Accessory Model Number 2"
+                  transAttributeName="Accessory Model Number 2"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage2" attributeName="Accessory Image 2"
+                  transAttributeName="Accessory Image 2"
+                  dataType="file"/>
+            <data nodeName="AccessoryText2" attributeName="Accessory Text 2"
+                  transAttributeName="Accessory Text 2"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber3" attributeName="Accessory Model Number 3"
+                  transAttributeName="Accessory Model Number 3"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage3" attributeName="Accessory Image 3"
+                  transAttributeName="Accessory Image 3"
+                  dataType="file"/>
+            <data nodeName="AccessoryText3" attributeName="Accessory Text 3"
+                  transAttributeName="Accessory Text 3"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber4" attributeName="Accessory Model Number 4"
+                  transAttributeName="Accessory Model Number 4"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage4" attributeName="Accessory Image 4"
+                  transAttributeName="Accessory Image 4"
+                  dataType="file"/>
+            <data nodeName="AccessoryText4" attributeName="Accessory Text 4"
+                  transAttributeName="Accessory Text 4"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber5" attributeName="Accessory Model Number 5"
+                  transAttributeName="Accessory Model Number 5"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage5" attributeName="Accessory Image 5"
+                  transAttributeName="Accessory Image 5"
+                  dataType="file"/>
+            <data nodeName="AccessoryText5" attributeName="Accessory Text 5"
+                  transAttributeName="Accessory Text 5"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber6" attributeName="Accessory Model Number 6"
+                  transAttributeName="Accessory Model Number 6"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage6" attributeName="Accessory Image 6"
+                  transAttributeName="Accessory Image 6"
+                  dataType="file"/>
+            <data nodeName="AccessoryText6" attributeName="Accessory Text 6"
+                  transAttributeName="Accessory Text 6"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber7" attributeName="Accessory Model Number 7"
+                  transAttributeName="Accessory Model Number 7"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage7" attributeName="Accessory Image 7"
+                  transAttributeName="Accessory Image 7"
+                  dataType="file"/>
+            <data nodeName="AccessoryText7" attributeName="Accessory Text 7"
+                  transAttributeName="Accessory Text 7"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber8" attributeName="Accessory Model Number 8"
+                  transAttributeName="Accessory Model Number 8"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage8" attributeName="Accessory Image 8"
+                  transAttributeName="Accessory Image 8"
+                  dataType="file"/>
+            <data nodeName="AccessoryText8" attributeName="Accessory Text 8"
+                  transAttributeName="Accessory Text 8"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber9" attributeName="Accessory Model Number 9"
+                  transAttributeName="Accessory Model Number 9"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage9" attributeName="Accessory Image 9"
+                  transAttributeName="Accessory Image 9"
+                  dataType="file"/>
+            <data nodeName="AccessoryText9" attributeName="Accessory Text 9"
+                  transAttributeName="Accessory Text 9"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber10" attributeName="Accessory Model Number 10"
+                  transAttributeName="Accessory Model Number 10"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage10" attributeName="Accessory Image 10"
+                  transAttributeName="Accessory Image 10"
+                  dataType="file"/>
+            <data nodeName="AccessoryText10" attributeName="Accessory Text 10"
+                  transAttributeName="Accessory Text 10"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber11" attributeName="Accessory Model Number 11"
+                  transAttributeName="Accessory Model Number 11"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage11" attributeName="Accessory Image 11"
+                  transAttributeName="Accessory Image 11"
+                  dataType="file"/>
+            <data nodeName="AccessoryText11" attributeName="Accessory Text 11"
+                  transAttributeName="Accessory Text 11"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber12" attributeName="Accessory Model Number 12"
+                  transAttributeName="Accessory Model Number 12"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage12" attributeName="Accessory Image 12"
+                  transAttributeName="Accessory Image 12"
+                  dataType="file"/>
+            <data nodeName="AccessoryText12" attributeName="Accessory Text 12"
+                  transAttributeName="Accessory Text 12"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber13" attributeName="Accessory Model Number 13"
+                  transAttributeName="Accessory Model Number 13"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage13" attributeName="Accessory Image 13"
+                  transAttributeName="Accessory Image 13"
+                  dataType="file"/>
+            <data nodeName="AccessoryText13" attributeName="Accessory Text 13"
+                  transAttributeName="Accessory Text 13"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber14" attributeName="Accessory Model Number 14"
+                  transAttributeName="Accessory Model Number 14"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage14" attributeName="Accessory Image 14"
+                  transAttributeName="Accessory Image 14"
+                  dataType="file"/>
+            <data nodeName="AccessoryText14" attributeName="Accessory Text 14"
+                  transAttributeName="Accessory Text 14"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber15" attributeName="Accessory Model Number 15"
+                  transAttributeName="Accessory Model Number 15"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage15" attributeName="Accessory Image 15"
+                  transAttributeName="Accessory Image 15"
+                  dataType="file"/>
+            <data nodeName="AccessoryText15" attributeName="Accessory Text 15"
+                  transAttributeName="Accessory Text 15"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber16" attributeName="Accessory Model Number 16"
+                  transAttributeName="Accessory Model Number 16"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage16" attributeName="Accessory Image 16"
+                  transAttributeName="Accessory Image 16"
+                  dataType="file"/>
+            <data nodeName="AccessoryText16" attributeName="Accessory Text 16"
+                  transAttributeName="Accessory Text 16"
+                  dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="KeyTechnicalFeature" attributeName="KeyTechnicalFeature"
+                 transAttributeName="Key Technical Feature"
+                 dataType="string">
+         <data nodeName="TechnicalFeatureTemplateSelector"
+               attributeName="Technical Feature Template Selector"
+               transAttributeName="Technical Feature Template Selector"
+               dataType="string"><![CDATA[LEFT]]></data>
+         <data nodeName="ProductImage" attributeName="Product Image"
+               transAttributeName="Product Image"
+               dataType="file"><![CDATA[SC-HTB18GJ-Product_ImageGlobal-1_id_id.png]]></data>
+         <data nodeName="ProductThumbnail" attributeName="Product Thumbnail"
+               transAttributeName="Product Thumbnail"
+               dataType="file"/>
+         <data nodeName="CopyText" attributeName="Copy Text" transAttributeName="Copy Text"
+               dataType="string"/>
+         <data nodeName="KeySpecs1" attributeName="Key Specs 1"
+               transAttributeName="Key Specs 1"
+               dataType="string"><![CDATA[High Output Power]]></data>
+         <data nodeName="KeySpecsValue1" attributeName="Key Specs Value 1"
+               transAttributeName="Key Specs Value 1"
+               dataType="string"/>
+         <data nodeName="KeySpecs2" attributeName="Key Specs 2"
+               transAttributeName="Key Specs 2"
+               dataType="string"><![CDATA[Low Profile Delta Form Design]]></data>
+         <data nodeName="KeySpecsValue2" attributeName="Key Specs Value 2"
+               transAttributeName="Key Specs Value 2"
+               dataType="string"/>
+         <data nodeName="KeySpecs3" attributeName="Key Specs 3"
+               transAttributeName="Key Specs 3"
+               dataType="string"><![CDATA[Smart Networking]]></data>
+         <data nodeName="KeySpecsValue3" attributeName="Key Specs Value 3"
+               transAttributeName="Key Specs Value 3"
+               dataType="string"><![CDATA[Panasonic Music Streaming App]]></data>
+         <dataGroup nodeName="TechnicalIcons" attributeName="TechnicalIcons"
+                    transAttributeName="Technical Icons"
+                    dataType="string">
+            <data nodeName="TechnicalIcons1" attributeName="Technical Icons 1"
+                  transAttributeName="Technical Icons 1"
+                  dataType="file"><![CDATA[SC-HTB18GJ-Technical_Icons_1Global-1_id_id.gif]]></data>
+            <data nodeName="TechnicalIconsText1" attributeName="Technical Icons Text 1"
+                  transAttributeName="Technical Icons Text 1"
+                  dataType="string"><![CDATA[120W]]></data>
+            <data nodeName="TechnicalIconsURL1" attributeName="Technical Icons URL1"
+                  transAttributeName="Technical Icons URL1"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons2" attributeName="Technical Icons 2"
+                  transAttributeName="Technical Icons 2"
+                  dataType="file"><![CDATA[SC-HTB18GJ-Technical_Icons_2Global-1_id_id.gif]]></data>
+            <data nodeName="TechnicalIconsText2" attributeName="Technical Icons Text 2"
+                  transAttributeName="Technical Icons Text 2"
+                  dataType="string"><![CDATA[2.1ch system]]></data>
+            <data nodeName="TechnicalIconsURL2" attributeName="Technical Icons URL 2"
+                  transAttributeName="Technical Icons URL 2"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons3" attributeName="Technical Icons 3"
+                  transAttributeName="Technical Icons 3"
+                  dataType="file"><![CDATA[SC-HTB18GJ-Technical_Icons_3Global-1_id_id.gif]]></data>
+            <data nodeName="TechnicalIconsText3" attributeName="Technical Icons Text 3"
+                  transAttributeName="Technical Icons Text 3"
+                  dataType="string"><![CDATA[Bluetooth® Wireless Technology]]></data>
+            <data nodeName="TechnicalIconsURL3" attributeName="Technical Icons URL 3"
+                  transAttributeName="Technical Icons URL 3"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons4" attributeName="Technical Icons 4"
+                  transAttributeName="Technical Icons 4"
+                  dataType="file"><![CDATA[SC-HTB18GJ-Technical_Icons_4Global-1_id_id.gif]]></data>
+            <data nodeName="TechnicalIconsText4" attributeName="Technical Icons Text 4"
+                  transAttributeName="Technical Icons Text 4"
+                  dataType="string"><![CDATA[Panasonic Music Streaming App]]></data>
+            <data nodeName="TechnicalIconsURL4" attributeName="Technical Icons URL 4"
+                  transAttributeName="Technical Icons URL 4"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons5" attributeName="Technical Icons 5"
+                  transAttributeName="Technical Icons 5"
+                  dataType="file"><![CDATA[SC-HTB18GJ-Technical_Icons_5Global-1_id_id.gif]]></data>
+            <data nodeName="TechnicalIconsText5" attributeName="Technical Icons Text 5"
+                  transAttributeName="Technical Icons Text 5"
+                  dataType="string"><![CDATA[Digital Audio Input]]></data>
+            <data nodeName="TechnicalIconsURL5" attributeName="Technical Icons URL 5"
+                  transAttributeName="Technical Icons URL 5"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons6" attributeName="Technical Icons 6"
+                  transAttributeName="Technical Icons 6"
+                  dataType="file"><![CDATA[SC-HTB18GJ-Technical_Icons_6Global-1_id_id.gif]]></data>
+            <data nodeName="TechnicalIconsText6" attributeName="Technical Icons Text 6"
+                  transAttributeName="Technical Icons Text 6"
+                  dataType="string"><![CDATA[Wall Moutable Speaker]]></data>
+            <data nodeName="TechnicalIconsURL6" attributeName="Technical Icons URL 6"
+                  transAttributeName="Technical Icons URL 6"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons7" attributeName="Technical Icons 7"
+                  transAttributeName="Technical Icons 7"
+                  dataType="file"><![CDATA[SC-HTB18GJ-Technical_Icons_7Global-1_id_id.gif]]></data>
+            <data nodeName="TechnicalIconsText7" attributeName="Technical Icons Text 7"
+                  transAttributeName="Technical Icons Text 7"
+                  dataType="string"><![CDATA[Suitable for 32~42 inch TV]]></data>
+            <data nodeName="TechnicalIconsURL7" attributeName="Technical Icons URL 7"
+                  transAttributeName="Technical Icons URL 7"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons8" attributeName="Technical Icons 8"
+                  transAttributeName="Technical Icons 8"
+                  dataType="file"/>
+            <data nodeName="TechnicalIconsText8" attributeName="Technical Icons Text 8"
+                  transAttributeName="Technical Icons Text 8"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL8" attributeName="Technical Icons URL 8"
+                  transAttributeName="Technical Icons URL 8"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons9" attributeName="Technical Icons 9"
+                  transAttributeName="Technical Icons 9"
+                  dataType="file"/>
+            <data nodeName="TechnicalIconsText9" attributeName="Technical Icons Text 9"
+                  transAttributeName="Technical Icons Text 9"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL9" attributeName="Technical Icons URL 9"
+                  transAttributeName="Technical Icons URL 9"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons10" attributeName="Technical Icons 10"
+                  transAttributeName="Technical Icons 10"
+                  dataType="file"/>
+            <data nodeName="TechnicalIconsText10" attributeName="Technical Icons Text 10"
+                  transAttributeName="Technical Icons Text 10"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL10" attributeName="Technical Icons URL 10"
+                  transAttributeName="Technical Icons URL 10"
+                  dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="Faceted" attributeName="Faceted" transAttributeName="Faceted"
+                 dataType="string">
+         <dataGroup nodeName="CompareFeature" attributeName="CompareFeature"
+                    transAttributeName="Compare Feature"
+                    dataType="string">
+            <data nodeName="CompareItem1" attributeName="Compare Item 1"
+                  transAttributeName="Compare Item 1"
+                  dataType="string"><![CDATA[Total Power Output (W) (RMS)]]></data>
+            <data nodeName="CompareValue1" attributeName="Compare Value 1"
+                  transAttributeName="Compare Value 1"
+                  dataType="string"><![CDATA[120]]></data>
+            <data nodeName="CompareItem2" attributeName="Compare Item 2"
+                  transAttributeName="Compare Item 2"
+                  dataType="string"><![CDATA[5.1ch Speaker System]]></data>
+            <data nodeName="CompareValue2" attributeName="Compare Value 2"
+                  transAttributeName="Compare Value 2"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem3" attributeName="Compare Item 3"
+                  transAttributeName="Compare Item 3"
+                  dataType="string"><![CDATA[4K Signal Pass Through]]></data>
+            <data nodeName="CompareValue3" attributeName="Compare Value 3"
+                  transAttributeName="Compare Value 3"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem4" attributeName="Compare Item 4"
+                  transAttributeName="Compare Item 4"
+                  dataType="string"><![CDATA[Built-in 4K (UHD) Up-scaling]]></data>
+            <data nodeName="CompareValue4" attributeName="Compare Value 4"
+                  transAttributeName="Compare Value 4"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem5" attributeName="Compare Item 5"
+                  transAttributeName="Compare Item 5"
+                  dataType="string"><![CDATA[LincsD-Amp]]></data>
+            <data nodeName="CompareValue5" attributeName="Compare Value 5"
+                  transAttributeName="Compare Value 5"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem6" attributeName="Compare Item 6"
+                  transAttributeName="Compare Item 6"
+                  dataType="string"><![CDATA[aptX Low Latency]]></data>
+            <data nodeName="CompareValue6" attributeName="Compare Value 6"
+                  transAttributeName="Compare Value 6"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem7" attributeName="Compare Item 7"
+                  transAttributeName="Compare Item 7"
+                  dataType="string"><![CDATA[Wireless Subwoofer]]></data>
+            <data nodeName="CompareValue7" attributeName="Compare Value 7"
+                  transAttributeName="Compare Value 7"
+                  dataType="string"><![CDATA[Yes]]></data>
+            <data nodeName="CompareItem8" attributeName="Compare Item 8"
+                  transAttributeName="Compare Item 8"
+                  dataType="string"><![CDATA[Internet Apps]]></data>
+            <data nodeName="CompareValue8" attributeName="Compare Value 8"
+                  transAttributeName="Compare Value 8"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem9" attributeName="Compare Item 9"
+                  transAttributeName="Compare Item 9"
+                  dataType="string"><![CDATA[Internet Apps (Simple)]]></data>
+            <data nodeName="CompareValue9" attributeName="Compare Value 9"
+                  transAttributeName="Compare Value 9"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem10" attributeName="Compare Item 10"
+                  transAttributeName="Compare Item 10"
+                  dataType="string"><![CDATA[Bluetooth]]></data>
+            <data nodeName="CompareValue10" attributeName="Compare Value 10"
+                  transAttributeName="Compare Value 10"
+                  dataType="string"><![CDATA[Yes]]></data>
+            <data nodeName="CompareItem11" attributeName="Compare Item 11"
+                  transAttributeName="Compare Item 11"
+                  dataType="string"><![CDATA[One-Touch Connection (NFC)]]></data>
+            <data nodeName="CompareValue11" attributeName="Compare Value 11"
+                  transAttributeName="Compare Value 11"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem12" attributeName="Compare Item 12"
+                  transAttributeName="Compare Item 12"
+                  dataType="string"><![CDATA[External HDD Playback]]></data>
+            <data nodeName="CompareValue12" attributeName="Compare Value 12"
+                  transAttributeName="Compare Value 12"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem13" attributeName="Compare Item 13"
+                  transAttributeName="Compare Item 13"
+                  dataType="string"><![CDATA[ARC (Audio Return Channel)]]></data>
+            <data nodeName="CompareValue13" attributeName="Compare Value 13"
+                  transAttributeName="Compare Value 13"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem14" attributeName="Compare Item 14"
+                  transAttributeName="Compare Item 14"
+                  dataType="string"><![CDATA[HDMI Input]]></data>
+            <data nodeName="CompareValue14" attributeName="Compare Value 14"
+                  transAttributeName="Compare Value 14"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem15" attributeName="Compare Item 15"
+                  transAttributeName="Compare Item 15"
+                  dataType="string"><![CDATA[Optical Input]]></data>
+            <data nodeName="CompareValue15" attributeName="Compare Value 15"
+                  transAttributeName="Compare Value 15"
+                  dataType="string"><![CDATA[1]]></data>
+            <data nodeName="CompareItem16" attributeName="Compare Item 16"
+                  transAttributeName="Compare Item 16"
+                  dataType="string"><![CDATA[Wall-Mountable Speaker ]]></data>
+            <data nodeName="CompareValue16" attributeName="Compare Value 16"
+                  transAttributeName="Compare Value 16"
+                  dataType="string"><![CDATA[Yes]]></data>
+            <data nodeName="CompareItem17" attributeName="Compare Item 17"
+                  transAttributeName="Compare Item 17"
+                  dataType="string"><![CDATA[Selectable Speaker Layout]]></data>
+            <data nodeName="CompareValue17" attributeName="Compare Value 17"
+                  transAttributeName="Compare Value 17"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem18" attributeName="Compare Item 18"
+                  transAttributeName="Compare Item 18"
+                  dataType="string"/>
+            <data nodeName="CompareValue18" attributeName="Compare Value 18"
+                  transAttributeName="Compare Value 18"
+                  dataType="string"/>
+            <data nodeName="CompareItem19" attributeName="Compare Item 19"
+                  transAttributeName="Compare Item 19"
+                  dataType="string"/>
+            <data nodeName="CompareValue19" attributeName="Compare Value 19"
+                  transAttributeName="Compare Value 19"
+                  dataType="string"/>
+            <data nodeName="CompareItem20" attributeName="Compare Item 20"
+                  transAttributeName="Compare Item 20"
+                  dataType="string"/>
+            <data nodeName="CompareValue20" attributeName="Compare Value 20"
+                  transAttributeName="Compare Value 20"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="FacetedSlider" attributeName="FacetedSlider"
+                    transAttributeName="Faceted Slider"
+                    dataType="string">
+            <data nodeName="FacetedSliderItem1" attributeName="Faceted Slider Item 1"
+                  transAttributeName="Faceted Slider Item 1"
+                  dataType="string"><![CDATA[Total Power Output (W) (RMS)]]></data>
+            <data nodeName="FacetedSliderMinValue1" attributeName="Faceted Slider Min Value 1"
+                  transAttributeName="Faceted Slider Min Value 1"
+                  dataType="number"><![CDATA[80]]></data>
+            <data nodeName="FacetedSliderMaxValue1" attributeName="Faceted Slider Max Value 1"
+                  transAttributeName="Faceted Slider Max Value 1"
+                  dataType="number"><![CDATA[2200]]></data>
+            <data nodeName="FacetedSliderUnit1" attributeName="Faceted Slider Unit 1"
+                  transAttributeName="Faceted Slider Unit 1"
+                  dataType="string"/>
+            <data nodeName="FacetedSliderItem2" attributeName="Faceted Slider Item 2"
+                  transAttributeName="Faceted Slider Item 2"
+                  dataType="string"><![CDATA[HDMI Input]]></data>
+            <data nodeName="FacetedSliderMinValue2" attributeName="Faceted Slider Min Value 2"
+                  transAttributeName="Faceted Slider Min Value 2"
+                  dataType="number"><![CDATA[0.0]]></data>
+            <data nodeName="FacetedSliderMaxValue2" attributeName="Faceted Slider Max Value 2"
+                  transAttributeName="Faceted Slider Max Value 2"
+                  dataType="number"><![CDATA[3]]></data>
+            <data nodeName="FacetedSliderUnit2" attributeName="Faceted Slider Unit 2"
+                  transAttributeName="Faceted Slider Unit 2"
+                  dataType="string"/>
+            <data nodeName="FacetedSliderItem3" attributeName="Faceted Slider Item 3"
+                  transAttributeName="Faceted Slider Item 3"
+                  dataType="string"><![CDATA[Optical Input]]></data>
+            <data nodeName="FacetedSliderMinValue3" attributeName="Faceted Slider Min Value 3"
+                  transAttributeName="Faceted Slider Min Value 3"
+                  dataType="number"><![CDATA[0.0]]></data>
+            <data nodeName="FacetedSliderMaxValue3" attributeName="Faceted Slider Max Value 3"
+                  transAttributeName="Faceted Slider Max Value 3"
+                  dataType="number"><![CDATA[2.0]]></data>
+            <data nodeName="FacetedSliderUnit3" attributeName="Faceted Slider Unit 3"
+                  transAttributeName="Faceted Slider Unit 3"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="FacetedNavigation" attributeName="FacetedNavigation"
+                    transAttributeName="Faceted Navigation"
+                    dataType="string">
+            <data nodeName="FacetedItem1" attributeName="Faceted Item 1"
+                  transAttributeName="Faceted Item 1"
+                  dataType="string"><![CDATA[Bluetooth® ]]></data>
+            <data nodeName="FacetedItem2" attributeName="Faceted Item 2"
+                  transAttributeName="Faceted Item 2"
+                  dataType="string"><![CDATA[Optical Input]]></data>
+            <data nodeName="FacetedItem3" attributeName="Faceted Item 3"
+                  transAttributeName="Faceted Item 3"
+                  dataType="string"><![CDATA[Wall-Mountable Speaker ]]></data>
+            <data nodeName="FacetedItem4" attributeName="Faceted Item 4"
+                  transAttributeName="Faceted Item 4"
+                  dataType="string"/>
+            <data nodeName="FacetedItem5" attributeName="Faceted Item 5"
+                  transAttributeName="Faceted Item 5"
+                  dataType="string"/>
+            <data nodeName="FacetedItem6" attributeName="Faceted Item 6"
+                  transAttributeName="Faceted Item 6"
+                  dataType="string"/>
+            <data nodeName="FacetedItem7" attributeName="Faceted Item 7"
+                  transAttributeName="Faceted Item 7"
+                  dataType="string"/>
+            <data nodeName="FacetedItem8" attributeName="Faceted Item 8"
+                  transAttributeName="Faceted Item 8"
+                  dataType="string"/>
+            <data nodeName="FacetedItem9" attributeName="Faceted Item 9"
+                  transAttributeName="Faceted Item 9"
+                  dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="Variation" attributeName="Variation" transAttributeName="Variation"
+                 dataType="string">
+         <data nodeName="VariationName1" attributeName="Variation Name 1"
+               transAttributeName="Variation Name 1"
+               dataType="string"/>
+         <data nodeName="VariationImage1" attributeName="Variation Image 1"
+               transAttributeName="Variation Image 1"
+               dataType="file"><![CDATA[SC-HTB18GJ-Variation_Image_1Global-1_id_id.png]]></data>
+         <data nodeName="VariationImageforSeeAll1"
+               attributeName="Variation Image for See All 1"
+               transAttributeName="Variation Image for See All 1"
+               dataType="file"><![CDATA[SC-HTB18GJ-Variation_Image_for_See_All_1Global-1_id_id.png]]></data>
+         <data nodeName="VariationIconImage1" attributeName="Variation Icon Image 1"
+               transAttributeName="Variation Icon Image 1"
+               dataType="file"/>
+         <data nodeName="VariationText1" attributeName="Variation Text 1"
+               transAttributeName="Variation Text 1"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName1"
+               attributeName="Variation Measurement Name 1"
+               transAttributeName="Variation Measurement Name 1"
+               dataType="string"><![CDATA[SC-HTB18GJK]]></data>
+         <data nodeName="VariationUMN1" attributeName="Variation UMN 1"
+               transAttributeName="Variation UMN 1"
+               dataType="string"><![CDATA[SC-HTB18-K]]></data>
+         <data nodeName="VariationName2" attributeName="Variation Name 2"
+               transAttributeName="Variation Name 2"
+               dataType="string"/>
+         <data nodeName="VariationImage2" attributeName="Variation Image 2"
+               transAttributeName="Variation Image 2"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll2"
+               attributeName="Variation Image for See All 2"
+               transAttributeName="Variation Image for See All 2"
+               dataType="file"/>
+         <data nodeName="VariationIconImage2" attributeName="Variation Icon Image 2"
+               transAttributeName="Variation Icon Image 2"
+               dataType="file"/>
+         <data nodeName="VariationText2" attributeName="Variation Text 2"
+               transAttributeName="Variation Text 2"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName2"
+               attributeName="Variation Measurement Name 2"
+               transAttributeName="Variation Measurement Name 2"
+               dataType="string"/>
+         <data nodeName="VariationUMN2" attributeName="Variation UMN 2"
+               transAttributeName="Variation UMN 2"
+               dataType="string"/>
+         <data nodeName="VariationName3" attributeName="Variation Name 3"
+               transAttributeName="Variation Name 3"
+               dataType="string"/>
+         <data nodeName="VariationImage3" attributeName="Variation Image 3"
+               transAttributeName="Variation Image 3"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll3"
+               attributeName="Variation Image for See All 3"
+               transAttributeName="Variation Image for See All 3"
+               dataType="file"/>
+         <data nodeName="VariationIconImage3" attributeName="Variation Icon Image 3"
+               transAttributeName="Variation Icon Image 3"
+               dataType="file"/>
+         <data nodeName="VariationText3" attributeName="Variation Text 3"
+               transAttributeName="Variation Text 3"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName3"
+               attributeName="Variation Measurement Name 3"
+               transAttributeName="Variation Measurement Name 3"
+               dataType="string"/>
+         <data nodeName="VariationUMN3" attributeName="Variation UMN 3"
+               transAttributeName="Variation UMN 3"
+               dataType="string"/>
+         <data nodeName="VariationName4" attributeName="Variation Name 4"
+               transAttributeName="Variation Name 4"
+               dataType="string"/>
+         <data nodeName="VariationImage4" attributeName="Variation Image 4"
+               transAttributeName="Variation Image 4"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll4"
+               attributeName="Variation Image for See All 4"
+               transAttributeName="Variation Image for See All 4"
+               dataType="file"/>
+         <data nodeName="VariationIconImage4" attributeName="Variation Icon Image 4"
+               transAttributeName="Variation Icon Image 4"
+               dataType="file"/>
+         <data nodeName="VariationText4" attributeName="Variation Text 4"
+               transAttributeName="Variation Text 4"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName4"
+               attributeName="Variation Measurement Name 4"
+               transAttributeName="Variation Measurement Name 4"
+               dataType="string"/>
+         <data nodeName="VariationUMN4" attributeName="Variation UMN 4"
+               transAttributeName="Variation UMN 4"
+               dataType="string"/>
+         <data nodeName="VariationName5" attributeName="Variation Name 5"
+               transAttributeName="Variation Name 5"
+               dataType="string"/>
+         <data nodeName="VariationImage5" attributeName="Variation Image 5"
+               transAttributeName="Variation Image 5"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll5"
+               attributeName="Variation Image for See All 5"
+               transAttributeName="Variation Image for See All 5"
+               dataType="file"/>
+         <data nodeName="VariationIconImage5" attributeName="Variation Icon Image 5"
+               transAttributeName="Variation Icon Image 5"
+               dataType="file"/>
+         <data nodeName="VariationText5" attributeName="Variation Text 5"
+               transAttributeName="Variation Text 5"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName5"
+               attributeName="Variation Measurement Name 5"
+               transAttributeName="Variation Measurement Name 5"
+               dataType="string"/>
+         <data nodeName="VariationUMN5" attributeName="Variation UMN 5"
+               transAttributeName="Variation UMN 5"
+               dataType="string"/>
+         <data nodeName="VariationName6" attributeName="Variation Name 6"
+               transAttributeName="Variation Name 6"
+               dataType="string"/>
+         <data nodeName="VariationImage6" attributeName="Variation Image 6"
+               transAttributeName="Variation Image 6"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll6"
+               attributeName="Variation Image for See All 6"
+               transAttributeName="Variation Image for See All 6"
+               dataType="file"/>
+         <data nodeName="VariationIconImage6" attributeName="Variation Icon Image 6"
+               transAttributeName="Variation Icon Image 6"
+               dataType="file"/>
+         <data nodeName="VariationText6" attributeName="Variation Text 6"
+               transAttributeName="Variation Text 6"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName6"
+               attributeName="Variation Measurement Name 6"
+               transAttributeName="Variation Measurement Name 6"
+               dataType="string"/>
+         <data nodeName="VariationUMN6" attributeName="Variation UMN 6"
+               transAttributeName="Variation UMN 6"
+               dataType="string"/>
+         <data nodeName="VariationName7" attributeName="Variation Name 7"
+               transAttributeName="Variation Name 7"
+               dataType="string"/>
+         <data nodeName="VariationImage7" attributeName="Variation Image 7"
+               transAttributeName="Variation Image 7"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll7"
+               attributeName="Variation Image for See All 7"
+               transAttributeName="Variation Image for See All 7"
+               dataType="file"/>
+         <data nodeName="VariationIconImage7" attributeName="Variation Icon Image 7"
+               transAttributeName="Variation Icon Image 7"
+               dataType="file"/>
+         <data nodeName="VariationText7" attributeName="Variation Text 7"
+               transAttributeName="Variation Text 7"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName7"
+               attributeName="Variation Measurement Name 7"
+               transAttributeName="Variation Measurement Name 7"
+               dataType="string"/>
+         <data nodeName="VariationUMN7" attributeName="Variation UMN 7"
+               transAttributeName="Variation UMN 7"
+               dataType="string"/>
+         <data nodeName="VariationName8" attributeName="Variation Name 8"
+               transAttributeName="Variation Name 8"
+               dataType="string"/>
+         <data nodeName="VariationImage8" attributeName="Variation Image 8"
+               transAttributeName="Variation Image 8"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll8"
+               attributeName="Variation Image for See All 8"
+               transAttributeName="Variation Image for See All 8"
+               dataType="file"/>
+         <data nodeName="VariationIconImage8" attributeName="Variation Icon Image 8"
+               transAttributeName="Variation Icon Image 8"
+               dataType="file"/>
+         <data nodeName="VariationText8" attributeName="Variation Text 8"
+               transAttributeName="Variation Text 8"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName8"
+               attributeName="Variation Measurement Name 8"
+               transAttributeName="Variation Measurement Name 8"
+               dataType="string"/>
+         <data nodeName="VariationUMN8" attributeName="Variation UMN 8"
+               transAttributeName="Variation UMN 8"
+               dataType="string"/>
+         <data nodeName="VariationName9" attributeName="Variation Name 9"
+               transAttributeName="Variation Name 9"
+               dataType="string"/>
+         <data nodeName="VariationImage9" attributeName="Variation Image 9"
+               transAttributeName="Variation Image 9"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll9"
+               attributeName="Variation Image for See All 9"
+               transAttributeName="Variation Image for See All 9"
+               dataType="file"/>
+         <data nodeName="VariationIconImage9" attributeName="Variation Icon Image 9"
+               transAttributeName="Variation Icon Image 9"
+               dataType="file"/>
+         <data nodeName="VariationText9" attributeName="Variation Text 9"
+               transAttributeName="Variation Text 9"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName9"
+               attributeName="Variation Measurement Name 9"
+               transAttributeName="Variation Measurement Name 9"
+               dataType="string"/>
+         <data nodeName="VariationUMN9" attributeName="Variation UMN 9"
+               transAttributeName="Variation UMN 9"
+               dataType="string"/>
+         <data nodeName="VariationName10" attributeName="Variation Name 10"
+               transAttributeName="Variation Name 10"
+               dataType="string"/>
+         <data nodeName="VariationImage10" attributeName="Variation Image 10"
+               transAttributeName="Variation Image 10"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll10"
+               attributeName="Variation Image for See All 10"
+               transAttributeName="Variation Image for See All 10"
+               dataType="file"/>
+         <data nodeName="VariationIconImage10" attributeName="Variation Icon Image 10"
+               transAttributeName="Variation Icon Image 10"
+               dataType="file"/>
+         <data nodeName="VariationText10" attributeName="Variation Text 10"
+               transAttributeName="Variation Text 10"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName10"
+               attributeName="Variation Measurement Name 10"
+               transAttributeName="Variation Measurement Name 10"
+               dataType="string"/>
+         <data nodeName="VariationUMN10" attributeName="Variation UMN 10"
+               transAttributeName="Variation UMN 10"
+               dataType="string"/>
+         <data nodeName="VariationName11" attributeName="Variation Name 11"
+               transAttributeName="Variation Name 11"
+               dataType="string"/>
+         <data nodeName="VariationImage11" attributeName="Variation Image 11"
+               transAttributeName="Variation Image 11"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll11"
+               attributeName="Variation Image for See All 11"
+               transAttributeName="Variation Image for See All 11"
+               dataType="file"/>
+         <data nodeName="VariationIconImage11" attributeName="Variation Icon Image 11"
+               transAttributeName="Variation Icon Image 11"
+               dataType="file"/>
+         <data nodeName="VariationText11" attributeName="Variation Text 11"
+               transAttributeName="Variation Text 11"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName11"
+               attributeName="Variation Measurement Name 11"
+               transAttributeName="Variation Measurement Name 11"
+               dataType="string"/>
+         <data nodeName="VariationUMN11" attributeName="Variation UMN 11"
+               transAttributeName="Variation UMN 11"
+               dataType="string"/>
+         <data nodeName="VariationName12" attributeName="Variation Name 12"
+               transAttributeName="Variation Name 12"
+               dataType="string"/>
+         <data nodeName="VariationImage12" attributeName="Variation Image 12"
+               transAttributeName="Variation Image 12"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll12"
+               attributeName="Variation Image for See All 12"
+               transAttributeName="Variation Image for See All 12"
+               dataType="file"/>
+         <data nodeName="VariationIconImage12" attributeName="Variation Icon Image 12"
+               transAttributeName="Variation Icon Image 12"
+               dataType="file"/>
+         <data nodeName="VariationText12" attributeName="Variation Text 12"
+               transAttributeName="Variation Text 12"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName12"
+               attributeName="Variation Measurement Name 12"
+               transAttributeName="Variation Measurement Name 12"
+               dataType="string"/>
+         <data nodeName="VariationUMN12" attributeName="Variation UMN 12"
+               transAttributeName="Variation UMN 12"
+               dataType="string"/>
+      </dataGroup>
+      <dataGroup nodeName="Demo" attributeName="Demo" transAttributeName="Demo"
+                 dataType="string">
+         <dataGroup nodeName="Demo1" attributeName="Demo1" transAttributeName="Demo1"
+                    dataType="string">
+            <data nodeName="DemoTitle1" attributeName="Demo Title 1"
+                  transAttributeName="Demo Title 1"
+                  dataType="string"/>
+            <data nodeName="DemoID1" attributeName="Demo ID 1" transAttributeName="Demo ID 1"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="Demo2" attributeName="Demo2" transAttributeName="Demo2"
+                    dataType="string">
+            <data nodeName="DemoTitle2" attributeName="Demo Title 2"
+                  transAttributeName="Demo Title 2"
+                  dataType="string"/>
+            <data nodeName="DemoID2" attributeName="Demo ID 2" transAttributeName="Demo ID 2"
+                  dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="Environmental" attributeName="Environmental"
+                 transAttributeName="Environmental"
+                 dataType="string">
+         <dataGroup nodeName="EnergyContents" attributeName="EnergyContents"
+                    transAttributeName="Energy Contents"
+                    dataType="string">
+            <data nodeName="EnergyClassArrow" attributeName="Energy Class Arrow"
+                  transAttributeName="Energy Class Arrow"
+                  dataType="string"/>
+            <data nodeName="EnergyLabel" attributeName="Energy Label"
+                  transAttributeName="Energy Label"
+                  dataType="file"/>
+            <data nodeName="ProductFiche" attributeName="Product Fiche"
+                  transAttributeName="Product Fiche"
+                  dataType="file"/>
+            <data nodeName="Eco-DesignInformation" attributeName="Eco-Design Information"
+                  transAttributeName="Eco-Design Information"
+                  dataType="file"/>
+            <data nodeName="Other" attributeName="Other" transAttributeName="Other"
+                  dataType="file"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="TechnicalFeature" attributeName="TechnicalFeature"
+                 transAttributeName="TechnicalFeature"
+                 dataType="string">
+         <dataGroup nodeName="AUDIOSYSTEM" attributeName="AUDIOSYSTEM"
+                    transAttributeName="AUDIO SYSTEM"
+                    dataType="string">
+            <data nodeName="OutputChannel" attributeName="Output Channel"
+                  transAttributeName="Output Channel"
+                  dataType="string"><![CDATA[2.1ch]]></data>
+            <dataGroup nodeName="PowerOutput-HomeCinemaModeRMS"
+                       attributeName="PowerOutput-HomeCinemaModeRMS"
+                       transAttributeName="Power Output - Home Cinema Mode(RMS)"
+                       dataType="string">
+               <data nodeName="TotalPower" attributeName="Total Power"
+                     transAttributeName="Total Power"
+                     dataType="string"><![CDATA[120W]]></data>
+               <data nodeName="Front" attributeName="Front" transAttributeName="Front"
+                     dataType="string"><![CDATA[30W/ch (1kHz, 4ohms, 10% THD)]]></data>
+               <data nodeName="Center" attributeName="Center" transAttributeName="Center"
+                     dataType="string"/>
+               <data nodeName="Surround" attributeName="Surround" transAttributeName="Surround"
+                     dataType="string"/>
+               <data nodeName="Subwoofer" attributeName="Subwoofer" transAttributeName="Subwoofer"
+                     dataType="string"><![CDATA[60W (100Hz, 8ohms, 10% THD)]]></data>
+            </dataGroup>
+            <data nodeName="DolbyDigital" attributeName="Dolby Digital"
+                  transAttributeName="Dolby Digital"
+                  dataType="string"><![CDATA[yes]]></data>
+            <data nodeName="DolbyProLogicIIDolbyVirtualSpeaker"
+                  attributeName="Dolby Pro Logic II/ Dolby Virtual Speaker"
+                  transAttributeName="Dolby Pro Logic II/ Dolby Virtual Speaker"
+                  dataType="string"/>
+            <data nodeName="DTSDigitalSurround" attributeName="DTS Digital Surround"
+                  transAttributeName="DTS Digital Surround"
+                  dataType="string"><![CDATA[yes]]></data>
+         </dataGroup>
+         <dataGroup nodeName="SMARTNETWORKINGEASYOPERATION"
+                    attributeName="SMARTNETWORKINGEASYOPERATION"
+                    transAttributeName="SMART NETWORKING &amp; EASY OPERATION"
+                    dataType="string">
+            <data nodeName="Multi-roomAudiowithQualcommAllPlay"
+                  attributeName="Multi-room Audio with Qualcomm® AllPlay™"
+                  transAttributeName="Multi-room Audio with Qualcomm® AllPlay™"
+                  dataType="string"/>
+            <data nodeName="WirelessLANSystem" attributeName="Wireless LAN System"
+                  transAttributeName="Wireless LAN System"
+                  dataType="string"/>
+            <data nodeName="PartyModeMulti-zone" attributeName="Party Mode/ Multi-zone"
+                  transAttributeName="Party Mode/ Multi-zone"
+                  dataType="string"/>
+            <data nodeName="Wi-FiFrequencyRange" attributeName="Wi-Fi Frequency Range"
+                  transAttributeName="Wi-Fi Frequency Range"
+                  dataType="string"/>
+            <data nodeName="Ethernet10Base-T100Base-TX"
+                  attributeName="Ethernet (10 Base-T/ 100 Base-TX)"
+                  transAttributeName="Ethernet (10 Base-T/ 100 Base-TX)"
+                  dataType="string"/>
+            <data nodeName="WPSsupport" attributeName="WPS support"
+                  transAttributeName="WPS support"
+                  dataType="string"/>
+            <data nodeName="BluetoothWirelessTechnology"
+                  attributeName="Bluetooth® Wireless Technology"
+                  transAttributeName="Bluetooth® Wireless Technology"
+                  dataType="string"><![CDATA[yes]]></data>
+            <data nodeName="PanasonicMusicStreamingApp"
+                  attributeName="Panasonic Music Streaming App"
+                  transAttributeName="Panasonic Music Streaming App"
+                  dataType="string"><![CDATA[yes*3]]></data>
+            <data nodeName="NFCOne-TouchConnection" attributeName="NFC (One-Touch Connection)"
+                  transAttributeName="NFC (One-Touch Connection)"
+                  dataType="string"/>
+            <data nodeName="Re-streaminigBluetoothCDRadioUSBAUX"
+                  attributeName="Re-streaminig (Bluetooth®, CD, Radio, USB, AUX)"
+                  transAttributeName="Re-streaminig (Bluetooth®, CD, Radio, USB, AUX)"
+                  dataType="string"/>
+            <data nodeName="4K60pSignalPassThrough" attributeName="4K/60p Signal Pass Through"
+                  transAttributeName="4K/60p Signal Pass Through"
+                  dataType="string"/>
+            <data nodeName="WirelessSubwoofer" attributeName="Wireless Subwoofer"
+                  transAttributeName="Wireless Subwoofer"
+                  dataType="string"/>
+            <data nodeName="AutoGainControl" attributeName="Auto Gain Control"
+                  transAttributeName="Auto Gain Control"
+                  dataType="string"/>
+            <data nodeName="ARCAudioReturnChannel" attributeName="ARC (Audio Return Channel)"
+                  transAttributeName="ARC (Audio Return Channel)"
+                  dataType="string"/>
+            <data nodeName="IRBlasterIncluded" attributeName="IR Blaster Included"
+                  transAttributeName="IR Blaster Included"
+                  dataType="string"/>
+            <data nodeName="HDMI-CEC" attributeName="HDMI-CEC" transAttributeName="HDMI-CEC"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="HIGHQUALITYSOUND" attributeName="HIGHQUALITYSOUND"
+                    transAttributeName="HIGH QUALITY SOUND"
+                    dataType="string">
+            <data nodeName="LincsD-Amp" attributeName="LincsD-Amp"
+                  transAttributeName="LincsD-Amp"
+                  dataType="string"/>
+            <data nodeName="Clear-modeDialog" attributeName="Clear-mode Dialog"
+                  transAttributeName="Clear-mode Dialog"
+                  dataType="string"/>
+            <data nodeName="DialogLevelControl" attributeName="Dialog Level Control"
+                  transAttributeName="Dialog Level Control"
+                  dataType="string"/>
+            <data nodeName="Multi-angleSpeakerLayout" attributeName="Multi-angle Speaker Layout"
+                  transAttributeName="Multi-angle Speaker Layout"
+                  dataType="string"><![CDATA[yes(0deg/90deg)]]></data>
+            <data nodeName="aptXLowLatency" attributeName="aptX® Low Latency"
+                  transAttributeName="aptX® Low Latency"
+                  dataType="string"/>
+            <data nodeName="HBass" attributeName="H.Bass" transAttributeName="H.Bass"
+                  dataType="string"/>
+            <data nodeName="LPCMMultiChannelInputHDMIInput"
+                  attributeName="LPCM Multi Channel Input (HDMI Input)"
+                  transAttributeName="LPCM Multi Channel Input (HDMI Input)"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="HIGHQUALITYPICTURE" attributeName="HIGHQUALITYPICTURE"
+                    transAttributeName="HIGH QUALITY PICTURE"
+                    dataType="string">
+            <data nodeName="FULLHD3DCompatible" attributeName="FULL HD 3D Compatible"
+                  transAttributeName="FULL HD 3D Compatible"
+                  dataType="string"/>
+            <data nodeName="1080pOutputxvColourDeepColour"
+                  attributeName="1080p Output (x.v.Colour, Deep Colour)"
+                  transAttributeName="1080p Output (x.v.Colour, Deep Colour)"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="DESIGN" attributeName="DESIGN" transAttributeName="DESIGN"
+                    dataType="string">
+            <data nodeName="Wall-mountable" attributeName="Wall-mountable"
+                  transAttributeName="Wall-mountable"
+                  dataType="string"><![CDATA[yes]]></data>
+         </dataGroup>
+         <dataGroup nodeName="SPEAKERSYSTEM" attributeName="SPEAKERSYSTEM"
+                    transAttributeName="SPEAKER SYSTEM"
+                    dataType="string">
+            <dataGroup nodeName="FRONT" attributeName="FRONT" transAttributeName="FRONT"
+                       dataType="string">
+               <data nodeName="Configuration" attributeName="Configuration"
+                     transAttributeName="Configuration"
+                     dataType="string"><![CDATA[1-way 1 speaker system]]></data>
+               <data nodeName="SpeakerUnit" attributeName="Speaker Unit"
+                     transAttributeName="Speaker Unit"
+                     dataType="string"><![CDATA[Full Range: 8cm x 2 Cone Type]]></data>
+            </dataGroup>
+            <dataGroup nodeName="CENTURE" attributeName="CENTURE" transAttributeName="CENTURE"
+                       dataType="string">
+               <data nodeName="Configuration" attributeName="Configuration"
+                     transAttributeName="Configuration"
+                     dataType="string"/>
+               <data nodeName="SpeakerUnit" attributeName="Speaker Unit"
+                     transAttributeName="Speaker Unit"
+                     dataType="string"/>
+            </dataGroup>
+            <dataGroup nodeName="SURROUND" attributeName="SURROUND" transAttributeName="SURROUND"
+                       dataType="string">
+               <data nodeName="Configuration" attributeName="Configuration"
+                     transAttributeName="Configuration"
+                     dataType="string"/>
+               <data nodeName="SpeakerUnit" attributeName="Speaker Unit"
+                     transAttributeName="Speaker Unit"
+                     dataType="string"/>
+            </dataGroup>
+            <dataGroup nodeName="SUBWOOFER" attributeName="SUBWOOFER" transAttributeName="SUBWOOFER"
+                       dataType="string">
+               <data nodeName="Configuration" attributeName="Configuration"
+                     transAttributeName="Configuration"
+                     dataType="string"><![CDATA[ 1-way 1 speaker, Bass-reflex]]></data>
+               <data nodeName="SpeakerUnit" attributeName="Speaker Unit"
+                     transAttributeName="Speaker Unit"
+                     dataType="string"><![CDATA[Woofer: 16 cm Cone Type]]></data>
+            </dataGroup>
+         </dataGroup>
+         <dataGroup nodeName="TERMINAL" attributeName="TERMINAL" transAttributeName="TERMINAL"
+                    dataType="string">
+            <data nodeName="HDMIOutput" attributeName="HDMI Output"
+                  transAttributeName="HDMI Output"
+                  dataType="string"/>
+            <data nodeName="HDMIInput" attributeName="HDMI Input" transAttributeName="HDMI Input"
+                  dataType="string"/>
+            <data nodeName="OpticalDigitalAudioInput" attributeName="Optical Digital Audio Input"
+                  transAttributeName="Optical Digital Audio Input"
+                  dataType="string"><![CDATA[yes (TV)]]></data>
+            <dataGroup nodeName="AnalogueAudioInputAUX" attributeName="AnalogueAudioInputAUX"
+                       transAttributeName="Analogue Audio Input (AUX)"
+                       dataType="string">
+               <data nodeName="PinJack" attributeName="Pin Jack" transAttributeName="Pin Jack"
+                     dataType="string"><![CDATA[yes (BD/ DVD)]]></data>
+            </dataGroup>
+         </dataGroup>
+         <dataGroup nodeName="OTHERS" attributeName="OTHERS" transAttributeName="OTHERS"
+                    dataType="string">
+            <data nodeName="PowerSupply" attributeName="Power Supply"
+                  transAttributeName="Power Supply"
+                  dataType="string"><![CDATA[AC 220-240V, 50Hz]]></data>
+            <dataGroup nodeName="PowerConsumption-Front" attributeName="PowerConsumption-Front"
+                       transAttributeName="Power Consumption - Front"
+                       dataType="string">
+               <data nodeName="NormalUse" attributeName="Normal Use" transAttributeName="Normal Use"
+                     dataType="string"><![CDATA[35W]]></data>
+               <data nodeName="StandbyBluetoothstandbyoff"
+                     attributeName="Standby (Bluetooth standby off)"
+                     transAttributeName="Standby (Bluetooth standby off)"
+                     dataType="string"><![CDATA[0.5W]]></data>
+            </dataGroup>
+            <dataGroup nodeName="PowerConsumption-Subwoofer"
+                       attributeName="PowerConsumption-Subwoofer"
+                       transAttributeName="Power Consumption - Subwoofer"
+                       dataType="string">
+               <data nodeName="NormalUse" attributeName="Normal Use" transAttributeName="Normal Use"
+                     dataType="string"/>
+               <data nodeName="StandbyPowerswitchoff" attributeName="Standby (Power switch off)"
+                     transAttributeName="Standby (Power switch off)"
+                     dataType="string"/>
+            </dataGroup>
+            <data nodeName="Display" attributeName="Display" transAttributeName="Display"
+                  dataType="string"><![CDATA[LED]]></data>
+            <data nodeName="RemoteControl" attributeName="Remote Control"
+                  transAttributeName="Remote Control"
+                  dataType="string"><![CDATA[yes]]></data>
+         </dataGroup>
+         <dataGroup nodeName="DIMENSIONSWEIGHT" attributeName="DIMENSIONSWEIGHT"
+                    transAttributeName="DIMENSIONS, WEIGHT"
+                    dataType="string">
+            <dataGroup nodeName="FrontSpeaker" attributeName="FrontSpeaker"
+                       transAttributeName="Front Speaker"
+                       dataType="string">
+               <data nodeName="DimensionsWxHxD" attributeName="Dimensions (W x H x D)"
+                     transAttributeName="Dimensions (W x H x D)"
+                     dataType="string"><![CDATA[750 x 65.5 x 118 mm]]></data>
+               <data nodeName="Weight" attributeName="Weight" transAttributeName="Weight"
+                     dataType="string"><![CDATA[2.3 kg]]></data>
+            </dataGroup>
+            <dataGroup nodeName="Subwoofer" attributeName="Subwoofer" transAttributeName="Subwoofer"
+                       dataType="string">
+               <data nodeName="DimensionsWxHxD" attributeName="Dimensions (W x H x D)"
+                     transAttributeName="Dimensions (W x H x D)"
+                     dataType="string"><![CDATA[156 x 290 x 263 mm]]></data>
+               <data nodeName="Weight" attributeName="Weight" transAttributeName="Weight"
+                     dataType="string"><![CDATA[3.0 kg]]></data>
+            </dataGroup>
+         </dataGroup>
+         <data nodeName="NOTE" attributeName="NOTE" transAttributeName="NOTE"
+               dataType="string"><![CDATA[*1 Party Mode; playing a single sound source simultaneously through multiple speakers. The maximum number of speakers is limited (Under study).]]></data>
+         <data nodeName="NOTE_0" attributeName="NOTE" transAttributeName="NOTE"
+               dataType="string"><![CDATA[*2 Multi Zone; playing each of multiple songs within the same network to separate speakers. The maximum number of sound sources is limited (Under study).]]></data>
+         <data nodeName="NOTE_1" attributeName="NOTE" transAttributeName="NOTE"
+               dataType="string"><![CDATA[When using a subscription service, this function depends on the conditions of the service provider (Under study).]]></data>
+         <data nodeName="NOTE_2" attributeName="NOTE" transAttributeName="NOTE"
+               dataType="string"><![CDATA[*3 Download on the App Store. Download on Google Play™.]]></data>
+         <data nodeName="NOTE_3" attributeName="NOTE" transAttributeName="NOTE"
+               dataType="string"><![CDATA[*4 To use NFC without downloading App, an OS Version 4.1 or later AndroidTM device is required. The installation of the Panasonic Music Streaming App allows use of an Android smartphone or tablet with the NFC function and OS Version 4.1 or earlier.]]></data>
+         <data nodeName="NOTE_4" attributeName="NOTE" transAttributeName="NOTE"
+               dataType="string"><![CDATA[*5 ARC compatible TV is required.]]></data>
+         <data nodeName="NOTE_5" attributeName="NOTE" transAttributeName="NOTE"
+               dataType="string"><![CDATA[*6 The other connected devices have to be turned off. Standby (Bluetooth standby on) power consumption approximately 3.0W.]]></data>
+         <data nodeName="NOTE_6" attributeName="NOTE" transAttributeName="NOTE"
+               dataType="string"><![CDATA[*7 Standby (Wireless Link is not activated) power consumption approximately 1.3W.]]></data>
+         <data nodeName="NOTE_7" attributeName="NOTE" transAttributeName="NOTE"
+               dataType="string"><![CDATA[Specifications are subject to change without notice. All numbers given here are approximate.]]></data>
+         <data nodeName="TRADEMARKNOTICE" attributeName="TRADEMARK NOTICE"
+               transAttributeName="TRADEMARK NOTICE"
+               dataType="string"><![CDATA[Dolby, Pro Logic, and the double-D symbol are trademarks of Dolby Laboratories.]]></data>
+         <data nodeName="TRADEMARKNOTICE_0" attributeName="TRADEMARK NOTICE"
+               transAttributeName="TRADEMARK NOTICE"
+               dataType="string"><![CDATA[For DTS patents, see http://patents.dts.com. Manufactured under license from DTS Licensing Limited. DTS, the Symbol, & DTS and the Symbol together are registered trademarks,]]></data>
+         <data nodeName="TRADEMARKNOTICE_1" attributeName="TRADEMARK NOTICE"
+               transAttributeName="TRADEMARK NOTICE"
+               dataType="string"><![CDATA[and DTS Digital Surround is a trademark of DTS, Inc. © DTS, Inc. All Rights Reserved.]]></data>
+         <data nodeName="TRADEMARKNOTICE_2" attributeName="TRADEMARK NOTICE"
+               transAttributeName="TRADEMARK NOTICE"
+               dataType="string"><![CDATA[The Bluetooth® word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Panasonic Corporation is under license. Other trademarks and trade names are those of their respective owners.]]></data>
+         <data nodeName="TRADEMARKNOTICE_3" attributeName="TRADEMARK NOTICE"
+               transAttributeName="TRADEMARK NOTICE"
+               dataType="string"><![CDATA[Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.]]></data>
+         <data nodeName="TRADEMARKNOTICE_4" attributeName="TRADEMARK NOTICE"
+               transAttributeName="TRADEMARK NOTICE"
+               dataType="string"><![CDATA["Google Play" and "Android" are trademarks of Google Inc.]]></data>
+         <data nodeName="TRADEMARKNOTICE_5" attributeName="TRADEMARK NOTICE"
+               transAttributeName="TRADEMARK NOTICE"
+               dataType="string"><![CDATA[aptX® software is copyright CSR plc or its group companies. All rights reserved. The aptX® mark and the aptX logo are trademarks of CSR plc or one of its group companies and may be registered in one or more jurisdictions.]]></data>
+         <data nodeName="TRADEMARKNOTICE_6" attributeName="TRADEMARK NOTICE"
+               transAttributeName="TRADEMARK NOTICE"
+               dataType="string"><![CDATA[The terms HDMI and HDMI High-Definition Multimedia Interface, and the HDMI Logo are trademarks or registered trademarks of HDMI Licensing, LLC in the United States and other countries.]]></data>
+         <data nodeName="TRADEMARKNOTICE_7" attributeName="TRADEMARK NOTICE"
+               transAttributeName="TRADEMARK NOTICE"
+               dataType="string"><![CDATA[The N-Mark is a trademark or registered trademark of NFC Forum, Inc. in the United States and in other countries.]]></data>
+         <data nodeName="TRADEMARKNOTICE_8" attributeName="TRADEMARK NOTICE"
+               transAttributeName="TRADEMARK NOTICE"
+               dataType="string"><![CDATA[Qualcomm is a trademark of Qualcomm Incorporated, registered in the United States and other countries. Used with permission.]]></data>
+         <data nodeName="TRADEMARKNOTICE_9" attributeName="TRADEMARK NOTICE"
+               transAttributeName="TRADEMARK NOTICE"
+               dataType="string"><![CDATA[AllPlay is a trademark of Qualcomm Connected Experiences, Inc., registered in the United States and other counties. Used with permission.]]></data>
+      </dataGroup>
+   </ItemContent>
+</ItemContents>

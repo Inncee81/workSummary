@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <script src="https://cdn.bootcss.com/x2js/1.2.0/xml2json.js"></script>
+    <script src="js/jquery-1.11.0.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/jquery.table2excel.js" type="text/javascript" charset="utf-8"></script>
+</head>
+
+<body>
+    <div id="readfile">
+        <input type="file" @change="readFile">
+        <div> SMN:</div>
+        <table v-if="bol" class="table1" border="1">
+            <tr>
+                <td>SMN</td>
+                <td>UMN</td>
+                <td>Feature ID (XML)</td>
+            </tr>
+            <tr>
+                <td>{{data_con.smn}}</td>
+                <td>{{data_con.umn[0]}}</td>
+                <td>{{data_con.FactorID[0]}}</td>
+            </tr>
+            <tr v-for="(item,index) in data_con.FactorID">
+                <td></td>
+                <td>{{data_con.umn[index+1]}}</td>
+                <td>{{data_con.FactorID[index+1]}}</td>
+            </tr>
+        </table>
+        <button id="btn1">导出Excel</button>
+    </div>
+    <script>
+        new Vue({
+            el: '#readfile',
+            data: {
+                json1:[],
+                json2:[],
+                bol:false,
+                data_con:{
+                    smn:'',
+                    umn:[],
+                    FactorID:[]
+                }
+            },
+            methods: {
+                readFile: function(obj) {
+                    var file = obj.target.files[0];
+                    var reader = new FileReader();
+                    var _this = this
+                    reader.onload = function(ev) {
+                        var datas = ev.target.result
+                        var x2js = new X2JS();
+                        var jsonObj = x2js.xml_str2json(datas);
+                        // console.log(jsonObj.ItemContents.ItemContent.dataGroup)
+                        _this.json1 = jsonObj.ItemContents.ItemContent.data;
+                        _this.json2 = jsonObj.ItemContents.ItemContent.dataGroup
+                        let content1 = _this.json1;
+                        let content2 = _this.json2;
+                        for(var i = 0,len1 = content1.length;i < len1;i++){
+                            if(content1[i]._nodeName == 'ShortModelNumber'){
+                                _this.data_con.smn = content1[i].__cdata
+                            }
+                        }
+                        for(var j = 0,len2 = content2.length;j < len2;j++){
+                            if(content2[j]._nodeName == 'Features'){
+                                for(var l = 0,len3 = content2[j].dataGroup.length;l < len3;l++){
+                                    for(var p = 0,len6 = content2[j].dataGroup[l].data.length;p < len6;p++){
+                                        if(content2[j].dataGroup[l].data[p]._nodeName.slice(0,8) == 'FactorID'){
+                                            if(content2[j].dataGroup[l].data[p].__cdata){
+                                                _this.data_con.FactorID.push(content2[j].dataGroup[l].data[p].__cdata)
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                        for(var m = 0,len4 = content2.length;m < len4;m++){
+                            if(content2[m]._nodeName == 'Variation'){
+                                for(var n = 0,len5 = content2[m].data.length;n < len5;n++){
+                                    if(content2[m].data[n]._nodeName.slice(0,12) == 'VariationUMN'){
+                                        if(content2[m].data[n].__cdata){
+                                            _this.data_con.umn.push(content2[m].data[n].__cdata)
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    reader.readAsBinaryString(file);
+                    _this.bol = true;
+                }
+            }
+        })
+    </script>
+    <script type="text/javascript">
+        $("#btn1").click(function(){
+          $(".table1").table2excel({
+            exclude: "", 
+            name: "Excel Document Name",
+            filename: "tables1",
+            exclude_img: true,
+            exclude_links: false,
+            exclude_inputs: true
+          });
+        })
+      </script>
+</body>
+</html>

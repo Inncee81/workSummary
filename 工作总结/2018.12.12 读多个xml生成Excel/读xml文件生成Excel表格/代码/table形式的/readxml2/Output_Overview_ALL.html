@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <script src="https://cdn.bootcss.com/x2js/1.2.0/xml2json.js"></script>
+    <script src="js/jquery-1.11.0.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/jquery.table2excel.js" type="text/javascript" charset="utf-8"></script>
+</head>
+
+<body>
+    <div id="readfile">
+        <input type="file" @change="readFile" multiple="multiple">
+        <div> SMN:</div>
+        <button id="btn1">导出Excel</button>
+        <table class="table" border="1">
+            <tr>
+                <td>SMN</td>
+                <td>UMN</td>
+                <td>Display Model Number</td>
+                <td>DAM IDs (Manual))</td>
+                <td>HMX ID</td>
+                <td>Image File Names</td>
+                <td>Video URL</td>
+                <td>Image Asset ID</td>
+                <td>Video Asset ID </td>
+                <td>HTML File Asset ID</td>
+            </tr>
+            <template v-for="(item, index) in xmlArr">
+                <tr>
+                    <td>{{item.smn}}</td>
+                    <td>{{item.umn[0]}}</td>
+                    <td>{{item.DisplayModelNumber}}</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr v-for="(items,index_) in item.umn">
+                    <td></td>
+                    <td>{{item.umn[index_ + 1]}}</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </template>
+        </table>
+    </div>
+    <script>
+        new Vue({
+            el: '#readfile',
+            data: {
+                newXml: {
+                    smn: '',
+                    umn: [],
+                    DisplayModelNumber:''
+                },
+                xmlArr: []
+            },
+            methods: {
+                readFile: function(obj) {
+                    for (var fileI = 0; fileI < obj.target.files.length; fileI++) {
+                        var file = obj.target.files[fileI];
+                        var reader = new FileReader();
+                        var _this = this
+                        reader.onload = function(ev) {
+                            _this.newXml = {
+                                smn: '',
+                                umn: [],
+                                DisplayModelNumber:''
+                            };
+                            var datas = ev.target.result
+                            var parser = new DOMParser();
+                            var xmlDocument = parser.parseFromString(datas, "text/xml");
+                            var nodes = xmlDocument.getElementsByTagName("data")
+                            for (let i = 0; i < nodes.length; i++) {
+                                if(nodes[i].attributes.nodeName.value == 'ShortModelNumber'){
+                                    _this.newXml.smn = nodes[i].textContent
+                                }else if(nodes[i].attributes.nodeName.value.slice(0,12) == 'VariationUMN'){
+                                    if(nodes[i].textContent){
+                                        _this.newXml.umn.push(nodes[i].textContent)
+                                    }
+                                }else if(nodes[i].attributes.nodeName.value == 'DisplayModelNumber'){
+                                    if(nodes[i].textContent){
+                                        _this.newXml.DisplayModelNumber = nodes[i].textContent
+                                    }
+                                }
+                            }
+                            _this.xmlArr.push(_this.newXml)
+                        }
+                        reader.readAsBinaryString(file);
+                    }
+                }
+            }
+
+        })
+    </script>
+    <script type="text/javascript">
+        $("#btn1").click(function(){
+          $(".table").table2excel({
+            exclude: "", 
+            name: "Excel Document Name",
+            filename: "tables1",
+            exclude_img: true,
+            exclude_links: false,
+            exclude_inputs: true
+          });
+        })
+      </script>
+</body>
+</html>

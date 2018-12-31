@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemContents>
+   <ItemContent nodeName="ItemContent">
+      <data nodeName="ShortModelNumber" attributeName="Short Model Number"
+            transAttributeName="Short Model Number"
+            dataType="string"><![CDATA[RP-TCM55E]]></data>
+      <data nodeName="UnifiedModelNumber" attributeName="Unified Model Number"
+            transAttributeName="Unified Model Number"
+            dataType="string"><![CDATA[RP-TCM55E-K]]></data>
+      <data nodeName="catalogName" attributeName="catalogName"
+            transAttributeName="catalogName"
+            dataType="string"><![CDATA[AV Accessory]]></data>
+      <dataGroup nodeName="Category" attributeName="Category" transAttributeName="Category"
+                 dataType="string">
+         <data nodeName="CategoryTree1" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[AV Accessory]]></data>
+         <data nodeName="CategoryTree2" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[PIERS]]></data>
+         <data nodeName="CategoryTree3" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[G_Headphone]]></data>
+         <data nodeName="CategoryTree4" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[G_Headphones_2017]]></data>
+         <data nodeName="CategoryTree5" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[RP-TCM55]]></data>
+      </dataGroup>
+      <dataGroup nodeName="GeneralData" attributeName="GeneralData"
+                 transAttributeName="GeneralData"
+                 dataType="string">
+         <data nodeName="BrandName" attributeName="Brand Name" transAttributeName="Brand Name"
+               dataType="string"><![CDATA[Panasonic]]></data>
+         <data nodeName="ProductType" attributeName="Product Type"
+               transAttributeName="Product Type"
+               dataType="string"><![CDATA[Main Unit]]></data>
+         <data nodeName="NumberofDaysNew" attributeName="Number of Days New"
+               transAttributeName="Number of Days New"
+               dataType="number"><![CDATA[90]]></data>
+         <dataGroup nodeName="SalesRegion" attributeName="Sales Region"
+                    transAttributeName="Sales Region"
+                    dataType="string">
+            <data nodeName="locale" attributeName="locale" transAttributeName="locale"
+                  dataType="string"><![CDATA[it_it]]></data>
+         </dataGroup>
+         <dataGroup nodeName="Dates" attributeName="Dates" transAttributeName="Dates"
+                    dataType="string">
+            <data nodeName="WebPublishingDate" attributeName="Web Publishing Date"
+                  transAttributeName="Web Publishing Date"
+                  dataType="date"><![CDATA[2018-04-01T00:00:00.0Z]]></data>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="MarketingDescription" attributeName="MarketingDescription"
+                 transAttributeName="MarketingDescription"
+                 dataType="string">
+         <data nodeName="ModelName" attributeName="Model Name" transAttributeName="Model Name"
+               dataType="string"><![CDATA[Cuffia]]></data>
+         <dataGroup nodeName="ShortDescriptions" attributeName="ShortDescriptions"
+                    transAttributeName="ShortDescriptions"
+                    dataType="string">
+            <data nodeName="ShortDescription" attributeName="Short Description"
+                  transAttributeName="Short Description"
+                  dataType="string"><![CDATA[Interno alle cuffie]]></data>
+         </dataGroup>
+         <dataGroup nodeName="SalesArguments" attributeName="SalesArguments"
+                    transAttributeName="SalesArguments"
+                    dataType="string">
+            <data nodeName="SalesArgument" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"><![CDATA[Unità driver da 14,3 mm: magnete al neodimio per bassi potenti]]></data>
+            <data nodeName="SalesArgument_0" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"><![CDATA[10 Hz - 24 kHz: risposta in frequenza]]></data>
+            <data nodeName="SalesArgument_1" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"><![CDATA[Compatibili con smartphone: microfono e controllo remoto]]></data>
+         </dataGroup>
+         <dataGroup nodeName="LongDescription" attributeName="LongDescription"
+                    transAttributeName="LongDescription"
+                    dataType="string">
+            <data nodeName="Heading" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"><![CDATA[Suono chiaro dei bassi e comodità garantita]]></data>
+            <data nodeName="Paragraph" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"><![CDATA[L’innovativo design Bass Boost permette agli auricolari TCM55 di aderire comodamente alle orecchie, per fare in modo che venga riprodotto un suono chiaro dai bassi potenti.]]></data>
+            <data nodeName="Heading_0" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"><![CDATA[Compatibili con smartphone]]></data>
+            <data nodeName="Paragraph_0" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"><![CDATA[Gli auricolari TCM55 sono dotati di microfono e controllo remoto, compatibili con dispositivi iPhone, BlackBerry® e Android™. Oltre a essere perfetti per ascoltare la musica con lo smartphone, consentono anche di utilizzare i microfoni per le conversazioni telefoniche.
+
+・Esclusi i dispositivi Nokia e ZTE (OMTP).
+*iPhone è un marchio di Apple Inc., registrato negli Stati Uniti e in altri paesi.
+*BlackBerry è un marchio di proprietà di Research In Motion Limited registrato negli Stati Uniti e potrebbe essere registrato o in attesa di registrazione anche in altri Paesi. Panasonic non è approvata, sponsorizzata, affiliata o diversamente autorizzata da Research In Motion Limited.
+*Android è un marchio di Google Inc.
+*Nokia è un marchio o marchio registrato di Nokia Corporation.
+*ZTE è un marchio registrato di ZTE Corporation.]]></data>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="DigitalAssets" attributeName="DigitalAssets"
+                 transAttributeName="DigitalAssets"
+                 dataType="string">
+         <dataGroup nodeName="Images" attributeName="Images" transAttributeName="Images"
+                    dataType="string">
+            <dataGroup nodeName="HiRes-Image" attributeName="HiRes-Image"
+                       transAttributeName="HiRes-Image"
+                       dataType="string">
+               <data nodeName="Image" attributeName="Image" transAttributeName="Image"
+                     dataType="file"><![CDATA[RP-TCM55E-HiRes-Image__Image--1Europe-1_it_it.jpg]]></data>
+            </dataGroup>
+            <dataGroup nodeName="AdditionalWebImage" attributeName="AdditionalWebImage"
+                       transAttributeName="AdditionalWebImage"
+                       dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="Overview" attributeName="Overview" transAttributeName="Overview"
+                 dataType="string">
+         <data nodeName="OverviewTemplateSelector" attributeName="Overview Template Selector"
+               transAttributeName="Overview Template Selector"
+               dataType="string"><![CDATA[LEFT]]></data>
+         <data nodeName="DisplayModelNumber" attributeName="Display Model Number"
+               transAttributeName="Display Model Number"
+               dataType="string"><![CDATA[sbu-2018_tcm55_1-1]]></data>
+         <data nodeName="FullProductName" attributeName="Full Product Name"
+               transAttributeName="Full Product Name"
+               dataType="string"><![CDATA[Auricolari interni tradizionali RP-TCM55]]></data>
+         <data nodeName="ModelNumber" attributeName="Model Number"
+               transAttributeName="Model Number"
+               dataType="string"><![CDATA[RP-TCM55]]></data>
+         <data nodeName="DescriptionForSeeAll" attributeName="Description For See All"
+               transAttributeName="Description For See All"
+               dataType="string"><![CDATA[Auricolari dotati di microfono in linea per un utilizzo semplificato con lo smartphone, mentre l’innovativo sistema Bass Boost aiuta a riprodurre bassi più potenti.]]></data>
+         <data nodeName="ProductMainPicture" attributeName="Product Main Picture"
+               transAttributeName="Product Main Picture"
+               dataType="file"><![CDATA[RP-TCM50E-K-Product_Main_Picture_it_it.jpg]]></data>
+         <data nodeName="ProductMainImageCopyRights"
+               attributeName="Product Main Image Copy Rights"
+               transAttributeName="Product Main Image Copy Rights"
+               dataType="flag"/>
+         <data nodeName="ProductMainImageExpireDate"
+               attributeName="Product Main Image Expire Date"
+               transAttributeName="Product Main Image Expire Date"
+               dataType="date"/>
+         <data nodeName="ProductLogoImage" attributeName="Product Logo Image"
+               transAttributeName="Product Logo Image"
+               dataType="file"/>
+         <data nodeName="PromotionLogoImage" attributeName="Promotion Logo Image"
+               transAttributeName="Promotion Logo Image"
+               dataType="file"/>
+         <data nodeName="SubBrandLogoImage" attributeName="Sub Brand Logo Image"
+               transAttributeName="Sub Brand Logo Image"
+               dataType="file"/>
+         <data nodeName="KeyCopy" attributeName="Key Copy" transAttributeName="Key Copy"
+               dataType="string"><![CDATA[Design Bass Boost per bassi potenti]]></data>
+         <data nodeName="SubCopy" attributeName="Sub Copy" transAttributeName="Sub Copy"
+               dataType="string"><![CDATA[Auricolari dotati di microfono in linea per un utilizzo semplificato con lo smartphone, mentre l’innovativo sistema Bass Boost aiuta a riprodurre bassi più potenti.]]></data>
+         <data nodeName="SalesDateForTopPage" attributeName="Sales Date For Top Page"
+               transAttributeName="Sales Date For Top Page"
+               dataType="string"/>
+         <data nodeName="Annotation" attributeName="Annotation"
+               transAttributeName="Annotation"
+               dataType="string"/>
+         <data nodeName="MicrositeBannerImage" attributeName="Microsite Banner Image"
+               transAttributeName="Microsite Banner Image"
+               dataType="file"/>
+         <data nodeName="MicrositeBannerImageURL" attributeName="Microsite Banner Image URL"
+               transAttributeName="Microsite Banner Image URL"
+               dataType="string"/>
+      </dataGroup>
+      <dataGroup nodeName="Features" attributeName="Features" transAttributeName="Features"
+                 dataType="string">
+         <data nodeName="NumberOfFeatures" attributeName="Number Of Features"
+               transAttributeName="Number Of Features"
+               dataType="number"><![CDATA[1]]></data>
+         <dataGroup nodeName="Feature1" attributeName="Feature 1" transAttributeName="Feature 1"
+                    dataType="string">
+            <data nodeName="FactorName1-1" attributeName="Factor Name 1-1"
+                  transAttributeName="Factor Name 1-1"
+                  dataType="string"><![CDATA[Design Bass Boost]]></data>
+            <data nodeName="FactorID1-1" attributeName="Factor ID 1-1"
+                  transAttributeName="Factor ID 1-1"
+                  dataType="string"><![CDATA[sbu-2018-tcm55-2-1-1]]></data>
+            <data nodeName="FactorName1-2" attributeName="Factor Name 1-2"
+                  transAttributeName="Factor Name 1-2"
+                  dataType="string"><![CDATA[Microfono e telecomando]]></data>
+            <data nodeName="FactorID1-2" attributeName="Factor ID 1-2"
+                  transAttributeName="Factor ID 1-2"
+                  dataType="string"><![CDATA[sbu-2018-tcm55-2-1-2]]></data>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="GetInspired" attributeName="Get Inspired"
+                 transAttributeName="Get Inspired"
+                 dataType="string">
+         <data nodeName="GetInspiredTemplateSelector"
+               attributeName="Get Inspired Template Selector"
+               transAttributeName="Get Inspired Template Selector"
+               dataType="string"/>
+      </dataGroup>
+      <dataGroup nodeName="Accessory" attributeName="Accessory" transAttributeName="Accessory"
+                 dataType="string">
+         <dataGroup nodeName="AccessoryCategory" attributeName="AccessoryCategory"
+                    transAttributeName="AccessoryCategory"
+                    dataType="string">
+            <data nodeName="AccessoryTemplateSelector"
+                  attributeName="Accessory Template Selector"
+                  transAttributeName="Accessory Template Selector"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="AccessoryItems" attributeName="AccessoryItems"
+                    transAttributeName="AccessoryItems"
+                    dataType="string"/>
+      </dataGroup>
+      <dataGroup nodeName="KeyTechnicalFeature" attributeName="KeyTechnicalFeature"
+                 transAttributeName="KeyTechnicalFeature"
+                 dataType="string">
+         <data nodeName="TechnicalFeatureTemplateSelector"
+               attributeName="Technical Feature Template Selector"
+               transAttributeName="Technical Feature Template Selector"
+               dataType="string"><![CDATA[LEFT]]></data>
+         <data nodeName="ProductImage" attributeName="Product Image"
+               transAttributeName="Product Image"
+               dataType="file"><![CDATA[RP-TCM50E-K-Product_Image-1_it_it.png]]></data>
+         <data nodeName="ProductThumbnail" attributeName="Product Thumbnail"
+               transAttributeName="Product Thumbnail"
+               dataType="file"/>
+         <data nodeName="CopyText" attributeName="Copy Text" transAttributeName="Copy Text"
+               dataType="string"/>
+         <data nodeName="KeySpecs1" attributeName="Key Specs 1"
+               transAttributeName="Key Specs 1"
+               dataType="string"><![CDATA[Unità driver da 14,3 mm]]></data>
+         <data nodeName="KeySpecsValue1" attributeName="Key Specs Value 1"
+               transAttributeName="Key Specs Value 1"
+               dataType="string"><![CDATA[Magnete al neodimio per bassi potenti]]></data>
+         <data nodeName="KeySpecs2" attributeName="Key Specs 2"
+               transAttributeName="Key Specs 2"
+               dataType="string"><![CDATA[10 Hz - 24 kHz]]></data>
+         <data nodeName="KeySpecsValue2" attributeName="Key Specs Value 2"
+               transAttributeName="Key Specs Value 2"
+               dataType="string"><![CDATA[Risposta in frequenza]]></data>
+         <data nodeName="KeySpecs3" attributeName="Key Specs 3"
+               transAttributeName="Key Specs 3"
+               dataType="string"><![CDATA[Compatibili con smartphone]]></data>
+         <data nodeName="KeySpecsValue3" attributeName="Key Specs Value 3"
+               transAttributeName="Key Specs Value 3"
+               dataType="string"><![CDATA[Microfono e telecomando]]></data>
+         <dataGroup nodeName="TechnicalIcons" attributeName="TechnicalIcons"
+                    transAttributeName="TechnicalIcons"
+                    dataType="string">
+            <data nodeName="TechnicalIcons1" attributeName="Technical Icons 1"
+                  transAttributeName="Technical Icons 1"
+                  dataType="file"><![CDATA[RP-TCM50E-K-Technical_Icons_1-1_it_it.gif]]></data>
+            <data nodeName="TechnicalIconsText1" attributeName="Technical Icons Text 1"
+                  transAttributeName="Technical Icons Text 1"
+                  dataType="string"><![CDATA[Magnete al neodimio]]></data>
+            <data nodeName="TechnicalIconsURL1" attributeName="Technical Icons URL 1"
+                  transAttributeName="Technical Icons URL 1"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons2" attributeName="Technical Icons 2"
+                  transAttributeName="Technical Icons 2"
+                  dataType="file"><![CDATA[RP-TCM50E-K-Technical_Icons_2-1_it_it.gif]]></data>
+            <data nodeName="TechnicalIconsText2" attributeName="Technical Icons Text 2"
+                  transAttributeName="Technical Icons Text 2"
+                  dataType="string"><![CDATA[Microfono]]></data>
+            <data nodeName="TechnicalIconsURL2" attributeName="Technical Icons URL 2"
+                  transAttributeName="Technical Icons URL 2"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons3" attributeName="Technical Icons 3"
+                  transAttributeName="Technical Icons 3"
+                  dataType="file"><![CDATA[RP-TCM50E-K-Technical_Icons_3-1_it_it.gif]]></data>
+            <data nodeName="TechnicalIconsText3" attributeName="Technical Icons Text 3"
+                  transAttributeName="Technical Icons Text 3"
+                  dataType="string"><![CDATA[Vivavoce]]></data>
+            <data nodeName="TechnicalIconsURL3" attributeName="Technical Icons URL 3"
+                  transAttributeName="Technical Icons URL 3"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons4" attributeName="Technical Icons 4"
+                  transAttributeName="Technical Icons 4"
+                  dataType="file"><![CDATA[RP-TCM50E-K-Technical_Icons_4-1_it_it.gif]]></data>
+            <data nodeName="TechnicalIconsText4" attributeName="Technical Icons Text 4"
+                  transAttributeName="Technical Icons Text 4"
+                  dataType="string"><![CDATA[Cavo da 1,2 m]]></data>
+            <data nodeName="TechnicalIconsURL4" attributeName="Technical Icons URL 4"
+                  transAttributeName="Technical Icons URL 4"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons5" attributeName="Technical Icons 5"
+                  transAttributeName="Technical Icons 5"
+                  dataType="file"/>
+            <data nodeName="TechnicalIconsText5" attributeName="Technical Icons Text 5"
+                  transAttributeName="Technical Icons Text 5"
+                  dataType="string"><![CDATA[Spinotto stereo da 3,5 mm a 4 poli]]></data>
+            <data nodeName="TechnicalIconsURL5" attributeName="Technical Icons URL 5"
+                  transAttributeName="Technical Icons URL 5"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons6" attributeName="Technical Icons 6"
+                  transAttributeName="Technical Icons 6"
+                  dataType="file"/>
+            <data nodeName="TechnicalIconsText6" attributeName="Technical Icons Text 6"
+                  transAttributeName="Technical Icons Text 6"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL6" attributeName="Technical Icons URL 6"
+                  transAttributeName="Technical Icons URL 6"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons7" attributeName="Technical Icons 7"
+                  transAttributeName="Technical Icons 7"
+                  dataType="file"/>
+            <data nodeName="TechnicalIconsText7" attributeName="Technical Icons Text 7"
+                  transAttributeName="Technical Icons Text 7"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL7" attributeName="Technical Icons URL 7"
+                  transAttributeName="Technical Icons URL 7"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons8" attributeName="Technical Icons 8"
+                  transAttributeName="Technical Icons 8"
+                  dataType="file"/>
+            <data nodeName="TechnicalIconsText8" attributeName="Technical Icons Text 8"
+                  transAttributeName="Technical Icons Text 8"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL8" attributeName="Technical Icons URL 8"
+                  transAttributeName="Technical Icons URL 8"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons9" attributeName="Technical Icons 9"
+                  transAttributeName="Technical Icons 9"
+                  dataType="file"/>
+            <data nodeName="TechnicalIconsText9" attributeName="Technical Icons Text 9"
+                  transAttributeName="Technical Icons Text 9"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL9" attributeName="Technical Icons URL 9"
+                  transAttributeName="Technical Icons URL 9"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons10" attributeName="Technical Icons 10"
+                  transAttributeName="Technical Icons 10"
+                  dataType="file"/>
+            <data nodeName="TechnicalIconsText10" attributeName="Technical Icons Text 10"
+                  transAttributeName="Technical Icons Text 10"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL10" attributeName="Technical Icons URL 10"
+                  transAttributeName="Technical Icons URL 10"
+                  dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="Faceted" attributeName="Faceted" transAttributeName="Faceted"
+                 dataType="string">
+         <dataGroup nodeName="CompareFeature" attributeName="CompareFeature"
+                    transAttributeName="CompareFeature"
+                    dataType="string">
+            <data nodeName="CompareItem1" attributeName="Compare Item 1"
+                  transAttributeName="Compare Item 1"
+                  dataType="string"><![CDATA[Fascia]]></data>
+            <data nodeName="CompareValue1" attributeName="Compare Value 1"
+                  transAttributeName="Compare Value 1"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem2" attributeName="Compare Item 2"
+                  transAttributeName="Compare Item 2"
+                  dataType="string"><![CDATA[Auricolari]]></data>
+            <data nodeName="CompareValue2" attributeName="Compare Value 2"
+                  transAttributeName="Compare Value 2"
+                  dataType="string"><![CDATA[Sì]]></data>
+            <data nodeName="CompareItem3" attributeName="Compare Item 3"
+                  transAttributeName="Compare Item 3"
+                  dataType="string"><![CDATA[Bluetooth®]]></data>
+            <data nodeName="CompareValue3" attributeName="Compare Value 3"
+                  transAttributeName="Compare Value 3"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem4" attributeName="Compare Item 4"
+                  transAttributeName="Compare Item 4"
+                  dataType="string"><![CDATA[Controllo remoto e microfono incorporato]]></data>
+            <data nodeName="CompareValue4" attributeName="Compare Value 4"
+                  transAttributeName="Compare Value 4"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem5" attributeName="Compare Item 5"
+                  transAttributeName="Compare Item 5"
+                  dataType="string"><![CDATA[Eliminazione dei rumori]]></data>
+            <data nodeName="CompareValue5" attributeName="Compare Value 5"
+                  transAttributeName="Compare Value 5"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem6" attributeName="Compare Item 6"
+                  transAttributeName="Compare Item 6"
+                  dataType="string"><![CDATA[Cuffie a conduzione ossea]]></data>
+            <data nodeName="CompareValue6" attributeName="Compare Value 6"
+                  transAttributeName="Compare Value 6"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem7" attributeName="Compare Item 7"
+                  transAttributeName="Compare Item 7"
+                  dataType="string"><![CDATA[Technics]]></data>
+            <data nodeName="CompareValue7" attributeName="Compare Value 7"
+                  transAttributeName="Compare Value 7"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem8" attributeName="Compare Item 8"
+                  transAttributeName="Compare Item 8"
+                  dataType="string"><![CDATA[Cuffie clip type]]></data>
+            <data nodeName="CompareValue8" attributeName="Compare Value 8"
+                  transAttributeName="Compare Value 8"
+                  dataType="string"><![CDATA[No]]></data>
+            <data nodeName="CompareItem9" attributeName="Compare Item 9"
+                  transAttributeName="Compare Item 9"
+                  dataType="string"><![CDATA[Wireless]]></data>
+            <data nodeName="CompareValue9" attributeName="Compare Value 9"
+                  transAttributeName="Compare Value 9"
+                  dataType="string"><![CDATA[No]]></data>
+         </dataGroup>
+         <dataGroup nodeName="FacetedSlider" attributeName="FacetedSlider"
+                    transAttributeName="FacetedSlider"
+                    dataType="string"/>
+         <dataGroup nodeName="FacetedNavigation" attributeName="FacetedNavigation"
+                    transAttributeName="FacetedNavigation"
+                    dataType="string"/>
+      </dataGroup>
+      <dataGroup nodeName="Variation" attributeName="Variation" transAttributeName="Variation"
+                 dataType="string">
+         <data nodeName="VariationName1" attributeName="Variation Name 1"
+               transAttributeName="Variation Name 1"
+               dataType="string"><![CDATA[Color]]></data>
+         <data nodeName="VariationImage1" attributeName="Variation Image 1"
+               transAttributeName="Variation Image 1"
+               dataType="file"><![CDATA[RP-TCM50E-K-Variation_Image_for_See_All_1-1_it_it.png]]></data>
+         <data nodeName="VariationImageforSeeAll1"
+               attributeName="Variation Image for See All 1"
+               transAttributeName="Variation Image for See All 1"
+               dataType="file"><![CDATA[VARIATION_IMAGE_RP-TCM50E-K-Variation_Image_for_See_All_1Global-1_it_it.png]]></data>
+         <data nodeName="VariationIconImage1" attributeName="Variation Icon Image 1"
+               transAttributeName="Variation Icon Image 1"
+               dataType="file"><![CDATA[RP-TCM50E-K-Variation_Icon_Image_1-1_it_it.gif]]></data>
+         <data nodeName="VariationText1" attributeName="Variation Text 1"
+               transAttributeName="Variation Text 1"
+               dataType="string"><![CDATA[Black]]></data>
+         <data nodeName="VariationMeasurementName1"
+               attributeName="Variation Measurement Name 1"
+               transAttributeName="Variation Measurement Name 1"
+               dataType="string"><![CDATA[RP-TCM55E-K]]></data>
+         <data nodeName="VariationUMN1" attributeName="Variation UMN 1"
+               transAttributeName="Variation UMN 1"
+               dataType="string"><![CDATA[RP-TCM55E-K]]></data>
+         <data nodeName="VariationName2" attributeName="Variation Name 2"
+               transAttributeName="Variation Name 2"
+               dataType="string"><![CDATA[Color]]></data>
+         <data nodeName="VariationImage2" attributeName="Variation Image 2"
+               transAttributeName="Variation Image 2"
+               dataType="file"><![CDATA[RP-TCM50E-K-Variation_Image_2-1_it_it.png]]></data>
+         <data nodeName="VariationImageforSeeAll2"
+               attributeName="Variation Image for See All 2"
+               transAttributeName="Variation Image for See All 2"
+               dataType="file"><![CDATA[RP-TCM50E-K-Variation_Image_for_See_All_2-1_it_it.png]]></data>
+         <data nodeName="VariationIconImage2" attributeName="Variation Icon Image 2"
+               transAttributeName="Variation Icon Image 2"
+               dataType="file"><![CDATA[RP-TCM50E-K-Variation_Icon_Image_2-1_it_it.gif]]></data>
+         <data nodeName="VariationText2" attributeName="Variation Text 2"
+               transAttributeName="Variation Text 2"
+               dataType="string"><![CDATA[White]]></data>
+         <data nodeName="VariationMeasurementName2"
+               attributeName="Variation Measurement Name 2"
+               transAttributeName="Variation Measurement Name 2"
+               dataType="string"><![CDATA[RP-TCM55E-W]]></data>
+         <data nodeName="VariationUMN2" attributeName="Variation UMN 2"
+               transAttributeName="Variation UMN 2"
+               dataType="string"><![CDATA[RP-TCM55E-W]]></data>
+      </dataGroup>
+      <dataGroup nodeName="Demo" attributeName="Demo" transAttributeName="Demo"
+                 dataType="string">
+         <dataGroup nodeName="Demo1" attributeName="Demo 1" transAttributeName="Demo 1"
+                    dataType="string">
+            <data nodeName="DemoTitle1" attributeName="Demo Title 1"
+                  transAttributeName="Demo Title 1"
+                  dataType="string"/>
+            <data nodeName="DemoID1" attributeName="Demo ID 1" transAttributeName="Demo ID 1"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="Demo2" attributeName="Demo 2" transAttributeName="Demo 2"
+                    dataType="string">
+            <data nodeName="DemoTitle2" attributeName="Demo Title 2"
+                  transAttributeName="Demo Title 2"
+                  dataType="string"/>
+            <data nodeName="DemoID2" attributeName="Demo ID 2" transAttributeName="Demo ID 2"
+                  dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="Environmental" attributeName="Environmental"
+                 transAttributeName="Environmental"
+                 dataType="string">
+         <dataGroup nodeName="EnergyContents" attributeName="Energy Contents"
+                    transAttributeName="Energy Contents"
+                    dataType="string">
+            <data nodeName="EnergyClassArrow" attributeName="Energy Class Arrow"
+                  transAttributeName="Energy Class Arrow"
+                  dataType="string"/>
+            <data nodeName="EnergyLabel" attributeName="Energy Label"
+                  transAttributeName="Energy Label"
+                  dataType="file"/>
+            <data nodeName="ProductFiche" attributeName="Product Fiche"
+                  transAttributeName="Product Fiche"
+                  dataType="file"/>
+            <data nodeName="Eco-DesignInformation" attributeName="Eco-Design Information"
+                  transAttributeName="Eco-Design Information"
+                  dataType="file"/>
+            <data nodeName="Other" attributeName="Other" transAttributeName="Other"
+                  dataType="file"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="TechnicalFeature" attributeName="TechnicalFeature"
+                 transAttributeName="TechnicalFeature"
+                 dataType="string">
+         <dataGroup nodeName="General" attributeName="General" transAttributeName="Generale"
+                    dataType="string">
+            <data nodeName="SensitivitydBmW" attributeName="Sensitivity (dB/mW)"
+                  transAttributeName="Sensibilità (dB/mW)"
+                  dataType="string"><![CDATA[109 dB/mW]]></data>
+            <data nodeName="DriverUnitmm" attributeName="Driver Unit (mm)"
+                  transAttributeName="Unità driver (mm)"
+                  dataType="string"><![CDATA[14,3 mm]]></data>
+            <data nodeName="FrequencyResponse" attributeName="Frequency Response"
+                  transAttributeName="Risposta in frequenza"
+                  dataType="string"><![CDATA[10 Hz – 24 Hz]]></data>
+            <data nodeName="MagnetType" attributeName="Magnet Type"
+                  transAttributeName="Tipo di magnete"
+                  dataType="string"><![CDATA[Neodimio]]></data>
+            <data nodeName="ControlMic" attributeName="Control/ Mic"
+                  transAttributeName="Controllo/Mic."
+                  dataType="string"><![CDATA[Sì]]></data>
+            <data nodeName="Impedance" attributeName="Impedance (Ω)"
+                  transAttributeName="Impedenza (Ω)"
+                  dataType="string"><![CDATA[26 Ohm]]></data>
+            <data nodeName="CordLengthmft" attributeName="Cord Length (m/ft)"
+                  transAttributeName="Lunghezza cavo (m)"
+                  dataType="string"><![CDATA[1,2 m]]></data>
+            <data nodeName="Weight" attributeName="Weight" transAttributeName="Peso"
+                  dataType="string"><![CDATA[Circa 14 g (con cavo)]]></data>
+            <data nodeName="Miniplug35mm" attributeName="Miniplug (3.5mm)"
+                  transAttributeName="MiniPlug (3,5 mm)"
+                  dataType="string"><![CDATA[Sì]]></data>
+            <data nodeName="PlugNNickelGGold" attributeName="Plug /( N:Nickel. G: Gold)"
+                  transAttributeName="Spinotto / (N: nichelato, G: oro)"
+                  dataType="string"><![CDATA[N]]></data>
+         </dataGroup>
+         <data nodeName="NOTE" attributeName="NOTE" transAttributeName="NOTE"
+               dataType="string"><![CDATA[Le presenti specifiche possono essere soggette a modifiche senza preavviso. Tutte le cifre riportate nelle presenti specifiche sono solo indicative.]]></data>
+      </dataGroup>
+
+   </ItemContent>
+</ItemContents>

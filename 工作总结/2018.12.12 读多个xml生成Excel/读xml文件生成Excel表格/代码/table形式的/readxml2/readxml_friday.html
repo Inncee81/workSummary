@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <script src="https://cdn.bootcss.com/x2js/1.2.0/xml2json.js"></script>
+    <script src="js/jquery-1.11.0.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/jquery.table2excel.js" type="text/javascript" charset="utf-8"></script>
+</head>
+
+<body>
+    <div id="readfile">
+        <input type="file" @change="readFile">
+        <div> SMN:</div>
+        <table v-if="bol" class="table1" border="1">
+            <tr v-if="bol"  v-for="item in json1">
+                <th style="color:red" v-if="item._nodeName == 'ShortModelNumber'">ShortModelNumber</th>
+                <td v-if="item._nodeName == 'ShortModelNumber'">{{ item.__cdata }}</td>
+            </tr>
+            <template v-for="(item,index) in json2">
+                <tr v-if="item._nodeName == 'Features'">
+                    <th style="color:red" v-for="items in item.dataGroup.data" v-if="items._nodeName == 'FactorID1-1'">FactorID1-1</th>
+                    <td v-for="items in item.dataGroup.data" v-if="items._nodeName == 'FactorID1-1'">{{items.__cdata}}</td>
+                </tr>
+            </template>
+        </table>
+        <button id="btn1">导出Excel</button>
+    </div>
+    <script>
+        new Vue({
+            el: '#readfile',
+            data: {
+                json1:[],
+                json2:[],
+                bol:false
+            },
+            methods: {
+                readFile: function(obj) {
+
+                    // console.log(obj)
+                    var file = obj.target.files[0];
+                    var reader = new FileReader();
+                    var _this = this
+                    reader.onload = function(ev) {
+                        //console.log(ev)
+                        var datas = ev.target.result
+                        var x2js = new X2JS();
+                        var jsonObj = x2js.xml_str2json(datas);
+                        // console.log(x2js)
+                        // console.log(x2js.xml2js(data))
+                        console.log(jsonObj)
+                        _this.json1 = jsonObj.ItemContents.ItemContent.data;
+                        _this.json2 = jsonObj.ItemContents.ItemContent.dataGroup
+                    }
+                    reader.readAsBinaryString(file);
+                    _this.bol = true;
+                }
+            }
+
+        })
+    </script>
+    <script type="text/javascript">
+        $("#btn1").click(function(){
+          $(".table1").table2excel({
+            exclude: "", 
+            name: "Excel Document Name",
+            filename: "tables1",
+            exclude_img: true,
+            exclude_links: false,
+            exclude_inputs: true
+          });
+        })
+      </script>
+</body>
+</html>

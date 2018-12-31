@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <script src="https://cdn.bootcss.com/x2js/1.2.0/xml2json.js"></script>
+    <script src="js/jquery-1.11.0.min.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript" src="js/xlsx.core.min.js"></script>
+    <script type="text/javascript" src="js/Blob.js"></script>
+    <script src="js/xlsx.full.min.js"></script>
+</head>
+
+<body>
+    <div id="readfile">
+            <input type="file" @change="readFile" multiple="multiple">
+            <button @click="btn1">导出Excel</button>
+        </div>
+    <script>
+        new Vue({
+            el: '#readfile',
+            data: {
+                newXml: {
+                    smn: '',
+                    umn: [],
+                    AccessoryCategoryID:[]
+                },
+                xmlArr: []
+            },
+            methods: {
+                readFile: function(obj) {
+                    for (var fileI = 0; fileI < obj.target.files.length; fileI++) {
+                        var file = obj.target.files[fileI];
+                        var reader = new FileReader();
+                        var _this = this;
+                        reader.onload = function(ev) {
+                            _this.newXml = {
+                                smn: '',
+                                umn: [],
+                                AccessoryCategoryID:[]
+                            };
+                            var datas = ev.target.result;
+                            var parser = new DOMParser();
+                            var xmlDocument = parser.parseFromString(datas, "text/xml");
+                            var nodes = xmlDocument.getElementsByTagName("data");
+                            for (let i = 0; i < nodes.length; i++) {
+                                if(nodes[i].attributes.nodeName.value == 'ShortModelNumber'){
+                                    _this.newXml.smn = nodes[i].textContent;
+                                }else if(nodes[i].attributes.nodeName.value.slice(0,12) == 'VariationUMN'){
+                                    if(nodes[i].textContent){
+                                        _this.newXml.umn.push(nodes[i].textContent);
+                                    }
+                                }else if(nodes[i].attributes.nodeName.value.slice(0,19) == 'AccessoryCategoryID'){
+                                    if(nodes[i].textContent){
+                                        _this.newXml.AccessoryCategoryID.push(nodes[i].textContent);
+                                    }
+                                }
+                            }
+                            _this.xmlArr.push(_this.newXml);
+                        }
+                        reader.readAsBinaryString(file);
+                    }
+                },
+                btn1:function(){
+                    const saveAs = (obj, fileName)=>{
+                        const a = document.createElement('a');
+                        a.download = fileName || '下载';
+                        a.href = URL.createObjectURL(obj);     
+                        a.click();                           
+                        setTimeout(()=> {                     
+                        URL.revokeObjectURL(obj);     
+                        }, 100);
+                    };
+
+                    const s2ab = s => {
+                        let buf = new ArrayBuffer(s.length);
+                        let view = new Uint8Array(buf);
+                        for (let i = 0; i !== s.length; ++i) view[i] = s.charCodeAt(i) & 0xFF;
+                        return buf;
+                    };
+                    const borderAll = {  //单元格外侧框线
+                        top: {
+                            style: 'thin'
+                        },
+                        bottom: {
+                            style: 'thin'
+                        },
+                        left: {
+                            style: 'thin'
+                        },
+                        right: {
+                            style: 'thin'
+                        }
+                    };
+                    const workbook = {
+                        SheetNames: ['Sheet1'],
+                        Sheets: {
+                            Sheet1: {
+                                '!ref': 'A1:I1000',
+                                '!cols': [{wpx: 165}, {wpx: 165},{wpx: 165}, {wpx: 165}, {wpx: 165}, {wpx: 165}, {wpx: 165}, {wpx: 165}, {wpx: 165}],
+                                '!merges': [{
+                                    s: {c: 0, r: 0},
+                                    e: {c: 8, r: 1}
+                                }],
+                                A1: {
+                                    v: 'Accessory – Tabbed – Output Excel',
+                                    t: 's',
+                                    s: {
+                                        font: {
+                                            sz: 18
+                                        },
+                                        alignment: {
+                                            horizontal: 'left'
+                                        }
+                                    }
+                                },
+                                A3: {
+                                    v: 'SMN',
+                                    t: 's',
+                                    s: {
+                                        border: borderAll,
+                                        alignment: {
+                                            horizontal: 'center'
+                                        },
+                                        fill:{
+                                            fgColor: {
+                                                 rgb: '404040'  
+                                            }
+                                        },
+                                        font: {
+                                            color: {
+                                                rgb: 'ffffff'  //字体颜色
+                                            }
+                                        }
+                                    }
+                                },
+                                B3: {
+                                    v: 'UMN',
+                                    t: 's',
+                                    s: {
+                                        border: borderAll,
+                                        alignment: {
+                                            horizontal: 'center'
+                                        },
+                                        fill:{
+                                            fgColor: {
+                                                 rgb: '404040'  
+                                            }
+                                        },
+                                        font: {
+                                            color: {
+                                                rgb: 'ffffff'  //字体颜色
+                                            }
+                                        }
+                                    }
+                                },
+                                C3: {
+                                    v: 'DAM IDs',
+                                    t: 's',
+                                    s: {
+                                        border: borderAll,
+                                        alignment: {
+                                            horizontal: 'center'
+                                        },
+                                        fill:{
+                                            fgColor: {
+                                                 rgb: '404040'  
+                                            }
+                                        },
+                                        font: {
+                                            color: {
+                                                rgb: 'ffffff'  //字体颜色
+                                            }
+                                        }
+                                    }
+                                },
+                                D3: {
+                                    v: 'Image File Names',
+                                    t: 's',
+                                    s: {
+                                        border: borderAll,
+                                        alignment: {
+                                            horizontal: 'center'
+                                        },
+                                        fill:{
+                                            fgColor: {
+                                                 rgb: '98a91f'  
+                                            }
+                                        },
+                                        font: {
+                                            color: {
+                                                rgb: 'ffffff'  //字体颜色
+                                            }
+                                        }
+                                    }
+                                },
+                                E3:{
+                                    v: 'Newly Creation?',
+                                    t: 's',
+                                    s: {
+                                        border: borderAll,
+                                        alignment: {
+                                            horizontal: 'center'
+                                        },
+                                        fill:{
+                                            fgColor: {
+                                                 rgb: '0070c0'  
+                                            }
+                                        },
+                                        font: {
+                                            color: {
+                                                rgb: 'ffffff'  //字体颜色
+                                            }
+                                        }
+                                    }
+                                },
+                                F3:{
+                                    v: 'Image Asset ID ',
+                                    t: 's',
+                                    s: {
+                                        border: borderAll,
+                                        alignment: {
+                                            horizontal: 'center'
+                                        },
+                                        fill:{
+                                            fgColor: {
+                                                 rgb: '0070c0'  
+                                            }
+                                        },
+                                        font: {
+                                            color: {
+                                                rgb: 'ffffff'  //字体颜色
+                                            }
+                                        }
+                                    }
+                                },
+                                G3:{
+                                    v: 'UMN Names',
+                                    t: 's',
+                                    s: {
+                                        border: borderAll,
+                                        alignment: {
+                                            horizontal: 'center'
+                                        },
+                                        fill:{
+                                            fgColor: {
+                                                 rgb: '404040'  
+                                            }
+                                        },
+                                        font: {
+                                            color: {
+                                                rgb: 'ffffff'  //字体颜色
+                                            }
+                                        }
+                                    }
+                                }
+                                ,
+                                H3:{
+                                    v: 'Feature Object ID',
+                                    t: 's',
+                                    s: {
+                                        border: borderAll,
+                                        alignment: {
+                                            horizontal: 'center'
+                                        },
+                                        fill:{
+                                            fgColor: {
+                                                 rgb: '0070c0'  
+                                            }
+                                        },
+                                        font: {
+                                            color: {
+                                                rgb: 'ffffff'  //字体颜色
+                                            }
+                                        }
+                                    }
+                                }
+                                ,
+                                I3:{
+                                    v: 'Description',
+                                    t: 's',
+                                    s: {
+                                        border: borderAll,
+                                        alignment: {
+                                            horizontal: 'center'
+                                        },
+                                        fill:{
+                                            fgColor: {
+                                                 rgb: '404040'  
+                                            }
+                                        },
+                                        font: {
+                                            color: {
+                                                rgb: 'ffffff'  //字体颜色
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    };
+                    var fac_ = [];
+                    for(var i = 0,len = this.xmlArr.length;i < len;i++){
+                        workbook.Sheets.Sheet1[`A${fac_.length+4}`] = push_json(this.xmlArr[i].smn);
+                        if(this.xmlArr[i].umn[0]){
+                            workbook.Sheets.Sheet1[`B${fac_.length+4}`] = push_json(this.xmlArr[i].umn[0]);
+                        }else{
+                            workbook.Sheets.Sheet1[`B${fac_.length+4}`] = push_json('');
+                        }
+                        if(this.xmlArr[i].AccessoryCategoryID[0]){
+                            workbook.Sheets.Sheet1[`C${fac_.length+4}`] = push_json(this.xmlArr[i].AccessoryCategoryID[0]);
+                        }else{
+                            workbook.Sheets.Sheet1[`C${fac_.length+4}`] = push_json('');
+                        }
+                        workbook.Sheets.Sheet1[`D${fac_.length+4}`] = push_json('');
+                        workbook.Sheets.Sheet1[`E${fac_.length+4}`] = push_json('');
+                        workbook.Sheets.Sheet1[`F${fac_.length+4}`] = push_json('');
+                        workbook.Sheets.Sheet1[`G${fac_.length+4}`] = push_json('');
+                        workbook.Sheets.Sheet1[`H${fac_.length+4}`] = push_json('');
+                        workbook.Sheets.Sheet1[`I${fac_.length+4}`] = push_json('');
+                        var length_;
+                        if(this.xmlArr[i].AccessoryCategoryID.length > this.xmlArr[i].umn.length){
+                            length_ = this.xmlArr[i].AccessoryCategoryID.length;
+                        }else{
+                            length_ = this.xmlArr[i].umn.length;
+                        }
+                        for(var j = 0,len1 = length_;j < len1;j++){
+                            workbook.Sheets.Sheet1[`A${fac_.length+j+5}`] = push_json('');
+                            if(this.xmlArr[i].umn[j+1]){
+                                workbook.Sheets.Sheet1[`B${fac_.length+j+5}`] = push_json(this.xmlArr[i].umn[j+1]);
+                            }else{
+                                workbook.Sheets.Sheet1[`B${fac_.length+j+5}`] = push_json('');
+                            }
+                            if(this.xmlArr[i].AccessoryCategoryID[j+1]){
+                                workbook.Sheets.Sheet1[`C${fac_.length+j+5}`] = push_json(this.xmlArr[i].AccessoryCategoryID[j+1]);
+                            }else{
+                                workbook.Sheets.Sheet1[`C${fac_.length+j+5}`] = push_json('');
+                            }
+                            workbook.Sheets.Sheet1[`D${fac_.length+j+5}`] = push_json('');
+                            workbook.Sheets.Sheet1[`E${fac_.length+j+5}`] = push_json('');
+                            workbook.Sheets.Sheet1[`F${fac_.length+j+5}`] = push_json('');
+                            workbook.Sheets.Sheet1[`G${fac_.length+j+5}`] = push_json('');
+                            workbook.Sheets.Sheet1[`H${fac_.length+j+5}`] = push_json('');
+                            workbook.Sheets.Sheet1[`I${fac_.length+j+5}`] = push_json('');
+                        }
+                        if(this.xmlArr[i].AccessoryCategoryID.length == 0 && this.xmlArr[i].umn.length == 0){
+                            fac_.length += 1;
+                        }else{
+                            fac_.length += length_;
+                        }
+                    }
+                    const workbookOut = XLSX.write(workbook, {
+                        bookType: 'xlsx',
+                        bookSST: false,
+                        type: 'binary'
+                    });
+
+                    saveAs(new Blob([s2ab(workbookOut)], {
+                        type: 'application/octet-stream'
+                    }), 'Output_Accessories.xlsx')
+                }
+            }
+        })
+        const borderAll = {  //单元格外侧框线
+            top: {
+                style: 'thin'
+            },
+            bottom: {
+                style: 'thin'
+            },
+            left: {
+                style: 'thin'
+            },
+            right: {
+                style: 'thin'
+            }
+        };
+        function push_json(data){
+            return {
+                v: data,
+                t: 's',
+                s: {
+                    border: borderAll
+                }
+            }
+        }
+    </script>
+</body>
+</html>

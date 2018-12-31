@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemContents>
+   <ItemContent nodeName="ItemContent">
+      <data nodeName="ShortModelNumber" attributeName="Short Model Number"
+            transAttributeName="Short Model Number"
+            dataType="string"><![CDATA[H-FS12060E]]></data>
+      <data nodeName="UnifiedModelNumber" attributeName="Unified Model Number"
+            transAttributeName="Unified Model Number"
+            dataType="string"><![CDATA[H-FS12060E]]></data>
+      <data nodeName="catalogName" attributeName="catalogName"
+            transAttributeName="catalogName"
+            dataType="string"><![CDATA[Lumix]]></data>
+      <dataGroup nodeName="Category" attributeName="Category" transAttributeName="Category"
+                 dataType="string">
+         <data nodeName="CategoryTree1" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[Lumix]]></data>
+         <data nodeName="CategoryTree2" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[Global-Lumix]]></data>
+         <data nodeName="CategoryTree3" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[G_Accessories-Lumix]]></data>
+         <data nodeName="CategoryTree4" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[G_Lenses]]></data>
+         <data nodeName="CategoryTree5" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[G_H-FS12060]]></data>
+      </dataGroup>
+      <dataGroup nodeName="GeneralData" attributeName="GeneralData"
+                 transAttributeName="GeneralData"
+                 dataType="string">
+         <data nodeName="BrandName" attributeName="Brand Name" transAttributeName="Brand Name"
+               dataType="string"><![CDATA[Panasonic]]></data>
+         <data nodeName="ProductType" attributeName="Product Type"
+               transAttributeName="Product Type"
+               dataType="string"><![CDATA[Accessory]]></data>
+         <data nodeName="Tentative" attributeName="Tentative" transAttributeName="Tentative"
+               dataType="flag"><![CDATA[false]]></data>
+         <dataGroup nodeName="SalesRegion" attributeName="Sales Region"
+                    transAttributeName="Sales Region"
+                    dataType="string">
+            <data nodeName="locale" attributeName="locale" transAttributeName="locale"
+                  dataType="string"><![CDATA[id_id]]></data>
+         </dataGroup>
+         <dataGroup nodeName="Dates" attributeName="Dates" transAttributeName="Dates"
+                    dataType="string">
+            <data nodeName="WebPublishingDate" attributeName="Web Publishing Date"
+                  transAttributeName="Web Publishing Date"
+                  dataType="date"><![CDATA[2016-02-24T04:00:00.0Z]]></data>
+         </dataGroup>
+         <data nodeName="NumberofDaysNew" attributeName="Number of Days New"
+               transAttributeName="Number of Days New"
+               dataType="number"><![CDATA[90]]></data>
+      </dataGroup>
+      <dataGroup nodeName="MarketingDescription" attributeName="MarketingDescription"
+                 transAttributeName="Marketing Description"
+                 dataType="string">
+         <data nodeName="ModelName" attributeName="Model Name" transAttributeName="Model Name"
+               dataType="string"><![CDATA[Interchangeable Lens]]></data>
+         <dataGroup nodeName="ShortDescriptions" attributeName="ShortDescriptions"
+                    transAttributeName="Short Descriptions"
+                    dataType="string">
+            <data nodeName="ShortDescription" attributeName="Short Description"
+                  transAttributeName="Short Description"
+                  dataType="string"><![CDATA[Versatile Standard 5x Zoom Lens LUMIX G VARIO 12-60mm / F3.5-5.6 ASPH. / POWER O.I.S.]]></data>
+         </dataGroup>
+         <dataGroup nodeName="SalesArguments" attributeName="SalesArguments"
+                    transAttributeName="Sales Arguments"
+                    dataType="string">
+            <data nodeName="SalesArgument" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"><![CDATA[Versatile 5x zoom range from 24mm to 120mm (35mm camera equivalent)]]></data>
+            <data nodeName="SalesArgument_0" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"><![CDATA[Splash/dust-proof design for a variety of daily shooting situations]]></data>
+            <data nodeName="SalesArgument_1" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"><![CDATA[High-speed contrast AF system with 240fps drive capability]]></data>
+            <data nodeName="SalesArgument_2" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"><![CDATA[POWER O.I.S. (Optical Image Stabilizer) for steady framing]]></data>
+            <data nodeName="SalesArgument_3" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"><![CDATA[Superb optical performance featuring 3 aspherical lenses and 1 ED lens]]></data>
+            <data nodeName="SalesArgument_4" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"><![CDATA[0.54x (35mm camera equivalent) magnification capability for macro shots]]></data>
+         </dataGroup>
+         <dataGroup nodeName="LongDescription" attributeName="LongDescription"
+                    transAttributeName="Long Description"
+                    dataType="string">
+            <data nodeName="Heading" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"><![CDATA[Versatile 5x zoom range from 24mm to 120mm (35mm camera equivalent)]]></data>
+            <data nodeName="Paragraph" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"><![CDATA[LUMIX G VARIO 12-60mm / F3.5-5.6 ASPH. / POWER O.I.S. offers a versatile 5x zoom range of 24-120mm (35mm camera equivalent) to fully cover a variety of daily shooting situations such as a dynamic landscape to portrait. It also features 0.54x (35mm camera equivalent) magnification capability for impressive macro close-up shots.]]></data>
+            <data nodeName="Heading_0" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"><![CDATA[Splash/dust-proof design for a variety of daily shooting situations]]></data>
+            <data nodeName="Paragraph_0" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"><![CDATA[LUMIX G VARIO 12-60mm / F3.5-5.6 ASPH. / POWER O.I.S. features splash/dust-proof design that can be used even under the rainy weather. The stylish and sophisticated design matches the LUMIX G Digital Single Lens Mirrorless (DSLM) cameras. Highly reliable metal mount endures long time use.]]></data>
+            <data nodeName="Heading_1" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"><![CDATA[High-speed contrast AF system with 240fps drive capability]]></data>
+            <data nodeName="Paragraph_1" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"><![CDATA[Incorporating an inner focus drive system and stepping motor, this lens is capable of smooth, silent operation to work with the camera’s high-speed, high-precision contrast AF system for both photo and video recording. It is also compatible with the sensor drive at max. 240 fps to take maximum advantage of cameras with high-speed AF. This stunning AF performance is excellent enough to record 4K video, where precise focusing is severely required.]]></data>
+            <data nodeName="Heading_2" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"><![CDATA[POWER O.I.S. (Optical Image Stabilizer) for steady framing]]></data>
+            <data nodeName="Paragraph_2" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"><![CDATA[The POWER O.I.S. (Optical Image Stabilizer) effectively compensates for the hand-shake movement, making it easy to shoot even in low-lit situations. The lens works with Dual I.S. (Image Stabilizer) system when mounted on compliant LUMIX DSLM camera.]]></data>
+            <data nodeName="Heading_3" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"><![CDATA[Superb optical performance featuring 3 aspherical lenses and 1 ED lens]]></data>
+            <data nodeName="Paragraph_3" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"><![CDATA[Comprising of 11 elements in 9 groups, this lens system features 3 aspherical lenses and an ED (Extra-low Dispersion) lens which effectively suppress spherical distortion or chromatic aberration to achieve stunning picture quality. The adoption of these lenses also realizes high mobility. Multi-coated lens elements minimize ghosts and flare to further enhance its shooting performance. Seven blades give the aperture a rounded shape that produces an attractively smooth effect in out-of-focus areas when shooting at larger aperture settings.]]></data>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="DigitalAssets" attributeName="DigitalAssets"
+                 transAttributeName="DigitalAssets"
+                 dataType="string">
+         <dataGroup nodeName="Images" attributeName="Images" transAttributeName="Images"
+                    dataType="string">
+</dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="Overview" attributeName="Overview" transAttributeName="Overview"
+                 dataType="string">
+         <data nodeName="OverviewTemplateSelector" attributeName="Overview Template Selector"
+               transAttributeName="Overview Template Selector"
+               dataType="string"><![CDATA[LEFT]]></data>
+         <data nodeName="DisplayModelNumber" attributeName="Display Model Number"
+               transAttributeName="Display Model Number"
+               dataType="string"/>
+         <data nodeName="FullProductName" attributeName="Full Product Name"
+               transAttributeName="Full Product Name"
+               dataType="string"><![CDATA[LUMIX G Lens H-FS12060]]></data>
+         <data nodeName="ModelNumber" attributeName="Model Number"
+               transAttributeName="Model Number"
+               dataType="string"><![CDATA[H-FS12060]]></data>
+         <data nodeName="DescriptionForSeeAll" attributeName="Description For See All"
+               transAttributeName="Description For See All"
+               dataType="string"><![CDATA[Micro Four Thirds 12-60mm Standard Zoom Lens / 24-120mm (35mm camera equiv.)]]></data>
+         <data nodeName="ProductMainPicture" attributeName="Product Main Picture"
+               transAttributeName="Product Main Picture"
+               dataType="file"><![CDATA[H-FS12060E-Product_Main_PictureGlobal-1_id_id.jpg]]></data>
+         <data nodeName="ProductMainImageCopyRights"
+               attributeName="Product Main Image Copy Rights"
+               transAttributeName="Product Main Image Copy Rights"
+               dataType="flag"><![CDATA[false]]></data>
+         <data nodeName="ProductMainImageExpireDate"
+               attributeName="Product Main Image Expire Date"
+               transAttributeName="Product Main Image Expire Date"
+               dataType="date"/>
+         <data nodeName="ProductLogoImage" attributeName="Product Logo Image"
+               transAttributeName="Product Logo Image"
+               dataType="file"/>
+         <data nodeName="PromotionLogoImage" attributeName="Promotion Logo Image"
+               transAttributeName="Promotion Logo Image"
+               dataType="file"/>
+         <data nodeName="SubBrandLogoImage" attributeName="Sub Brand Logo Image"
+               transAttributeName="Sub Brand Logo Image"
+               dataType="file"><![CDATA[H-FS12060E-Sub_Brand_Logo_ImageGlobal-1_id_id.png]]></data>
+         <data nodeName="KeyCopy" attributeName="Key Copy" transAttributeName="Key Copy"
+               dataType="string"><![CDATA[LUMIX G VARIO 12-60mm / F3.5-5.6 ASPH. / POWER O.I.S.]]></data>
+         <data nodeName="SubCopy" attributeName="Sub Copy" transAttributeName="Sub Copy"
+               dataType="string"><![CDATA[Micro Four Thirds 12-60mm Standard Zoom Lens / 24-120mm (35mm camera equiv.)]]></data>
+         <data nodeName="SalesDateForTopPage" attributeName="Sales Date For Top Page"
+               transAttributeName="Sales Date For Top Page"
+               dataType="string"/>
+         <data nodeName="Annotation" attributeName="Annotation"
+               transAttributeName="Annotation"
+               dataType="string"/>
+         <data nodeName="MicrositeBannerImage" attributeName="Microsite Banner Image"
+               transAttributeName="Microsite Banner Image"
+               dataType="file"/>
+         <data nodeName="MicrositeBannerImageURL" attributeName="Microsite Banner Image URL"
+               transAttributeName="Microsite Banner Image URL"
+               dataType="string"/>
+      </dataGroup>
+      <dataGroup nodeName="Features" attributeName="Features" transAttributeName="Features"
+                 dataType="string">
+         <data nodeName="NumberOfFeatures" attributeName="Number Of Features"
+               transAttributeName="Number Of Features"
+               dataType="number"><![CDATA[2]]></data>
+         <dataGroup nodeName="Feature1" attributeName="Feature1" transAttributeName="Feature 1"
+                    dataType="string">
+            <data nodeName="SectorName1" attributeName="Sector Name 1"
+                  transAttributeName="Sector Name 1"
+                  dataType="string"><![CDATA[Highlights]]></data>
+            <data nodeName="FactorName1-1" attributeName="Factor Name 1-1"
+                  transAttributeName="Factor Name 1-1"
+                  dataType="string"/>
+            <data nodeName="FactorID1-1" attributeName="Factor ID 1-1"
+                  transAttributeName="Factor ID 1-1"
+                  dataType="string"><![CDATA[lumix-2016-h-fs12060-2-1-1]]></data>
+            <data nodeName="FactorName1-2" attributeName="Factor Name 1-2"
+                  transAttributeName="Factor Name 1-2"
+                  dataType="string"/>
+            <data nodeName="FactorID1-2" attributeName="Factor ID 1-2"
+                  transAttributeName="Factor ID 1-2"
+                  dataType="string"><![CDATA[lumix-2016-h-fs12060-2-1-2]]></data>
+            <data nodeName="FactorName1-3" attributeName="Factor Name 1-3"
+                  transAttributeName="Factor Name 1-3"
+                  dataType="string"/>
+            <data nodeName="FactorID1-3" attributeName="Factor ID 1-3"
+                  transAttributeName="Factor ID 1-3"
+                  dataType="string"><![CDATA[lumix-2016-h-fs12060-2-1-3]]></data>
+            <data nodeName="FactorName1-4" attributeName="Factor Name 1-4"
+                  transAttributeName="Factor Name 1-4"
+                  dataType="string"/>
+            <data nodeName="FactorID1-4" attributeName="Factor ID 1-4"
+                  transAttributeName="Factor ID 1-4"
+                  dataType="string"><![CDATA[lumix-2016-h-fs12060-2-1-4]]></data>
+            <data nodeName="FactorName1-5" attributeName="Factor Name 1-5"
+                  transAttributeName="Factor Name 1-5"
+                  dataType="string"/>
+            <data nodeName="FactorID1-5" attributeName="Factor ID 1-5"
+                  transAttributeName="Factor ID 1-5"
+                  dataType="string"/>
+            <data nodeName="FactorName1-6" attributeName="Factor Name 1-6"
+                  transAttributeName="Factor Name 1-6"
+                  dataType="string"/>
+            <data nodeName="FactorID1-6" attributeName="Factor ID 1-6"
+                  transAttributeName="Factor ID 1-6"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="Feature2" attributeName="Feature2" transAttributeName="Feature 2"
+                    dataType="string">
+            <data nodeName="SectorName2" attributeName="Sector Name 2"
+                  transAttributeName="Sector Name 2"
+                  dataType="string"><![CDATA[Lens Construction & MTF Chart]]></data>
+            <data nodeName="FactorName2-1" attributeName="Factor Name 2-1"
+                  transAttributeName="Factor Name 2-1"
+                  dataType="string"/>
+            <data nodeName="FactorID2-1" attributeName="Factor ID 2-1"
+                  transAttributeName="Factor ID 2-1"
+                  dataType="string"><![CDATA[lumix-2016-h-fs12060-2-2-1]]></data>
+            <data nodeName="FactorName2-2" attributeName="Factor Name 2-2"
+                  transAttributeName="Factor Name 2-2"
+                  dataType="string"/>
+            <data nodeName="FactorID2-2" attributeName="Factor ID 2-2"
+                  transAttributeName="Factor ID 2-2"
+                  dataType="string"><![CDATA[lumix-2016-h-fs12060-2-2-2]]></data>
+            <data nodeName="FactorName2-3" attributeName="Factor Name 2-3"
+                  transAttributeName="Factor Name 2-3"
+                  dataType="string"/>
+            <data nodeName="FactorID2-3" attributeName="Factor ID 2-3"
+                  transAttributeName="Factor ID 2-3"
+                  dataType="string"/>
+            <data nodeName="FactorName2-4" attributeName="Factor Name 2-4"
+                  transAttributeName="Factor Name 2-4"
+                  dataType="string"/>
+            <data nodeName="FactorID2-4" attributeName="Factor ID 2-4"
+                  transAttributeName="Factor ID 2-4"
+                  dataType="string"/>
+            <data nodeName="FactorName2-5" attributeName="Factor Name 2-5"
+                  transAttributeName="Factor Name 2-5"
+                  dataType="string"/>
+            <data nodeName="FactorID2-5" attributeName="Factor ID 2-5"
+                  transAttributeName="Factor ID 2-5"
+                  dataType="string"/>
+            <data nodeName="FactorName2-6" attributeName="Factor Name 2-6"
+                  transAttributeName="Factor Name 2-6"
+                  dataType="string"/>
+            <data nodeName="FactorID2-6" attributeName="Factor ID 2-6"
+                  transAttributeName="Factor ID 2-6"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="Feature3" attributeName="Feature3" transAttributeName="Feature 3"
+                    dataType="string">
+            <data nodeName="SectorName3" attributeName="Sector Name 3"
+                  transAttributeName="Sector Name 3"
+                  dataType="string"/>
+            <data nodeName="FactorName3-1" attributeName="Factor Name 3-1"
+                  transAttributeName="Factor Name 3-1"
+                  dataType="string"/>
+            <data nodeName="FactorID3-1" attributeName="Factor ID 3-1"
+                  transAttributeName="Factor ID 3-1"
+                  dataType="string"/>
+            <data nodeName="FactorName3-2" attributeName="Factor Name 3-2"
+                  transAttributeName="Factor Name 3-2"
+                  dataType="string"/>
+            <data nodeName="FactorID3-2" attributeName="Factor ID 3-2"
+                  transAttributeName="Factor ID 3-2"
+                  dataType="string"/>
+            <data nodeName="FactorName3-3" attributeName="Factor Name 3-3"
+                  transAttributeName="Factor Name 3-3"
+                  dataType="string"/>
+            <data nodeName="FactorID3-3" attributeName="Factor ID 3-3"
+                  transAttributeName="Factor ID 3-3"
+                  dataType="string"/>
+            <data nodeName="FactorName3-4" attributeName="Factor Name 3-4"
+                  transAttributeName="Factor Name 3-4"
+                  dataType="string"/>
+            <data nodeName="FactorID3-4" attributeName="Factor ID 3-4"
+                  transAttributeName="Factor ID 3-4"
+                  dataType="string"/>
+            <data nodeName="FactorName3-5" attributeName="Factor Name 3-5"
+                  transAttributeName="Factor Name 3-5"
+                  dataType="string"/>
+            <data nodeName="FactorID3-5" attributeName="Factor ID 3-5"
+                  transAttributeName="Factor ID 3-5"
+                  dataType="string"/>
+            <data nodeName="FactorName3-6" attributeName="Factor Name 3-6"
+                  transAttributeName="Factor Name 3-6"
+                  dataType="string"/>
+            <data nodeName="FactorID3-6" attributeName="Factor ID 3-6"
+                  transAttributeName="Factor ID 3-6"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="Feature4" attributeName="Feature4" transAttributeName="Feature 4"
+                    dataType="string">
+            <data nodeName="SectorName4" attributeName="Sector Name 4"
+                  transAttributeName="Sector Name 4"
+                  dataType="string"/>
+            <data nodeName="FactorName4-1" attributeName="Factor Name 4-1"
+                  transAttributeName="Factor Name 4-1"
+                  dataType="string"/>
+            <data nodeName="FactorID4-1" attributeName="Factor ID 4-1"
+                  transAttributeName="Factor ID 4-1"
+                  dataType="string"/>
+            <data nodeName="FactorName4-2" attributeName="Factor Name 4-2"
+                  transAttributeName="Factor Name 4-2"
+                  dataType="string"/>
+            <data nodeName="FactorID4-2" attributeName="Factor ID 4-2"
+                  transAttributeName="Factor ID 4-2"
+                  dataType="string"/>
+            <data nodeName="FactorName4-3" attributeName="Factor Name 4-3"
+                  transAttributeName="Factor Name 4-3"
+                  dataType="string"/>
+            <data nodeName="FactorID4-3" attributeName="Factor ID 4-3"
+                  transAttributeName="Factor ID 4-3"
+                  dataType="string"/>
+            <data nodeName="FactorName4-4" attributeName="Factor Name 4-4"
+                  transAttributeName="Factor Name 4-4"
+                  dataType="string"/>
+            <data nodeName="FactorID4-4" attributeName="Factor ID 4-4"
+                  transAttributeName="Factor ID 4-4"
+                  dataType="string"/>
+            <data nodeName="FactorName4-5" attributeName="Factor Name 4-5"
+                  transAttributeName="Factor Name 4-5"
+                  dataType="string"/>
+            <data nodeName="FactorID4-5" attributeName="Factor ID 4-5"
+                  transAttributeName="Factor ID 4-5"
+                  dataType="string"/>
+            <data nodeName="FactorName4-6" attributeName="Factor Name 4-6"
+                  transAttributeName="Factor Name 4-6"
+                  dataType="string"/>
+            <data nodeName="FactorID4-6" attributeName="Factor ID 4-6"
+                  transAttributeName="Factor ID 4-6"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="Feature5" attributeName="Feature5" transAttributeName="Feature 5"
+                    dataType="string">
+            <data nodeName="SectorName5" attributeName="Sector Name 5"
+                  transAttributeName="Sector Name 5"
+                  dataType="string"/>
+            <data nodeName="FactorName5-1" attributeName="Factor Name 5-1"
+                  transAttributeName="Factor Name 5-1"
+                  dataType="string"/>
+            <data nodeName="FactorID5-1" attributeName="Factor ID 5-1"
+                  transAttributeName="Factor ID 5-1"
+                  dataType="string"/>
+            <data nodeName="FactorName5-2" attributeName="Factor Name 5-2"
+                  transAttributeName="Factor Name 5-2"
+                  dataType="string"/>
+            <data nodeName="FactorID5-2" attributeName="Factor ID 5-2"
+                  transAttributeName="Factor ID 5-2"
+                  dataType="string"/>
+            <data nodeName="FactorName5-3" attributeName="Factor Name 5-3"
+                  transAttributeName="Factor Name 5-3"
+                  dataType="string"/>
+            <data nodeName="FactorID5-3" attributeName="Factor ID 5-3"
+                  transAttributeName="Factor ID 5-3"
+                  dataType="string"/>
+            <data nodeName="FactorName5-4" attributeName="Factor Name 5-4"
+                  transAttributeName="Factor Name 5-4"
+                  dataType="string"/>
+            <data nodeName="FactorID5-4" attributeName="Factor ID 5-4"
+                  transAttributeName="Factor ID 5-4"
+                  dataType="string"/>
+            <data nodeName="FactorName5-5" attributeName="Factor Name 5-5"
+                  transAttributeName="Factor Name 5-5"
+                  dataType="string"/>
+            <data nodeName="FactorID5-5" attributeName="Factor ID 5-5"
+                  transAttributeName="Factor ID 5-5"
+                  dataType="string"/>
+            <data nodeName="FactorName5-6" attributeName="Factor Name 5-6"
+                  transAttributeName="Factor Name 5-6"
+                  dataType="string"/>
+            <data nodeName="FactorID5-6" attributeName="Factor ID 5-6"
+                  transAttributeName="Factor ID 5-6"
+                  dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="GetInspired" attributeName="GetInspired"
+                 transAttributeName="Get Inspired"
+                 dataType="string">
+         <data nodeName="GetInspiredTemplateSelector"
+               attributeName="Get Inspired Template Selector"
+               transAttributeName="Get Inspired Template Selector"
+               dataType="string"/>
+         <data nodeName="GetInspiredTitle1" attributeName="Get Inspired Title 1"
+               transAttributeName="Get Inspired Title 1"
+               dataType="string"/>
+         <data nodeName="GetInspiredID1" attributeName="Get Inspired ID 1"
+               transAttributeName="Get Inspired ID 1"
+               dataType="string"/>
+         <data nodeName="GetInspiredTitle2" attributeName="Get Inspired Title 2"
+               transAttributeName="Get Inspired Title 2"
+               dataType="string"/>
+         <data nodeName="GetInspiredID2" attributeName="Get Inspired ID 2"
+               transAttributeName="Get Inspired ID 2"
+               dataType="string"/>
+         <data nodeName="GetInspiredTitle3" attributeName="Get Inspired Title 3"
+               transAttributeName="Get Inspired Title 3"
+               dataType="string"/>
+         <data nodeName="GetInspiredID3" attributeName="Get Inspired ID 3"
+               transAttributeName="Get Inspired ID 3"
+               dataType="string"/>
+         <data nodeName="GetInspiredTitle4" attributeName="Get Inspired Title 4"
+               transAttributeName="Get Inspired Title 4"
+               dataType="string"/>
+         <data nodeName="GetInspiredID4" attributeName="Get Inspired ID 4"
+               transAttributeName="Get Inspired ID 4"
+               dataType="string"/>
+         <data nodeName="GetInspiredTitle5" attributeName="Get Inspired Title 5"
+               transAttributeName="Get Inspired Title 5"
+               dataType="string"/>
+         <data nodeName="GetInspiredID5" attributeName="Get Inspired ID 5"
+               transAttributeName="Get Inspired ID 5"
+               dataType="string"/>
+      </dataGroup>
+      <dataGroup nodeName="Accessory" attributeName="Accessory" transAttributeName="Accessory"
+                 dataType="string">
+         <dataGroup nodeName="AccessoryCategory" attributeName="AccessoryCategory"
+                    transAttributeName="Accessory Category"
+                    dataType="string">
+            <data nodeName="AccessoryTemplateSelector"
+                  attributeName="Accessory Template Selector"
+                  transAttributeName="Accessory Template Selector"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryTitle1" attributeName="Accessory Category Title 1"
+                  transAttributeName="Accessory Category Title 1"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryID1" attributeName="Accessory Category ID 1"
+                  transAttributeName="Accessory Category ID 1"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryTitle2" attributeName="Accessory Category Title 2"
+                  transAttributeName="Accessory Category Title 2"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryID2" attributeName="Accessory Category ID 2"
+                  transAttributeName="Accessory Category ID 2"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryTitle3" attributeName="Accessory Category Title 3"
+                  transAttributeName="Accessory Category Title 3"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryID3" attributeName="Accessory Category ID 3"
+                  transAttributeName="Accessory Category ID 3"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryTitle4" attributeName="Accessory Category Title 4"
+                  transAttributeName="Accessory Category Title 4"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryID4" attributeName="Accessory Category ID 4"
+                  transAttributeName="Accessory Category ID 4"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryTitle5" attributeName="Accessory Category Title 5"
+                  transAttributeName="Accessory Category Title 5"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryID5" attributeName="Accessory Category ID 5"
+                  transAttributeName="Accessory Category ID 5"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryTitle6" attributeName="Accessory Category Title 6"
+                  transAttributeName="Accessory Category Title 6"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryID6" attributeName="Accessory Category ID 6"
+                  transAttributeName="Accessory Category ID 6"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryTitle7" attributeName="Accessory Category Title 7"
+                  transAttributeName="Accessory Category Title 7"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryID7" attributeName="Accessory Category ID 7"
+                  transAttributeName="Accessory Category ID 7"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="AccessoryItems" attributeName="AccessoryItems"
+                    transAttributeName="Accessory Items"
+                    dataType="string">
+            <data nodeName="AccessoryModelNumber1" attributeName="Accessory Model Number 1"
+                  transAttributeName="Accessory Model Number 1"
+                  dataType="string"><![CDATA[DMW-LND58]]></data>
+            <data nodeName="AccessoryImage1" attributeName="Accessory Image 1"
+                  transAttributeName="Accessory Image 1"
+                  dataType="file"><![CDATA[H-FS12060E-Accessory_Image_1Global-1_id_id.png]]></data>
+            <data nodeName="AccessoryText1" attributeName="Accessory Text 1"
+                  transAttributeName="Accessory Text 1"
+                  dataType="string"><![CDATA[ND Filter]]></data>
+            <data nodeName="AccessoryModelNumber2" attributeName="Accessory Model Number 2"
+                  transAttributeName="Accessory Model Number 2"
+                  dataType="string"><![CDATA[DMW-LPL58]]></data>
+            <data nodeName="AccessoryImage2" attributeName="Accessory Image 2"
+                  transAttributeName="Accessory Image 2"
+                  dataType="file"><![CDATA[H-FS12060E-Accessory_Image_2Global-1_id_id.png]]></data>
+            <data nodeName="AccessoryText2" attributeName="Accessory Text 2"
+                  transAttributeName="Accessory Text 2"
+                  dataType="string"><![CDATA[PL Filter]]></data>
+            <data nodeName="AccessoryModelNumber3" attributeName="Accessory Model Number 3"
+                  transAttributeName="Accessory Model Number 3"
+                  dataType="string"><![CDATA[DMW-LMCH58]]></data>
+            <data nodeName="AccessoryImage3" attributeName="Accessory Image 3"
+                  transAttributeName="Accessory Image 3"
+                  dataType="file"><![CDATA[H-FS12060E-Accessory_Image_3Global-1_id_id.png]]></data>
+            <data nodeName="AccessoryText3" attributeName="Accessory Text 3"
+                  transAttributeName="Accessory Text 3"
+                  dataType="string"><![CDATA[MC Protector]]></data>
+            <data nodeName="AccessoryModelNumber4" attributeName="Accessory Model Number 4"
+                  transAttributeName="Accessory Model Number 4"
+                  dataType="string"><![CDATA[DMW-LRC1]]></data>
+            <data nodeName="AccessoryImage4" attributeName="Accessory Image 4"
+                  transAttributeName="Accessory Image 4"
+                  dataType="file"><![CDATA[H-FS12060E-Accessory_Image_4Global-1_id_id.png]]></data>
+            <data nodeName="AccessoryText4" attributeName="Accessory Text 4"
+                  transAttributeName="Accessory Text 4"
+                  dataType="string"><![CDATA[Lens Rear Cap]]></data>
+            <data nodeName="AccessoryModelNumber5" attributeName="Accessory Model Number 5"
+                  transAttributeName="Accessory Model Number 5"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage5" attributeName="Accessory Image 5"
+                  transAttributeName="Accessory Image 5"
+                  dataType="file"/>
+            <data nodeName="AccessoryText5" attributeName="Accessory Text 5"
+                  transAttributeName="Accessory Text 5"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber6" attributeName="Accessory Model Number 6"
+                  transAttributeName="Accessory Model Number 6"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage6" attributeName="Accessory Image 6"
+                  transAttributeName="Accessory Image 6"
+                  dataType="file"/>
+            <data nodeName="AccessoryText6" attributeName="Accessory Text 6"
+                  transAttributeName="Accessory Text 6"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber7" attributeName="Accessory Model Number 7"
+                  transAttributeName="Accessory Model Number 7"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage7" attributeName="Accessory Image 7"
+                  transAttributeName="Accessory Image 7"
+                  dataType="file"/>
+            <data nodeName="AccessoryText7" attributeName="Accessory Text 7"
+                  transAttributeName="Accessory Text 7"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber8" attributeName="Accessory Model Number 8"
+                  transAttributeName="Accessory Model Number 8"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage8" attributeName="Accessory Image 8"
+                  transAttributeName="Accessory Image 8"
+                  dataType="file"/>
+            <data nodeName="AccessoryText8" attributeName="Accessory Text 8"
+                  transAttributeName="Accessory Text 8"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber9" attributeName="Accessory Model Number 9"
+                  transAttributeName="Accessory Model Number 9"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage9" attributeName="Accessory Image 9"
+                  transAttributeName="Accessory Image 9"
+                  dataType="file"/>
+            <data nodeName="AccessoryText9" attributeName="Accessory Text 9"
+                  transAttributeName="Accessory Text 9"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber10" attributeName="Accessory Model Number 10"
+                  transAttributeName="Accessory Model Number 10"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage10" attributeName="Accessory Image 10"
+                  transAttributeName="Accessory Image 10"
+                  dataType="file"/>
+            <data nodeName="AccessoryText10" attributeName="Accessory Text 10"
+                  transAttributeName="Accessory Text 10"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber11" attributeName="Accessory Model Number 11"
+                  transAttributeName="Accessory Model Number 11"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage11" attributeName="Accessory Image 11"
+                  transAttributeName="Accessory Image 11"
+                  dataType="file"/>
+            <data nodeName="AccessoryText11" attributeName="Accessory Text 11"
+                  transAttributeName="Accessory Text 11"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber12" attributeName="Accessory Model Number 12"
+                  transAttributeName="Accessory Model Number 12"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage12" attributeName="Accessory Image 12"
+                  transAttributeName="Accessory Image 12"
+                  dataType="file"/>
+            <data nodeName="AccessoryText12" attributeName="Accessory Text 12"
+                  transAttributeName="Accessory Text 12"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber13" attributeName="Accessory Model Number 13"
+                  transAttributeName="Accessory Model Number 13"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage13" attributeName="Accessory Image 13"
+                  transAttributeName="Accessory Image 13"
+                  dataType="file"/>
+            <data nodeName="AccessoryText13" attributeName="Accessory Text 13"
+                  transAttributeName="Accessory Text 13"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber14" attributeName="Accessory Model Number 14"
+                  transAttributeName="Accessory Model Number 14"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage14" attributeName="Accessory Image 14"
+                  transAttributeName="Accessory Image 14"
+                  dataType="file"/>
+            <data nodeName="AccessoryText14" attributeName="Accessory Text 14"
+                  transAttributeName="Accessory Text 14"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber15" attributeName="Accessory Model Number 15"
+                  transAttributeName="Accessory Model Number 15"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage15" attributeName="Accessory Image 15"
+                  transAttributeName="Accessory Image 15"
+                  dataType="file"/>
+            <data nodeName="AccessoryText15" attributeName="Accessory Text 15"
+                  transAttributeName="Accessory Text 15"
+                  dataType="string"/>
+            <data nodeName="AccessoryModelNumber16" attributeName="Accessory Model Number 16"
+                  transAttributeName="Accessory Model Number 16"
+                  dataType="string"/>
+            <data nodeName="AccessoryImage16" attributeName="Accessory Image 16"
+                  transAttributeName="Accessory Image 16"
+                  dataType="file"/>
+            <data nodeName="AccessoryText16" attributeName="Accessory Text 16"
+                  transAttributeName="Accessory Text 16"
+                  dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="KeyTechnicalFeature" attributeName="KeyTechnicalFeature"
+                 transAttributeName="Key Technical Feature"
+                 dataType="string">
+         <data nodeName="TechnicalFeatureTemplateSelector"
+               attributeName="Technical Feature Template Selector"
+               transAttributeName="Technical Feature Template Selector"
+               dataType="string"><![CDATA[LEFT]]></data>
+         <data nodeName="ProductImage" attributeName="Product Image"
+               transAttributeName="Product Image"
+               dataType="file"><![CDATA[H-FS12060E-Product_ImageGlobal-1_id_id.png]]></data>
+         <data nodeName="DimensionalDrawingforInstallationSpacing"
+               attributeName="Dimensional Drawing for Installation Spacing"
+               transAttributeName="Dimensional Drawing for Installation Spacing"
+               dataType="file"/>
+         <data nodeName="AnnotationforInstallationSpacing"
+               attributeName="Annotation for Installation Spacing"
+               transAttributeName="Annotation for Installation Spacing"
+               dataType="string"/>
+         <data nodeName="KeySpecs1" attributeName="Key Specs 1"
+               transAttributeName="Key Specs 1"
+               dataType="string"><![CDATA[12-60mm / 24-120mm (35mm camera equiv.)]]></data>
+         <data nodeName="KeySpecsValue1" attributeName="Key Specs Value 1"
+               transAttributeName="Key Specs Value 1"
+               dataType="string"><![CDATA[Focal Length]]></data>
+         <data nodeName="KeySpecs2" attributeName="Key Specs 2"
+               transAttributeName="Key Specs 2"
+               dataType="string"><![CDATA[F3.5(Wide) - F5.6(Tele)]]></data>
+         <data nodeName="KeySpecsValue2" attributeName="Key Specs Value 2"
+               transAttributeName="Key Specs Value 2"
+               dataType="string"><![CDATA[Maximum Aperture]]></data>
+         <data nodeName="KeySpecs3" attributeName="Key Specs 3"
+               transAttributeName="Key Specs 3"
+               dataType="string"><![CDATA[φ58mm / 2.3 inch]]></data>
+         <data nodeName="KeySpecsValue3" attributeName="Key Specs Value 3"
+               transAttributeName="Key Specs Value 3"
+               dataType="string"><![CDATA[Filter Size]]></data>
+         <dataGroup nodeName="TechnicalIcons" attributeName="TechnicalIcons"
+                    transAttributeName="Technical Icons"
+                    dataType="string">
+            <data nodeName="TechnicalIcons1" attributeName="Technical Icons 1"
+                  transAttributeName="Technical Icons 1"
+                  dataType="file"><![CDATA[H-FS12060E-Technical_Icons_1Global-1_id_id.png]]></data>
+            <data nodeName="TechnicalIconsText1" attributeName="Technical Icons Text 1"
+                  transAttributeName="Technical Icons Text 1"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL1" attributeName="Technical Icons URL1"
+                  transAttributeName="Technical Icons URL1"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons2" attributeName="Technical Icons 2"
+                  transAttributeName="Technical Icons 2"
+                  dataType="file"><![CDATA[H-FS12060E-Technical_Icons_2Global-1_id_id.png]]></data>
+            <data nodeName="TechnicalIconsText2" attributeName="Technical Icons Text 2"
+                  transAttributeName="Technical Icons Text 2"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL2" attributeName="Technical Icons URL 2"
+                  transAttributeName="Technical Icons URL 2"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons3" attributeName="Technical Icons 3"
+                  transAttributeName="Technical Icons 3"
+                  dataType="file"><![CDATA[H-FS12060E-Technical_Icons_3Global-1_id_id.png]]></data>
+            <data nodeName="TechnicalIconsText3" attributeName="Technical Icons Text 3"
+                  transAttributeName="Technical Icons Text 3"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL3" attributeName="Technical Icons URL 3"
+                  transAttributeName="Technical Icons URL 3"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons4" attributeName="Technical Icons 4"
+                  transAttributeName="Technical Icons 4"
+                  dataType="file"/>
+            <data nodeName="TechnicalIconsText4" attributeName="Technical Icons Text 4"
+                  transAttributeName="Technical Icons Text 4"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL4" attributeName="Technical Icons URL 4"
+                  transAttributeName="Technical Icons URL 4"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons5" attributeName="Technical Icons 5"
+                  transAttributeName="Technical Icons 5"
+                  dataType="file"/>
+            <data nodeName="TechnicalIconsText5" attributeName="Technical Icons Text 5"
+                  transAttributeName="Technical Icons Text 5"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL5" attributeName="Technical Icons URL 5"
+                  transAttributeName="Technical Icons URL 5"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons6" attributeName="Technical Icons 6"
+                  transAttributeName="Technical Icons 6"
+                  dataType="file"/>
+            <data nodeName="TechnicalIconsText6" attributeName="Technical Icons Text 6"
+                  transAttributeName="Technical Icons Text 6"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL6" attributeName="Technical Icons URL 6"
+                  transAttributeName="Technical Icons URL 6"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons7" attributeName="Technical Icons 7"
+                  transAttributeName="Technical Icons 7"
+                  dataType="file"/>
+            <data nodeName="TechnicalIconsText7" attributeName="Technical Icons Text 7"
+                  transAttributeName="Technical Icons Text 7"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL7" attributeName="Technical Icons URL 7"
+                  transAttributeName="Technical Icons URL 7"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons8" attributeName="Technical Icons 8"
+                  transAttributeName="Technical Icons 8"
+                  dataType="file"/>
+            <data nodeName="TechnicalIconsText8" attributeName="Technical Icons Text 8"
+                  transAttributeName="Technical Icons Text 8"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL8" attributeName="Technical Icons URL 8"
+                  transAttributeName="Technical Icons URL 8"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons9" attributeName="Technical Icons 9"
+                  transAttributeName="Technical Icons 9"
+                  dataType="file"/>
+            <data nodeName="TechnicalIconsText9" attributeName="Technical Icons Text 9"
+                  transAttributeName="Technical Icons Text 9"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL9" attributeName="Technical Icons URL 9"
+                  transAttributeName="Technical Icons URL 9"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons10" attributeName="Technical Icons 10"
+                  transAttributeName="Technical Icons 10"
+                  dataType="file"/>
+            <data nodeName="TechnicalIconsText10" attributeName="Technical Icons Text 10"
+                  transAttributeName="Technical Icons Text 10"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL10" attributeName="Technical Icons URL 10"
+                  transAttributeName="Technical Icons URL 10"
+                  dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="Faceted" attributeName="Faceted" transAttributeName="Faceted"
+                 dataType="string">
+         <dataGroup nodeName="CompareFeature" attributeName="CompareFeature"
+                    transAttributeName="Compare Feature"
+                    dataType="string">
+            <data nodeName="CompareItem1" attributeName="Compare Item 1"
+                  transAttributeName="Compare Item 1"
+                  dataType="string"><![CDATA[Lens Construction]]></data>
+            <data nodeName="CompareValue1" attributeName="Compare Value 1"
+                  transAttributeName="Compare Value 1"
+                  dataType="string"><![CDATA[11 elements in 9 groups (3 aspherical lenses, 1 ED lens)]]></data>
+            <data nodeName="CompareItem2" attributeName="Compare Item 2"
+                  transAttributeName="Compare Item 2"
+                  dataType="string"><![CDATA[Nano Surface Coating]]></data>
+            <data nodeName="CompareValue2" attributeName="Compare Value 2"
+                  transAttributeName="Compare Value 2"
+                  dataType="string"><![CDATA[-]]></data>
+            <data nodeName="CompareItem3" attributeName="Compare Item 3"
+                  transAttributeName="Compare Item 3"
+                  dataType="string"><![CDATA[Mount]]></data>
+            <data nodeName="CompareValue3" attributeName="Compare Value 3"
+                  transAttributeName="Compare Value 3"
+                  dataType="string"><![CDATA[Micro Four Thirds mount]]></data>
+            <data nodeName="CompareItem4" attributeName="Compare Item 4"
+                  transAttributeName="Compare Item 4"
+                  dataType="string"><![CDATA[Optical Image Stabilizer]]></data>
+            <data nodeName="CompareValue4" attributeName="Compare Value 4"
+                  transAttributeName="Compare Value 4"
+                  dataType="string"><![CDATA[Yes (POWER O.I.S.)]]></data>
+            <data nodeName="CompareItem5" attributeName="Compare Item 5"
+                  transAttributeName="Compare Item 5"
+                  dataType="string"><![CDATA[Focal Length]]></data>
+            <data nodeName="CompareValue5" attributeName="Compare Value 5"
+                  transAttributeName="Compare Value 5"
+                  dataType="string"><![CDATA[f=12-60mm (35mm camera equivalent 24-120mm)]]></data>
+            <data nodeName="CompareItem6" attributeName="Compare Item 6"
+                  transAttributeName="Compare Item 6"
+                  dataType="string"><![CDATA[Aperture Type]]></data>
+            <data nodeName="CompareValue6" attributeName="Compare Value 6"
+                  transAttributeName="Compare Value 6"
+                  dataType="string"><![CDATA[7 diaphragm blades / Circular aperture diaphragm]]></data>
+            <data nodeName="CompareItem7" attributeName="Compare Item 7"
+                  transAttributeName="Compare Item 7"
+                  dataType="string"><![CDATA[Maximum Aperture]]></data>
+            <data nodeName="CompareValue7" attributeName="Compare Value 7"
+                  transAttributeName="Compare Value 7"
+                  dataType="string"><![CDATA[F3.5 (Wide) - F5.6 (Tele)]]></data>
+            <data nodeName="CompareItem8" attributeName="Compare Item 8"
+                  transAttributeName="Compare Item 8"
+                  dataType="string"><![CDATA[Minimum Aperture]]></data>
+            <data nodeName="CompareValue8" attributeName="Compare Value 8"
+                  transAttributeName="Compare Value 8"
+                  dataType="string"><![CDATA[F22]]></data>
+            <data nodeName="CompareItem9" attributeName="Compare Item 9"
+                  transAttributeName="Compare Item 9"
+                  dataType="string"><![CDATA[Closest Focusing Distance]]></data>
+            <data nodeName="CompareValue9" attributeName="Compare Value 9"
+                  transAttributeName="Compare Value 9"
+                  dataType="string"><![CDATA[0.20m / 0.66ft (Wide), 0.25m / 0.82ft (Tele)]]></data>
+            <data nodeName="CompareItem10" attributeName="Compare Item 10"
+                  transAttributeName="Compare Item 10"
+                  dataType="string"><![CDATA[Maximum Magnification]]></data>
+            <data nodeName="CompareValue10" attributeName="Compare Value 10"
+                  transAttributeName="Compare Value 10"
+                  dataType="string"><![CDATA[Approx. 0.27x / 0.54x (35mm camera equivalent)]]></data>
+            <data nodeName="CompareItem11" attributeName="Compare Item 11"
+                  transAttributeName="Compare Item 11"
+                  dataType="string"><![CDATA[Diagonal Angle of View]]></data>
+            <data nodeName="CompareValue11" attributeName="Compare Value 11"
+                  transAttributeName="Compare Value 11"
+                  dataType="string"><![CDATA[84.05°(Wide) - 20.44°(Tele)]]></data>
+            <data nodeName="CompareItem12" attributeName="Compare Item 12"
+                  transAttributeName="Compare Item 12"
+                  dataType="string"><![CDATA[Filter Size]]></data>
+            <data nodeName="CompareValue12" attributeName="Compare Value 12"
+                  transAttributeName="Compare Value 12"
+                  dataType="string"><![CDATA[φ58mm / 2.3 inch]]></data>
+            <data nodeName="CompareItem13" attributeName="Compare Item 13"
+                  transAttributeName="Compare Item 13"
+                  dataType="string"><![CDATA[Max. Diameter]]></data>
+            <data nodeName="CompareValue13" attributeName="Compare Value 13"
+                  transAttributeName="Compare Value 13"
+                  dataType="string"><![CDATA[φ66mm / 2.6 inch]]></data>
+            <data nodeName="CompareItem14" attributeName="Compare Item 14"
+                  transAttributeName="Compare Item 14"
+                  dataType="string"><![CDATA[Overall Length]]></data>
+            <data nodeName="CompareValue14" attributeName="Compare Value 14"
+                  transAttributeName="Compare Value 14"
+                  dataType="string"><![CDATA[Approx. 71mm / 2.8 inch (from the tip of the lens to the base side of the lens mount)]]></data>
+            <data nodeName="CompareItem15" attributeName="Compare Item 15"
+                  transAttributeName="Compare Item 15"
+                  dataType="string"><![CDATA[Weight]]></data>
+            <data nodeName="CompareValue15" attributeName="Compare Value 15"
+                  transAttributeName="Compare Value 15"
+                  dataType="string"><![CDATA[Approx. 210 g / 7.41oz (excluding lens cap, lens rear cap and lens hood)]]></data>
+            <data nodeName="CompareItem16" attributeName="Compare Item 16"
+                  transAttributeName="Compare Item 16"
+                  dataType="string"><![CDATA[Standard Accessories]]></data>
+            <data nodeName="CompareValue16" attributeName="Compare Value 16"
+                  transAttributeName="Compare Value 16"
+                  dataType="string"><![CDATA[Lens cap, Lens rear cap, Lens hood, Lens storage bag]]></data>
+            <data nodeName="CompareItem17" attributeName="Compare Item 17"
+                  transAttributeName="Compare Item 17"
+                  dataType="string"><![CDATA[Others]]></data>
+            <data nodeName="CompareValue17" attributeName="Compare Value 17"
+                  transAttributeName="Compare Value 17"
+                  dataType="string"><![CDATA[-]]></data>
+            <data nodeName="CompareItem18" attributeName="Compare Item 18"
+                  transAttributeName="Compare Item 18"
+                  dataType="string"/>
+            <data nodeName="CompareValue18" attributeName="Compare Value 18"
+                  transAttributeName="Compare Value 18"
+                  dataType="string"/>
+            <data nodeName="CompareItem19" attributeName="Compare Item 19"
+                  transAttributeName="Compare Item 19"
+                  dataType="string"/>
+            <data nodeName="CompareValue19" attributeName="Compare Value 19"
+                  transAttributeName="Compare Value 19"
+                  dataType="string"/>
+            <data nodeName="CompareItem20" attributeName="Compare Item 20"
+                  transAttributeName="Compare Item 20"
+                  dataType="string"/>
+            <data nodeName="CompareValue20" attributeName="Compare Value 20"
+                  transAttributeName="Compare Value 20"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="FacetedSlider" attributeName="FacetedSlider"
+                    transAttributeName="Faceted Slider"
+                    dataType="string">
+            <data nodeName="FacetedSliderItem1" attributeName="Faceted Slider Item 1"
+                  transAttributeName="Faceted Slider Item 1"
+                  dataType="string"/>
+            <data nodeName="FacetedSliderMinValue1" attributeName="Faceted Slider Min Value 1"
+                  transAttributeName="Faceted Slider Min Value 1"
+                  dataType="number"/>
+            <data nodeName="FacetedSliderMaxValue1" attributeName="Faceted Slider Max Value 1"
+                  transAttributeName="Faceted Slider Max Value 1"
+                  dataType="number"/>
+            <data nodeName="FacetedSliderUnit1" attributeName="Faceted Slider Unit 1"
+                  transAttributeName="Faceted Slider Unit 1"
+                  dataType="string"/>
+            <data nodeName="FacetedSliderItem2" attributeName="Faceted Slider Item 2"
+                  transAttributeName="Faceted Slider Item 2"
+                  dataType="string"/>
+            <data nodeName="FacetedSliderMinValue2" attributeName="Faceted Slider Min Value 2"
+                  transAttributeName="Faceted Slider Min Value 2"
+                  dataType="number"/>
+            <data nodeName="FacetedSliderMaxValue2" attributeName="Faceted Slider Max Value 2"
+                  transAttributeName="Faceted Slider Max Value 2"
+                  dataType="number"/>
+            <data nodeName="FacetedSliderUnit2" attributeName="Faceted Slider Unit 2"
+                  transAttributeName="Faceted Slider Unit 2"
+                  dataType="string"/>
+            <data nodeName="FacetedSliderItem3" attributeName="Faceted Slider Item 3"
+                  transAttributeName="Faceted Slider Item 3"
+                  dataType="string"/>
+            <data nodeName="FacetedSliderMinValue3" attributeName="Faceted Slider Min Value 3"
+                  transAttributeName="Faceted Slider Min Value 3"
+                  dataType="number"/>
+            <data nodeName="FacetedSliderMaxValue3" attributeName="Faceted Slider Max Value 3"
+                  transAttributeName="Faceted Slider Max Value 3"
+                  dataType="number"/>
+            <data nodeName="FacetedSliderUnit3" attributeName="Faceted Slider Unit 3"
+                  transAttributeName="Faceted Slider Unit 3"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="FacetedNavigation" attributeName="FacetedNavigation"
+                    transAttributeName="Faceted Navigation"
+                    dataType="string">
+            <data nodeName="FacetedItem1" attributeName="Faceted Item 1"
+                  transAttributeName="Faceted Item 1"
+                  dataType="string"/>
+            <data nodeName="FacetedItem2" attributeName="Faceted Item 2"
+                  transAttributeName="Faceted Item 2"
+                  dataType="string"/>
+            <data nodeName="FacetedItem3" attributeName="Faceted Item 3"
+                  transAttributeName="Faceted Item 3"
+                  dataType="string"/>
+            <data nodeName="FacetedItem4" attributeName="Faceted Item 4"
+                  transAttributeName="Faceted Item 4"
+                  dataType="string"/>
+            <data nodeName="FacetedItem5" attributeName="Faceted Item 5"
+                  transAttributeName="Faceted Item 5"
+                  dataType="string"/>
+            <data nodeName="FacetedItem6" attributeName="Faceted Item 6"
+                  transAttributeName="Faceted Item 6"
+                  dataType="string"/>
+            <data nodeName="FacetedItem7" attributeName="Faceted Item 7"
+                  transAttributeName="Faceted Item 7"
+                  dataType="string"/>
+            <data nodeName="FacetedItem8" attributeName="Faceted Item 8"
+                  transAttributeName="Faceted Item 8"
+                  dataType="string"/>
+            <data nodeName="FacetedItem9" attributeName="Faceted Item 9"
+                  transAttributeName="Faceted Item 9"
+                  dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="Variation" attributeName="Variation" transAttributeName="Variation"
+                 dataType="string">
+         <data nodeName="VariationName1" attributeName="Variation Name 1"
+               transAttributeName="Variation Name 1"
+               dataType="string"><![CDATA[Color]]></data>
+         <data nodeName="VariationImage1" attributeName="Variation Image 1"
+               transAttributeName="Variation Image 1"
+               dataType="file"><![CDATA[H-FS12060E-Variation_Image_1Global-1_id_id.png]]></data>
+         <data nodeName="VariationImageforSeeAll1"
+               attributeName="Variation Image for See All 1"
+               transAttributeName="Variation Image for See All 1"
+               dataType="file"><![CDATA[H-FS12060E-Variation_Image_for_See_All_1Global-1_id_id.png]]></data>
+         <data nodeName="VariationIconImage1" attributeName="Variation Icon Image 1"
+               transAttributeName="Variation Icon Image 1"
+               dataType="file"/>
+         <data nodeName="VariationText1" attributeName="Variation Text 1"
+               transAttributeName="Variation Text 1"
+               dataType="string"><![CDATA[Black]]></data>
+         <data nodeName="VariationMeasurementName1"
+               attributeName="Variation Measurement Name 1"
+               transAttributeName="Variation Measurement Name 1"
+               dataType="string"><![CDATA[H-FS12060E]]></data>
+         <data nodeName="VariationUMN1" attributeName="Variation UMN 1"
+               transAttributeName="Variation UMN 1"
+               dataType="string"><![CDATA[H-FS12060]]></data>
+         <data nodeName="VariationName2" attributeName="Variation Name 2"
+               transAttributeName="Variation Name 2"
+               dataType="string"/>
+         <data nodeName="VariationImage2" attributeName="Variation Image 2"
+               transAttributeName="Variation Image 2"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll2"
+               attributeName="Variation Image for See All 2"
+               transAttributeName="Variation Image for See All 2"
+               dataType="file"/>
+         <data nodeName="VariationIconImage2" attributeName="Variation Icon Image 2"
+               transAttributeName="Variation Icon Image 2"
+               dataType="file"/>
+         <data nodeName="VariationText2" attributeName="Variation Text 2"
+               transAttributeName="Variation Text 2"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName2"
+               attributeName="Variation Measurement Name 2"
+               transAttributeName="Variation Measurement Name 2"
+               dataType="string"/>
+         <data nodeName="VariationUMN2" attributeName="Variation UMN 2"
+               transAttributeName="Variation UMN 2"
+               dataType="string"/>
+         <data nodeName="VariationName3" attributeName="Variation Name 3"
+               transAttributeName="Variation Name 3"
+               dataType="string"/>
+         <data nodeName="VariationImage3" attributeName="Variation Image 3"
+               transAttributeName="Variation Image 3"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll3"
+               attributeName="Variation Image for See All 3"
+               transAttributeName="Variation Image for See All 3"
+               dataType="file"/>
+         <data nodeName="VariationIconImage3" attributeName="Variation Icon Image 3"
+               transAttributeName="Variation Icon Image 3"
+               dataType="file"/>
+         <data nodeName="VariationText3" attributeName="Variation Text 3"
+               transAttributeName="Variation Text 3"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName3"
+               attributeName="Variation Measurement Name 3"
+               transAttributeName="Variation Measurement Name 3"
+               dataType="string"/>
+         <data nodeName="VariationUMN3" attributeName="Variation UMN 3"
+               transAttributeName="Variation UMN 3"
+               dataType="string"/>
+         <data nodeName="VariationName4" attributeName="Variation Name 4"
+               transAttributeName="Variation Name 4"
+               dataType="string"/>
+         <data nodeName="VariationImage4" attributeName="Variation Image 4"
+               transAttributeName="Variation Image 4"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll4"
+               attributeName="Variation Image for See All 4"
+               transAttributeName="Variation Image for See All 4"
+               dataType="file"/>
+         <data nodeName="VariationIconImage4" attributeName="Variation Icon Image 4"
+               transAttributeName="Variation Icon Image 4"
+               dataType="file"/>
+         <data nodeName="VariationText4" attributeName="Variation Text 4"
+               transAttributeName="Variation Text 4"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName4"
+               attributeName="Variation Measurement Name 4"
+               transAttributeName="Variation Measurement Name 4"
+               dataType="string"/>
+         <data nodeName="VariationUMN4" attributeName="Variation UMN 4"
+               transAttributeName="Variation UMN 4"
+               dataType="string"/>
+         <data nodeName="VariationName5" attributeName="Variation Name 5"
+               transAttributeName="Variation Name 5"
+               dataType="string"/>
+         <data nodeName="VariationImage5" attributeName="Variation Image 5"
+               transAttributeName="Variation Image 5"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll5"
+               attributeName="Variation Image for See All 5"
+               transAttributeName="Variation Image for See All 5"
+               dataType="file"/>
+         <data nodeName="VariationIconImage5" attributeName="Variation Icon Image 5"
+               transAttributeName="Variation Icon Image 5"
+               dataType="file"/>
+         <data nodeName="VariationText5" attributeName="Variation Text 5"
+               transAttributeName="Variation Text 5"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName5"
+               attributeName="Variation Measurement Name 5"
+               transAttributeName="Variation Measurement Name 5"
+               dataType="string"/>
+         <data nodeName="VariationUMN5" attributeName="Variation UMN 5"
+               transAttributeName="Variation UMN 5"
+               dataType="string"/>
+         <data nodeName="VariationName6" attributeName="Variation Name 6"
+               transAttributeName="Variation Name 6"
+               dataType="string"/>
+         <data nodeName="VariationImage6" attributeName="Variation Image 6"
+               transAttributeName="Variation Image 6"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll6"
+               attributeName="Variation Image for See All 6"
+               transAttributeName="Variation Image for See All 6"
+               dataType="file"/>
+         <data nodeName="VariationIconImage6" attributeName="Variation Icon Image 6"
+               transAttributeName="Variation Icon Image 6"
+               dataType="file"/>
+         <data nodeName="VariationText6" attributeName="Variation Text 6"
+               transAttributeName="Variation Text 6"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName6"
+               attributeName="Variation Measurement Name 6"
+               transAttributeName="Variation Measurement Name 6"
+               dataType="string"/>
+         <data nodeName="VariationUMN6" attributeName="Variation UMN 6"
+               transAttributeName="Variation UMN 6"
+               dataType="string"/>
+         <data nodeName="VariationName7" attributeName="Variation Name 7"
+               transAttributeName="Variation Name 7"
+               dataType="string"/>
+         <data nodeName="VariationImage7" attributeName="Variation Image 7"
+               transAttributeName="Variation Image 7"
+               dataType="file"/>
+         <data nodeName="VariationIconImage7" attributeName="Variation Icon Image 7"
+               transAttributeName="Variation Icon Image 7"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll7"
+               attributeName="Variation Image for See All 7"
+               transAttributeName="Variation Image for See All 7"
+               dataType="file"/>
+         <data nodeName="VariationText7" attributeName="Variation Text 7"
+               transAttributeName="Variation Text 7"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName7"
+               attributeName="Variation Measurement Name 7"
+               transAttributeName="Variation Measurement Name 7"
+               dataType="string"/>
+         <data nodeName="VariationUMN7" attributeName="Variation UMN 7"
+               transAttributeName="Variation UMN 7"
+               dataType="string"/>
+         <data nodeName="VariationName8" attributeName="Variation Name 8"
+               transAttributeName="Variation Name 8"
+               dataType="string"/>
+         <data nodeName="VariationImage8" attributeName="Variation Image 8"
+               transAttributeName="Variation Image 8"
+               dataType="file"/>
+         <data nodeName="VariationIconImage8" attributeName="Variation Icon Image 8"
+               transAttributeName="Variation Icon Image 8"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll8"
+               attributeName="Variation Image for See All 8"
+               transAttributeName="Variation Image for See All 8"
+               dataType="file"/>
+         <data nodeName="VariationText8" attributeName="Variation Text 8"
+               transAttributeName="Variation Text 8"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName8"
+               attributeName="Variation Measurement Name 8"
+               transAttributeName="Variation Measurement Name 8"
+               dataType="string"/>
+         <data nodeName="VariationUMN8" attributeName="Variation UMN 8"
+               transAttributeName="Variation UMN 8"
+               dataType="string"/>
+         <data nodeName="VariationName9" attributeName="Variation Name 9"
+               transAttributeName="Variation Name 9"
+               dataType="string"/>
+         <data nodeName="VariationImage9" attributeName="Variation Image 9"
+               transAttributeName="Variation Image 9"
+               dataType="file"/>
+         <data nodeName="VariationIconImage9" attributeName="Variation Icon Image 9"
+               transAttributeName="Variation Icon Image 9"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll9"
+               attributeName="Variation Image for See All 9"
+               transAttributeName="Variation Image for See All 9"
+               dataType="file"/>
+         <data nodeName="VariationText9" attributeName="Variation Text 9"
+               transAttributeName="Variation Text 9"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName9"
+               attributeName="Variation Measurement Name 9"
+               transAttributeName="Variation Measurement Name 9"
+               dataType="string"/>
+         <data nodeName="VariationUMN9" attributeName="Variation UMN 9"
+               transAttributeName="Variation UMN 9"
+               dataType="string"/>
+         <data nodeName="VariationName10" attributeName="Variation Name 10"
+               transAttributeName="Variation Name 10"
+               dataType="string"/>
+         <data nodeName="VariationImage10" attributeName="Variation Image 10"
+               transAttributeName="Variation Image 10"
+               dataType="file"/>
+         <data nodeName="VariationIconImage10" attributeName="Variation Icon Image 10"
+               transAttributeName="Variation Icon Image 10"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll10"
+               attributeName="Variation Image for See All 10"
+               transAttributeName="Variation Image for See All 10"
+               dataType="file"/>
+         <data nodeName="VariationText10" attributeName="Variation Text 10"
+               transAttributeName="Variation Text 10"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName10"
+               attributeName="Variation Measurement Name 10"
+               transAttributeName="Variation Measurement Name 10"
+               dataType="string"/>
+         <data nodeName="VariationUMN10" attributeName="Variation UMN 10"
+               transAttributeName="Variation UMN 10"
+               dataType="string"/>
+         <data nodeName="VariationName11" attributeName="Variation Name 11"
+               transAttributeName="Variation Name 11"
+               dataType="string"/>
+         <data nodeName="VariationImage11" attributeName="Variation Image 11"
+               transAttributeName="Variation Image 11"
+               dataType="file"/>
+         <data nodeName="VariationIconImage11" attributeName="Variation Icon Image 11"
+               transAttributeName="Variation Icon Image 11"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll11"
+               attributeName="Variation Image for See All 11"
+               transAttributeName="Variation Image for See All 11"
+               dataType="file"/>
+         <data nodeName="VariationText11" attributeName="Variation Text 11"
+               transAttributeName="Variation Text 11"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName11"
+               attributeName="Variation Measurement Name 11"
+               transAttributeName="Variation Measurement Name 11"
+               dataType="string"/>
+         <data nodeName="VariationUMN11" attributeName="Variation UMN 11"
+               transAttributeName="Variation UMN 11"
+               dataType="string"/>
+         <data nodeName="VariationName12" attributeName="Variation Name 12"
+               transAttributeName="Variation Name 12"
+               dataType="string"/>
+         <data nodeName="VariationImage12" attributeName="Variation Image 12"
+               transAttributeName="Variation Image 12"
+               dataType="file"/>
+         <data nodeName="VariationIconImage12" attributeName="Variation Icon Image 12"
+               transAttributeName="Variation Icon Image 12"
+               dataType="file"/>
+         <data nodeName="VariationImageforSeeAll12"
+               attributeName="Variation Image for See All 12"
+               transAttributeName="Variation Image for See All 12"
+               dataType="file"/>
+         <data nodeName="VariationText12" attributeName="Variation Text 12"
+               transAttributeName="Variation Text 12"
+               dataType="string"/>
+         <data nodeName="VariationMeasurementName12"
+               attributeName="Variation Measurement Name 12"
+               transAttributeName="Variation Measurement Name 12"
+               dataType="string"/>
+         <data nodeName="VariationUMN12" attributeName="Variation UMN 12"
+               transAttributeName="Variation UMN 12"
+               dataType="string"/>
+      </dataGroup>
+      <dataGroup nodeName="Demo" attributeName="Demo" transAttributeName="Demo"
+                 dataType="string">
+         <dataGroup nodeName="Demo1" attributeName="Demo1" transAttributeName="Demo1"
+                    dataType="string">
+            <data nodeName="DemoTitle1" attributeName="Demo Title 1"
+                  transAttributeName="Demo Title 1"
+                  dataType="string"/>
+            <data nodeName="DemoID1" attributeName="Demo ID 1" transAttributeName="Demo ID 1"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="Demo2" attributeName="Demo2" transAttributeName="Demo2"
+                    dataType="string">
+            <data nodeName="DemoTitle2" attributeName="Demo Title 2"
+                  transAttributeName="Demo Title 2"
+                  dataType="string"/>
+            <data nodeName="DemoID2" attributeName="Demo ID 2" transAttributeName="Demo ID 2"
+                  dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="Environmental" attributeName="Environmental"
+                 transAttributeName="Environmental"
+                 dataType="string">
+         <dataGroup nodeName="EnergyContents" attributeName="EnergyContents"
+                    transAttributeName="Energy Contents"
+                    dataType="string">
+            <data nodeName="EnergyClassArrow" attributeName="Energy Class Arrow"
+                  transAttributeName="Energy Class Arrow"
+                  dataType="string"/>
+            <data nodeName="EnergyLabel" attributeName="Energy Label"
+                  transAttributeName="Energy Label"
+                  dataType="file"/>
+            <data nodeName="ProductFiche" attributeName="Product Fiche"
+                  transAttributeName="Product Fiche"
+                  dataType="file"/>
+            <data nodeName="Eco-DesignInformation" attributeName="Eco-Design Information"
+                  transAttributeName="Eco-Design Information"
+                  dataType="file"/>
+            <data nodeName="Other" attributeName="Other" transAttributeName="Other"
+                  dataType="file"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="TechnicalFeature" attributeName="TechnicalFeature"
+                 transAttributeName="TechnicalFeature"
+                 dataType="string">
+         <dataGroup nodeName="Features" attributeName="Features" transAttributeName="Features"
+                    dataType="string">
+            <data nodeName="LensConstruction" attributeName="Lens Construction"
+                  transAttributeName="Lens Construction"
+                  dataType="string"><![CDATA[11 elements in 9 groups (3 aspherical lenses, 1 ED lens)]]></data>
+            <data nodeName="NanoSurfaceCoating" attributeName="Nano Surface Coating"
+                  transAttributeName="Nano Surface Coating"
+                  dataType="string"><![CDATA[-]]></data>
+            <data nodeName="Mount" attributeName="Mount" transAttributeName="Mount"
+                  dataType="string"><![CDATA[Micro Four Thirds mount]]></data>
+            <data nodeName="OpticalImageStabilizer" attributeName="Optical Image Stabilizer"
+                  transAttributeName="Optical Image Stabilizer"
+                  dataType="string"><![CDATA[Yes (POWER O.I.S.)]]></data>
+            <data nodeName="FocalLength" attributeName="Focal Length"
+                  transAttributeName="Focal Length"
+                  dataType="string"><![CDATA[f=12-60mm (35mm camera equivalent 24-120mm)]]></data>
+            <data nodeName="ApertureType" attributeName="Aperture Type"
+                  transAttributeName="Aperture Type"
+                  dataType="string"><![CDATA[7 diaphragm blades / Circular aperture diaphragm]]></data>
+            <data nodeName="ApertureRange" attributeName="Aperture Range"
+                  transAttributeName="Aperture Range"
+                  dataType="string"/>
+            <data nodeName="Aperture" attributeName="Aperture" transAttributeName="Aperture"
+                  dataType="string"/>
+            <data nodeName="MaximumAperture" attributeName="Maximum Aperture"
+                  transAttributeName="Maximum Aperture"
+                  dataType="string"><![CDATA[F3.5 (Wide) - F5.6 (Tele)]]></data>
+            <data nodeName="MinimumAperture" attributeName="Minimum Aperture"
+                  transAttributeName="Minimum Aperture"
+                  dataType="string"><![CDATA[F22]]></data>
+            <data nodeName="ClosestFocusingDistance" attributeName="Closest Focusing Distance"
+                  transAttributeName="Closest Focusing Distance"
+                  dataType="string"><![CDATA[0.20m / 0.66ft (Wide), 0.25m / 0.82ft (Tele)]]></data>
+            <data nodeName="Maximummagnification" attributeName="Maximum magnification"
+                  transAttributeName="Maximum magnification"
+                  dataType="string"><![CDATA[Approx. 0.27x / 0.54x (35mm camera equivalent)]]></data>
+         </dataGroup>
+         <dataGroup nodeName="General" attributeName="General" transAttributeName="General"
+                    dataType="string">
+            <data nodeName="DiagonalAngleofView" attributeName="Diagonal Angle of View"
+                  transAttributeName="Diagonal Angle of View"
+                  dataType="string"><![CDATA[84.05°(Wide) to 20.44°(Tele)]]></data>
+            <data nodeName="Projectionsystem" attributeName="Projection system"
+                  transAttributeName="Projection system"
+                  dataType="string"/>
+            <data nodeName="Stereobase" attributeName="Stereo base"
+                  transAttributeName="Stereo base"
+                  dataType="string"/>
+            <data nodeName="FilterSize" attributeName="Filter Size"
+                  transAttributeName="Filter Size"
+                  dataType="string"><![CDATA[φ58mm / 2.3inch]]></data>
+            <data nodeName="MaxDiameter" attributeName="Max. Diameter"
+                  transAttributeName="Max. Diameter"
+                  dataType="string"><![CDATA[φ66.0mm / 2.6inch]]></data>
+            <data nodeName="OverallLength" attributeName="Overall Length"
+                  transAttributeName="Overall Length"
+                  dataType="string"><![CDATA[Approx. 71mm / 2.80inch (from the tip of the lens to the base side of the lens mount)]]></data>
+            <dataGroup nodeName="Dimensionsmm" attributeName="Dimensionsmm"
+                       transAttributeName="Dimensions [mm]"
+                       dataType="string">
+               <data nodeName="Width" attributeName="Width" transAttributeName="Width"
+                     dataType="string"/>
+               <data nodeName="Height" attributeName="Height" transAttributeName="Height"
+                     dataType="string"/>
+               <data nodeName="Depth" attributeName="Depth" transAttributeName="Depth"
+                     dataType="string"/>
+            </dataGroup>
+            <data nodeName="Weightg" attributeName="Weight [g]" transAttributeName="Weight [g]"
+                  dataType="string"/>
+            <data nodeName="Weightoz" attributeName="Weight [oz]"
+                  transAttributeName="Weight [oz]"
+                  dataType="string"/>
+            <data nodeName="Weight" attributeName="Weight" transAttributeName="Weight"
+                  dataType="string"><![CDATA[Approx. 210g / 7.41oz (excluding lens cap, lens rear cap and lens hood)]]></data>
+         </dataGroup>
+         <data nodeName="StandardAccessories" attributeName="Standard Accessories"
+               transAttributeName="Standard Accessories"
+               dataType="string"><![CDATA[Lens cap, Lens rear cap, Lens hood, Lens storage bag ]]></data>
+         <data nodeName="Compatibility" attributeName="Compatibility"
+               transAttributeName="Compatibility"
+               dataType="string"/>
+         <data nodeName="Others" attributeName="Others" transAttributeName="Others"
+               dataType="string"/>
+         <data nodeName="Color" attributeName="Color" transAttributeName="Color"
+               dataType="string"/>
+         <data nodeName="NOTE" attributeName="NOTE" transAttributeName="NOTE"
+               dataType="string"/>
+      </dataGroup>
+   </ItemContent>
+</ItemContents>
