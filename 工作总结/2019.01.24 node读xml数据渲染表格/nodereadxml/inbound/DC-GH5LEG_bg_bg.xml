@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemContents>
+   <ItemContent nodeName="ItemContent">
+      <data nodeName="ShortModelNumber" attributeName="Short Model Number"
+            transAttributeName="Short Model Number"
+            dataType="string"><![CDATA[DC-GH5LEG]]></data>
+      <data nodeName="UnifiedModelNumber" attributeName="Unified Model Number"
+            transAttributeName="Unified Model Number"
+            dataType="string"><![CDATA[DC-GH5LEG-K]]></data>
+      <data nodeName="catalogName" attributeName="catalogName"
+            transAttributeName="catalogName"
+            dataType="string"><![CDATA[Lumix]]></data>
+      <dataGroup nodeName="Category" attributeName="Category" transAttributeName="Category"
+                 dataType="string">
+         <data nodeName="CategoryTree1" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[Lumix]]></data>
+         <data nodeName="CategoryTree2" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[PIERS]]></data>
+         <data nodeName="CategoryTree3" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[G_G Micro System]]></data>
+         <data nodeName="CategoryTree4" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[G_G Micro System GH5]]></data>
+         <data nodeName="CategoryTree5" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[GH5L]]></data>
+      </dataGroup>
+      <dataGroup nodeName="GeneralData" attributeName="GeneralData"
+                 transAttributeName="GeneralData"
+                 dataType="string">
+         <data nodeName="BrandName" attributeName="Brand Name" transAttributeName="Brand Name"
+               dataType="string"><![CDATA[Panasonic]]></data>
+         <data nodeName="ProductType" attributeName="Product Type"
+               transAttributeName="Product Type"
+               dataType="string"><![CDATA[Main Unit]]></data>
+         <data nodeName="NumberofDaysNew" attributeName="Number of Days New"
+               transAttributeName="Number of Days New"
+               dataType="number"><![CDATA[90]]></data>
+         <dataGroup nodeName="SalesRegion" attributeName="Sales Region"
+                    transAttributeName="Sales Region"
+                    dataType="string">
+            <data nodeName="locale" attributeName="locale" transAttributeName="locale"
+                  dataType="string"><![CDATA[bg_bg]]></data>
+         </dataGroup>
+         <dataGroup nodeName="Dates" attributeName="Dates" transAttributeName="Dates"
+                    dataType="string">
+            <data nodeName="WebPublishingDate" attributeName="Web Publishing Date"
+                  transAttributeName="Web Publishing Date"
+                  dataType="date"><![CDATA[2018-05-30T09:00:00.0Z]]></data>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="MarketingDescription" attributeName="MarketingDescription"
+                 transAttributeName="MarketingDescription"
+                 dataType="string">
+         <data nodeName="ModelName" attributeName="Model Name" transAttributeName="Model Name"
+               dataType="string"/>
+         <dataGroup nodeName="ShortDescriptions" attributeName="ShortDescriptions"
+                    transAttributeName="ShortDescriptions"
+                    dataType="string">
+            <data nodeName="ShortDescription" attributeName="Short Description"
+                  transAttributeName="Short Description"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="SalesArguments" attributeName="SalesArguments"
+                    transAttributeName="SalesArguments"
+                    dataType="string">
+            <data nodeName="SalesArgument" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"/>
+            <data nodeName="SalesArgument_0" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"/>
+            <data nodeName="SalesArgument_1" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"/>
+            <data nodeName="SalesArgument_2" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"/>
+            <data nodeName="SalesArgument_3" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"/>
+            <data nodeName="SalesArgument_4" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="LongDescription" attributeName="LongDescription"
+                    transAttributeName="LongDescription"
+                    dataType="string">
+            <data nodeName="Heading" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"/>
+            <data nodeName="Paragraph" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"/>
+            <data nodeName="Heading_0" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"/>
+            <data nodeName="Paragraph_0" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"/>
+            <data nodeName="Heading_1" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"/>
+            <data nodeName="Paragraph_1" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"/>
+            <data nodeName="Heading_2" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"/>
+            <data nodeName="Paragraph_2" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"/>
+            <data nodeName="Heading_3" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"/>
+            <data nodeName="Paragraph_3" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="DigitalAssets" attributeName="DigitalAssets"
+                 transAttributeName="DigitalAssets"
+                 dataType="string">
+         <dataGroup nodeName="Images" attributeName="Images" transAttributeName="Images"
+                    dataType="string">
+            <dataGroup nodeName="HiRes-Image" attributeName="HiRes-Image"
+                       transAttributeName="HiRes-Image"
+                       dataType="string">
+               <data nodeName="Image" attributeName="Image" transAttributeName="Image"
+                     dataType="file"><![CDATA[DC-GH5LEG-HiRes-Image__Image--1Europe-1_bg_bg.jpg]]></data>
+               <data nodeName="Image_0" attributeName="Image" transAttributeName="Image"
+                     dataType="file"><![CDATA[DC-GH5LEG-Additional_WebImage__HiRes-Image--1Europe-1_bg_bg.jpg]]></data>
+               <data nodeName="Image_1" attributeName="Image" transAttributeName="Image"
+                     dataType="file"><![CDATA[DC-GH5LEG-Additional_WebImage__HiRes-Image--2Europe-1_bg_bg.jpg]]></data>
+               <data nodeName="Image_2" attributeName="Image" transAttributeName="Image"
+                     dataType="file"><![CDATA[DC-GH5LEG-Additional_WebImage__HiRes-Image--3Europe-1_bg_bg.jpg]]></data>
+               <data nodeName="Image_3" attributeName="Image" transAttributeName="Image"
+                     dataType="file"><![CDATA[DC-GH5LEG-Additional_WebImage__HiRes-Image--4Europe-1_bg_bg.jpg]]></data>
+            </dataGroup>
+            <dataGroup nodeName="AdditionalWebImage" attributeName="AdditionalWebImage"
+                       transAttributeName="AdditionalWebImage"
+                       dataType="string">
+               <data nodeName="HiRes-Image" attributeName="HiRes-Image"
+                     transAttributeName="HiRes-Image"
+                     dataType="file"><![CDATA[DC-GH5LEG-Additional_WebImage__HiRes-Image--1Europe-1_bg_bg.jpg]]></data>
+               <data nodeName="HiRes-Image_0" attributeName="HiRes-Image"
+                     transAttributeName="HiRes-Image"
+                     dataType="file"><![CDATA[DC-GH5LEG-Additional_WebImage__HiRes-Image--2Europe-1_bg_bg.jpg]]></data>
+               <data nodeName="HiRes-Image_1" attributeName="HiRes-Image"
+                     transAttributeName="HiRes-Image"
+                     dataType="file"><![CDATA[DC-GH5LEG-Additional_WebImage__HiRes-Image--3Europe-1_bg_bg.jpg]]></data>
+               <data nodeName="HiRes-Image_2" attributeName="HiRes-Image"
+                     transAttributeName="HiRes-Image"
+                     dataType="file"><![CDATA[DC-GH5LEG-Additional_WebImage__HiRes-Image--4Europe-1_bg_bg.jpg]]></data>
+            </dataGroup>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="Overview" attributeName="Overview" transAttributeName="Overview"
+                 dataType="string">
+         <data nodeName="OverviewTemplateSelector" attributeName="Overview Template Selector"
+               transAttributeName="Overview Template Selector"
+               dataType="string"><![CDATA[LEFT]]></data>
+         <data nodeName="DisplayModelNumber" attributeName="Display Model Number"
+               transAttributeName="Display Model Number"
+               dataType="string"><![CDATA[lumix-2017-gh5l-1-1]]></data>
+         <data nodeName="FullProductName" attributeName="Full Product Name"
+               transAttributeName="Full Product Name"
+               dataType="string"><![CDATA[Цифров безогледален фотоапарат с един обектив LUMIX DC-GH5]]></data>
+         <data nodeName="ModelNumber" attributeName="Model Number"
+               transAttributeName="Model Number"
+               dataType="string"><![CDATA[DC-GH5L]]></data>
+         <data nodeName="DescriptionForSeeAll" attributeName="Description For See All"
+               transAttributeName="Description For See All"
+               dataType="string"><![CDATA[DSLM (цифров безогледален с един обектив) фотоапарат, включващ превъзходно качество на картината, възможност за запис на 4K/60p Video и 6K PHOTO. 12-60-милиметров комплект обективи LEICA DG]]></data>
+         <data nodeName="ProductMainPicture" attributeName="Product Main Picture"
+               transAttributeName="Product Main Picture"
+               dataType="file"><![CDATA[DC-GH5LEG-Product_Main_PictureGlobal-1_bg_bg.jpg]]></data>
+         <data nodeName="ProductMainImageCopyRights"
+               attributeName="Product Main Image Copy Rights"
+               transAttributeName="Product Main Image Copy Rights"
+               dataType="flag"/>
+         <data nodeName="ProductMainImageExpireDate"
+               attributeName="Product Main Image Expire Date"
+               transAttributeName="Product Main Image Expire Date"
+               dataType="date"/>
+         <data nodeName="ProductLogoImage" attributeName="Product Logo Image"
+               transAttributeName="Product Logo Image"
+               dataType="file"/>
+         <data nodeName="PromotionLogoImage" attributeName="Promotion Logo Image"
+               transAttributeName="Promotion Logo Image"
+               dataType="file"/>
+         <data nodeName="SubBrandLogoImage" attributeName="Sub Brand Logo Image"
+               transAttributeName="Sub Brand Logo Image"
+               dataType="file"/>
+         <data nodeName="KeyCopy" attributeName="Key Copy" transAttributeName="Key Copy"
+               dataType="string"><![CDATA[СНИМКИ. ВИДЕОКЛИПОВЕ. Стигнете до нови граници.]]></data>
+         <data nodeName="SubCopy" attributeName="Sub Copy" transAttributeName="Sub Copy"
+               dataType="string"><![CDATA[Цифровият Live MOS сензор дава най-доброто при качествоот на изображенията на LUMIX. Първият в света 4K/60P видео запис поддържа професионален работен обем. 6K PHOTO ви позволява да улавяте сигурно моменти, които иначе биха били оставени на произвола на случайността. Открийте новите измерения на фотографията и видеографията с LUMIX GH5.
+*За цифров безогледален фотоапарат с един обектив към 4 януари 2017 г.]]></data>
+         <data nodeName="SalesDateForTopPage" attributeName="Sales Date For Top Page"
+               transAttributeName="Sales Date For Top Page"
+               dataType="string"/>
+         <data nodeName="Annotation" attributeName="Annotation"
+               transAttributeName="Annotation"
+               dataType="string"/>
+         <data nodeName="MicrositeBannerImage" attributeName="Microsite Banner Image"
+               transAttributeName="Microsite Banner Image"
+               dataType="file"/>
+         <data nodeName="MicrositeBannerImageURL" attributeName="Microsite Banner Image URL"
+               transAttributeName="Microsite Banner Image URL"
+               dataType="string"/>
+      </dataGroup>
+      <dataGroup nodeName="Features" attributeName="Features" transAttributeName="Features"
+                 dataType="string">
+         <data nodeName="NumberOfFeatures" attributeName="Number Of Features"
+               transAttributeName="Number Of Features"
+               dataType="number"><![CDATA[1]]></data>
+         <dataGroup nodeName="Feature1" attributeName="Feature 1" transAttributeName="Feature 1"
+                    dataType="string">
+            <data nodeName="SectorName1" attributeName="Sector Name 1"
+                  transAttributeName="Sector Name 1"
+                  dataType="string"><![CDATA[Въведение]]></data>
+            <data nodeName="FactorName1-1" attributeName="Factor Name 1-1"
+                  transAttributeName="Factor Name 1-1"
+                  dataType="string"/>
+            <data nodeName="FactorID1-1" attributeName="Factor ID 1-1"
+                  transAttributeName="Factor ID 1-1"
+                  dataType="string"><![CDATA[lumix-2017-gh5-2-1-1]]></data>
+            <data nodeName="FactorName1-2" attributeName="Factor Name 1-2"
+                  transAttributeName="Factor Name 1-2"
+                  dataType="string"/>
+            <data nodeName="FactorID1-2" attributeName="Factor ID 1-2"
+                  transAttributeName="Factor ID 1-2"
+                  dataType="string"><![CDATA[lumix-2017-gh5-2-1-2]]></data>
+            <data nodeName="FactorName1-3" attributeName="Factor Name 1-3"
+                  transAttributeName="Factor Name 1-3"
+                  dataType="string"/>
+            <data nodeName="FactorID1-3" attributeName="Factor ID 1-3"
+                  transAttributeName="Factor ID 1-3"
+                  dataType="string"><![CDATA[lumix-2017-gh5-2-1-3]]></data>
+            <data nodeName="FactorName1-4" attributeName="Factor Name 1-4"
+                  transAttributeName="Factor Name 1-4"
+                  dataType="string"/>
+            <data nodeName="FactorID1-4" attributeName="Factor ID 1-4"
+                  transAttributeName="Factor ID 1-4"
+                  dataType="string"><![CDATA[lumix-2017-gh5-2-2-1]]></data>
+            <data nodeName="FactorName1-5" attributeName="Factor Name 1-5"
+                  transAttributeName="Factor Name 1-5"
+                  dataType="string"/>
+            <data nodeName="FactorID1-5" attributeName="Factor ID 1-5"
+                  transAttributeName="Factor ID 1-5"
+                  dataType="string"><![CDATA[lumix-2017-gh5-2-2-2]]></data>
+            <data nodeName="FactorName1-6" attributeName="Factor Name 1-6"
+                  transAttributeName="Factor Name 1-6"
+                  dataType="string"/>
+            <data nodeName="FactorID1-6" attributeName="Factor ID 1-6"
+                  transAttributeName="Factor ID 1-6"
+                  dataType="string"><![CDATA[lumix-2017-gh5-2-3-1]]></data>
+         </dataGroup>
+         <dataGroup nodeName="Feature2" attributeName="Feature 2" transAttributeName="Feature 2"
+                    dataType="string">
+            <data nodeName="FactorName2-1" attributeName="Factor Name 2-1"
+                  transAttributeName="Factor Name 2-1"
+                  dataType="string"/>
+            <data nodeName="FactorID2-1" attributeName="Factor ID 2-1"
+                  transAttributeName="Factor ID 2-1"
+                  dataType="string"><![CDATA[lumix-2017-gh5-2-3-2]]></data>
+            <data nodeName="FactorName2-2" attributeName="Factor Name 2-2"
+                  transAttributeName="Factor Name 2-2"
+                  dataType="string"/>
+            <data nodeName="FactorID2-2" attributeName="Factor ID 2-2"
+                  transAttributeName="Factor ID 2-2"
+                  dataType="string"><![CDATA[lumix-2017-gh5-2-4-1]]></data>
+            <data nodeName="FactorName2-3" attributeName="Factor Name 2-3"
+                  transAttributeName="Factor Name 2-3"
+                  dataType="string"/>
+            <data nodeName="FactorID2-3" attributeName="Factor ID 2-3"
+                  transAttributeName="Factor ID 2-3"
+                  dataType="string"><![CDATA[lumix-2017-gh5-2-5-1]]></data>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="GetInspired" attributeName="Get Inspired"
+                 transAttributeName="Get Inspired"
+                 dataType="string">
+         <data nodeName="GetInspiredTemplateSelector"
+               attributeName="Get Inspired Template Selector"
+               transAttributeName="Get Inspired Template Selector"
+               dataType="string"/>
+         <data nodeName="GetInspiredTitle1" attributeName="Get Inspired Title 1"
+               transAttributeName="Get Inspired Title 1"
+               dataType="string"><![CDATA[Образци на снимки]]></data>
+         <data nodeName="GetInspiredID1" attributeName="Get Inspired ID 1"
+               transAttributeName="Get Inspired ID 1"
+               dataType="string"><![CDATA[lumix-2017-gh5-4-1]]></data>
+         <data nodeName="GetInspiredTitle2" attributeName="Get Inspired Title 2"
+               transAttributeName="Get Inspired Title 2"
+               dataType="string"><![CDATA[Образци на снимки]]></data>
+         <data nodeName="GetInspiredID2" attributeName="Get Inspired ID 2"
+               transAttributeName="Get Inspired ID 2"
+               dataType="string"><![CDATA[lumix-2017-gh5-4-1]]></data>
+      </dataGroup>
+      <dataGroup nodeName="Accessory" attributeName="Accessory" transAttributeName="Accessory"
+                 dataType="string">
+         <dataGroup nodeName="AccessoryCategory" attributeName="AccessoryCategory"
+                    transAttributeName="AccessoryCategory"
+                    dataType="string">
+            <data nodeName="AccessoryTemplateSelector"
+                  attributeName="Accessory Template Selector"
+                  transAttributeName="Accessory Template Selector"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryTitle1" attributeName="Accessory Category Title 1"
+                  transAttributeName="Accessory Category Title 1"
+                  dataType="string"><![CDATA[Обективи]]></data>
+            <data nodeName="AccessoryCategoryID1" attributeName="AccessoryCategoryID 1"
+                  transAttributeName="AccessoryCategoryID 1"
+                  dataType="string"><![CDATA[lumix-2017-gh5-5-1]]></data>
+            <data nodeName="AccessoryCategoryTitle2" attributeName="Accessory Category Title 2"
+                  transAttributeName="Accessory Category Title 2"
+                  dataType="string"><![CDATA[Адаптер за байонет]]></data>
+            <data nodeName="AccessoryCategoryID2" attributeName="AccessoryCategoryID 2"
+                  transAttributeName="AccessoryCategoryID 2"
+                  dataType="string"><![CDATA[lumix-2017-gh5-5-2-l]]></data>
+            <data nodeName="AccessoryCategoryTitle3" attributeName="Accessory Category Title 3"
+                  transAttributeName="Accessory Category Title 3"
+                  dataType="string"><![CDATA[Светкавици]]></data>
+            <data nodeName="AccessoryCategoryID3" attributeName="AccessoryCategoryID 3"
+                  transAttributeName="AccessoryCategoryID 3"
+                  dataType="string"><![CDATA[lumix-2017-gh5-5-3]]></data>
+            <data nodeName="AccessoryCategoryTitle4" attributeName="Accessory Category Title 4"
+                  transAttributeName="Accessory Category Title 4"
+                  dataType="string"><![CDATA[Захват на батерията / батерия]]></data>
+            <data nodeName="AccessoryCategoryID4" attributeName="AccessoryCategoryID 4"
+                  transAttributeName="AccessoryCategoryID 4"
+                  dataType="string"><![CDATA[lumix-2017-gh5-5-4]]></data>
+            <data nodeName="AccessoryCategoryTitle5" attributeName="Accessory Category Title 5"
+                  transAttributeName="Accessory Category Title 5"
+                  dataType="string"><![CDATA[Микрофони / XLR микрофонен адаптер]]></data>
+            <data nodeName="AccessoryCategoryID5" attributeName="AccessoryCategoryID 5"
+                  transAttributeName="AccessoryCategoryID 5"
+                  dataType="string"><![CDATA[lumix-2017-gh5-5-5]]></data>
+            <data nodeName="AccessoryCategoryTitle6" attributeName="Accessory Category Title 6"
+                  transAttributeName="Accessory Category Title 6"
+                  dataType="string"><![CDATA[Други]]></data>
+            <data nodeName="AccessoryCategoryID6" attributeName="AccessoryCategoryID 6"
+                  transAttributeName="AccessoryCategoryID 6"
+                  dataType="string"><![CDATA[lumix-2017-gh5-5-6]]></data>
+         </dataGroup>
+         <dataGroup nodeName="AccessoryItems" attributeName="AccessoryItems"
+                    transAttributeName="AccessoryItems"
+                    dataType="string"/>
+      </dataGroup>
+      <dataGroup nodeName="KeyTechnicalFeature" attributeName="KeyTechnicalFeature"
+                 transAttributeName="KeyTechnicalFeature"
+                 dataType="string">
+         <data nodeName="TechnicalFeatureTemplateSelector"
+               attributeName="Technical Feature Template Selector"
+               transAttributeName="Technical Feature Template Selector"
+               dataType="string"><![CDATA[LEFT]]></data>
+         <data nodeName="ProductImage" attributeName="Product Image"
+               transAttributeName="Product Image"
+               dataType="file"><![CDATA[DC-GH5LEG-Product_ImageGlobal-1_bg_bg.png]]></data>
+         <data nodeName="ProductThumbnail" attributeName="Product Thumbnail"
+               transAttributeName="Product Thumbnail"
+               dataType="file"/>
+         <data nodeName="CopyText" attributeName="Copy Text" transAttributeName="Copy Text"
+               dataType="string"/>
+         <data nodeName="KeySpecs1" attributeName="Key Specs 1"
+               transAttributeName="Key Specs 1"
+               dataType="string"><![CDATA[20,3 мегапиксела]]></data>
+         <data nodeName="KeySpecsValue1" attributeName="Key Specs Value 1"
+               transAttributeName="Key Specs Value 1"
+               dataType="string"><![CDATA[Цифров Live MOS сензор]]></data>
+         <data nodeName="KeySpecs2" attributeName="Key Specs 2"
+               transAttributeName="Key Specs 2"
+               dataType="string"><![CDATA[4K/60p]]></data>
+         <data nodeName="KeySpecsValue2" attributeName="Key Specs Value 2"
+               transAttributeName="Key Specs Value 2"
+               dataType="string"><![CDATA[Видеозапис]]></data>
+         <data nodeName="KeySpecs3" attributeName="Key Specs 3"
+               transAttributeName="Key Specs 3"
+               dataType="string"><![CDATA[6K PHOTO]]></data>
+         <data nodeName="KeySpecsValue3" attributeName="Key Specs Value 3"
+               transAttributeName="Key Specs Value 3"
+               dataType="string"><![CDATA[6K 30fps, 4K 60fps]]></data>
+         <dataGroup nodeName="TechnicalIcons" attributeName="TechnicalIcons"
+                    transAttributeName="TechnicalIcons"
+                    dataType="string">
+            <data nodeName="TechnicalIcons1" attributeName="Technical Icons 1"
+                  transAttributeName="Technical Icons 1"
+                  dataType="file"><![CDATA[DC-GH5LEG-Technical_Icons_1Global-1_bg_bg.png]]></data>
+            <data nodeName="TechnicalIconsText1" attributeName="Technical Icons Text 1"
+                  transAttributeName="Technical Icons Text 1"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL1" attributeName="Technical Icons URL 1"
+                  transAttributeName="Technical Icons URL 1"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons2" attributeName="Technical Icons 2"
+                  transAttributeName="Technical Icons 2"
+                  dataType="file"><![CDATA[DC-GH5LEG-Technical_Icons_2Global-1_bg_bg.png]]></data>
+            <data nodeName="TechnicalIconsText2" attributeName="Technical Icons Text 2"
+                  transAttributeName="Technical Icons Text 2"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL2" attributeName="Technical Icons URL 2"
+                  transAttributeName="Technical Icons URL 2"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons3" attributeName="Technical Icons 3"
+                  transAttributeName="Technical Icons 3"
+                  dataType="file"><![CDATA[DC-GH5LEG-Technical_Icons_3Global-1_bg_bg.png]]></data>
+            <data nodeName="TechnicalIconsText3" attributeName="Technical Icons Text 3"
+                  transAttributeName="Technical Icons Text 3"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL3" attributeName="Technical Icons URL 3"
+                  transAttributeName="Technical Icons URL 3"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons4" attributeName="Technical Icons 4"
+                  transAttributeName="Technical Icons 4"
+                  dataType="file"><![CDATA[DC-GH5LEG-Technical_Icons_4Global-1_bg_bg.png]]></data>
+            <data nodeName="TechnicalIconsText4" attributeName="Technical Icons Text 4"
+                  transAttributeName="Technical Icons Text 4"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL4" attributeName="Technical Icons URL 4"
+                  transAttributeName="Technical Icons URL 4"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons5" attributeName="Technical Icons 5"
+                  transAttributeName="Technical Icons 5"
+                  dataType="file"><![CDATA[DC-GH5LEG-Technical_Icons_5Global-1_bg_bg.png]]></data>
+            <data nodeName="TechnicalIconsText5" attributeName="Technical Icons Text 5"
+                  transAttributeName="Technical Icons Text 5"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL5" attributeName="Technical Icons URL 5"
+                  transAttributeName="Technical Icons URL 5"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons6" attributeName="Technical Icons 6"
+                  transAttributeName="Technical Icons 6"
+                  dataType="file"><![CDATA[DC-GH5LEG-Technical_Icons_6Global-1_bg_bg.png]]></data>
+            <data nodeName="TechnicalIconsText6" attributeName="Technical Icons Text 6"
+                  transAttributeName="Technical Icons Text 6"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL6" attributeName="Technical Icons URL 6"
+                  transAttributeName="Technical Icons URL 6"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons7" attributeName="Technical Icons 7"
+                  transAttributeName="Technical Icons 7"
+                  dataType="file"><![CDATA[DC-GH5LEG-Technical_Icons_7Global-1_bg_bg.png]]></data>
+            <data nodeName="TechnicalIconsText7" attributeName="Technical Icons Text 7"
+                  transAttributeName="Technical Icons Text 7"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL7" attributeName="Technical Icons URL 7"
+                  transAttributeName="Technical Icons URL 7"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons8" attributeName="Technical Icons 8"
+                  transAttributeName="Technical Icons 8"
+                  dataType="file"><![CDATA[DC-GH5LEG-Technical_Icons_8Global-1_bg_bg.png]]></data>
+            <data nodeName="TechnicalIconsText8" attributeName="Technical Icons Text 8"
+                  transAttributeName="Technical Icons Text 8"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL8" attributeName="Technical Icons URL 8"
+                  transAttributeName="Technical Icons URL 8"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons9" attributeName="Technical Icons 9"
+                  transAttributeName="Technical Icons 9"
+                  dataType="file"><![CDATA[DC-GH5LEG-Technical_Icons_9Global-1_bg_bg.png]]></data>
+            <data nodeName="TechnicalIconsText9" attributeName="Technical Icons Text 9"
+                  transAttributeName="Technical Icons Text 9"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL9" attributeName="Technical Icons URL 9"
+                  transAttributeName="Technical Icons URL 9"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons10" attributeName="Technical Icons 10"
+                  transAttributeName="Technical Icons 10"
+                  dataType="file"/>
+            <data nodeName="TechnicalIconsText10" attributeName="Technical Icons Text 10"
+                  transAttributeName="Technical Icons Text 10"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL10" attributeName="Technical Icons URL 10"
+                  transAttributeName="Technical Icons URL 10"
+                  dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="Faceted" attributeName="Faceted" transAttributeName="Faceted"
+                 dataType="string">
+         <dataGroup nodeName="CompareFeature" attributeName="CompareFeature"
+                    transAttributeName="CompareFeature"
+                    dataType="string">
+            <data nodeName="CompareItem1" attributeName="Compare Item 1"
+                  transAttributeName="Compare Item 1"
+                  dataType="string"><![CDATA[Байонет на обектива]]></data>
+            <data nodeName="CompareValue1" attributeName="Compare Value 1"
+                  transAttributeName="Compare Value 1"
+                  dataType="string"><![CDATA[Байонет за Micro Four Thirds]]></data>
+            <data nodeName="CompareItem2" attributeName="Compare Item 2"
+                  transAttributeName="Compare Item 2"
+                  dataType="string"><![CDATA[Размер на сензора за изображения]]></data>
+            <data nodeName="CompareValue2" attributeName="Compare Value 2"
+                  transAttributeName="Compare Value 2"
+                  dataType="string"><![CDATA[17,3 x 13,0 мм (в аспектно съотношение 4:3)]]></data>
+            <data nodeName="CompareItem3" attributeName="Compare Item 3"
+                  transAttributeName="Compare Item 3"
+                  dataType="string"><![CDATA[Ефективни пиксели на фотоапарата]]></data>
+            <data nodeName="CompareValue3" attributeName="Compare Value 3"
+                  transAttributeName="Compare Value 3"
+                  dataType="string"><![CDATA[20,30 мегапиксела]]></data>
+            <data nodeName="CompareItem4" attributeName="Compare Item 4"
+                  transAttributeName="Compare Item 4"
+                  dataType="string"><![CDATA[Формат на файла при запис]]></data>
+            <data nodeName="CompareValue4" attributeName="Compare Value 4"
+                  transAttributeName="Compare Value 4"
+                  dataType="string"><![CDATA[JPEG (DCF, Exif 2.31), RAW
+ 6K PHOTO: MP4 (H.265/HEVC, аудио формат: AAC (2ch))
+ 4K PHOTO: MP4 (H.264/MPEG-4 AVC, аудио формат: AAC (2ch))
+ MOV: H.264/MPEG-4 AVC (аудио формат: LPCM (2ch 48kHz/16-bit, 48kHz/24-bit*, 96kHz/24-bit*)) *Когато се добави DMW-XLR1 (продава се отделно).
+MP4: H.264/MPEG-4 AVC, H.265/HEVC* (аудио формат: LPCM (2ch 48kHz/16-bit), AAC (2ch)) *Анаморфичен 6K режим. Фърмуерът ще се пусне на пазара през втората половина на 2017 г.
+AVCHD прогресивен, AVCHD (аудио формат: Dolby аудио 2ch)]]></data>
+            <data nodeName="CompareItem5" attributeName="Compare Item 5"
+                  transAttributeName="Compare Item 5"
+                  dataType="string"><![CDATA[Максимален размер на файла [снимка]]]></data>
+            <data nodeName="CompareValue5" attributeName="Compare Value 5"
+                  transAttributeName="Compare Value 5"
+                  dataType="string"><![CDATA[[4:3] 5184x3888 [3:2] 5184x3456 [16:9] 5184x2920 [1:1] 3888x3888]]></data>
+            <data nodeName="CompareItem6" attributeName="Compare Item 6"
+                  transAttributeName="Compare Item 6"
+                  dataType="string"><![CDATA[Максимален размер на файла [видео]]]></data>
+            <data nodeName="CompareValue6" attributeName="Compare Value 6"
+                  transAttributeName="Compare Value 6"
+                  dataType="string"><![CDATA[[MOV/MP4] C4K: 4096 x 2160, 24,00 пиксела 4K: 3840x2160, 59.94p/50.00p/24.00p/29.97p/23.98p
+[прогресивно AVCHD] 1920 × 1080 59,94 пиксела/50,00 пиксела
+[AVCHD] 1920 x 1080 59,94i/50,00i]]></data>
+            <data nodeName="CompareItem7" attributeName="Compare Item 7"
+                  transAttributeName="Compare Item 7"
+                  dataType="string"><![CDATA[Серийно заснемане]]></data>
+            <data nodeName="CompareValue7" attributeName="Compare Value 7"
+                  transAttributeName="Compare Value 7"
+                  dataType="string"><![CDATA[[Механичен затвор]
+AFS/MF: H: 12 кадъра/сек, M: 7 кадъра/сек (с Live View), L: 2 кадъра/сек (с Live View)
+AFF/AFC: H: 9 кадъра/сек, M: 7 кадъра/сек (с Live View), L: 2 кадъра/сек (с Live View)
+[Електронен затвор]
+ AFS/MF: H: 12 кадъра/сек, M: 7 кадъра/сек (с Live View), L: 2 кадъра/сек (с Live View)
+AFF/AFC: H: 9 кадъра/сек, M: 7 кадъра/сек (с Live View), L: 2 кадъра/сек (с Live View)
+[6K PHOTO]
+30 кадъра/сек
+[4K PHOTO]
+60 кадъра/сек, 30 кадъра/сек]]></data>
+            <data nodeName="CompareItem8" attributeName="Compare Item 8"
+                  transAttributeName="Compare Item 8"
+                  dataType="string"><![CDATA[ISO чувствителност]]></data>
+            <data nodeName="CompareValue8" attributeName="Compare Value 8"
+                  transAttributeName="Compare Value 8"
+                  dataType="string"><![CDATA[Статично изображение: Автоматичен / Интелигентен ISO / 100 (удължено) / 200 / 400 / 800 / 1600 / 3200 / 6400 / 12800 / 25600 (сменяемо на 1/3 EV стъпки)
+ Креативен видео режим: Автоматичен / 100 (удължено) / 200 / 400 / 800 / 1600 / 3200 / 6400 / 12800 (сменяемо на 1/3 EV стъпки)]]></data>
+            <data nodeName="CompareItem9" attributeName="Compare Item 9"
+                  transAttributeName="Compare Item 9"
+                  dataType="string"><![CDATA[Творчески функции]]></data>
+            <data nodeName="CompareValue9" attributeName="Compare Value 9"
+                  transAttributeName="Compare Value 9"
+                  dataType="string"><![CDATA[Творческо управление, творческа панорама]]></data>
+            <data nodeName="CompareItem10" attributeName="Compare Item 10"
+                  transAttributeName="Compare Item 10"
+                  dataType="string"><![CDATA[Визьор]]></data>
+            <data nodeName="CompareValue10" attributeName="Compare Value 10"
+                  transAttributeName="Compare Value 10"
+                  dataType="string"><![CDATA[Да (OLED Live View Finder, 3 686 000 точки)]]></data>
+            <data nodeName="CompareItem11" attributeName="Compare Item 11"
+                  transAttributeName="Compare Item 11"
+                  dataType="string"><![CDATA[Екран]]></data>
+            <data nodeName="CompareValue11" attributeName="Compare Value 11"
+                  transAttributeName="Compare Value 11"
+                  dataType="string"><![CDATA[3,2-инчов подвижен екран със статичен сензорен контрол, прибл. 1 620 000 точки]]></data>
+            <data nodeName="CompareItem12" attributeName="Compare Item 12"
+                  transAttributeName="Compare Item 12"
+                  dataType="string"><![CDATA[Светкавица]]></data>
+            <data nodeName="CompareValue12" attributeName="Compare Value 12"
+                  transAttributeName="Compare Value 12"
+                  dataType="string"><![CDATA[-]]></data>
+            <data nodeName="CompareItem13" attributeName="Compare Item 13"
+                  transAttributeName="Compare Item 13"
+                  dataType="string"><![CDATA[Микрофон / високоговорител]]></data>
+            <data nodeName="CompareValue13" attributeName="Compare Value 13"
+                  transAttributeName="Compare Value 13"
+                  dataType="string"><![CDATA[[Микрофон] Стерео, заглушител на шум от вятър: ИЗКЛ./слаб/стандартен/висок/АВТОМАТИЧЕН
+[Високоговорител] Монофонен]]></data>
+            <data nodeName="CompareItem14" attributeName="Compare Item 14"
+                  transAttributeName="Compare Item 14"
+                  dataType="string"><![CDATA[Интерфейс]]></data>
+            <data nodeName="CompareValue14" attributeName="Compare Value 14"
+                  transAttributeName="Compare Value 14"
+                  dataType="string"><![CDATA[HDMI TypeA, USB Type-C, вход за дистанционно управление (φ2,5 мм), вход за външен микрофон (φ3,5 мм), изход за слушалки (φ3,5 мм)]]></data>
+            <data nodeName="CompareItem15" attributeName="Compare Item 15"
+                  transAttributeName="Compare Item 15"
+                  dataType="string"><![CDATA[Wi-Fi]]></data>
+            <data nodeName="CompareValue15" attributeName="Compare Value 15"
+                  transAttributeName="Compare Value 15"
+                  dataType="string"><![CDATA[Да]]></data>
+            <data nodeName="CompareItem16" attributeName="Compare Item 16"
+                  transAttributeName="Compare Item 16"
+                  dataType="string"><![CDATA[Тип батерия / живот на батерията]]></data>
+            <data nodeName="CompareValue16" attributeName="Compare Value 16"
+                  transAttributeName="Compare Value 16"
+                  dataType="string"><![CDATA[Прибл. 400 изображения (заден монитор), 380 изображения (LVF), 1000 изображения (енергоспестяващ LVF режим*) с H-ES12060
+* При тестовите условия, посочени от Panasonic на базата на стандарта CIPA. Когато времето за влизане в режим на заспиване е настроено на 3 сек.]]></data>
+            <data nodeName="CompareItem17" attributeName="Compare Item 17"
+                  transAttributeName="Compare Item 17"
+                  dataType="string"><![CDATA[Други]]></data>
+            <data nodeName="CompareValue17" attributeName="Compare Value 17"
+                  transAttributeName="Compare Value 17"
+                  dataType="string"><![CDATA[Гнездо за светкавица]]></data>
+            <data nodeName="CompareItem18" attributeName="Compare Item 18"
+                  transAttributeName="Compare Item 18"
+                  dataType="string"><![CDATA[Размери]]></data>
+            <data nodeName="CompareValue18" attributeName="Compare Value 18"
+                  transAttributeName="Compare Value 18"
+                  dataType="string"><![CDATA[138,5 x 98,1 x 87,4 мм / 5,45 x 3,86 x 3,44 инча (без да се броят издатините)]]></data>
+            <data nodeName="CompareItem19" attributeName="Compare Item 19"
+                  transAttributeName="Compare Item 19"
+                  dataType="string"><![CDATA[Тегло]]></data>
+            <data nodeName="CompareValue19" attributeName="Compare Value 19"
+                  transAttributeName="Compare Value 19"
+                  dataType="string"><![CDATA[Прибл. 725 г / 1,60 фунта (SD карта, батерия, корпус)
+ Прибл. 645 г / 1,42 фунта (само корпус)
+ Прибл. 1045 г / 2,30 фунта (1 x SD карта, батерия, включително с обектив H-ES12060)]]></data>
+            <data nodeName="CompareItem20" attributeName="Compare Item 20"
+                  transAttributeName="Compare Item 20"
+                  dataType="string"><![CDATA[Други]]></data>
+            <data nodeName="CompareValue20" attributeName="Compare Value 20"
+                  transAttributeName="Compare Value 20"
+                  dataType="string"><![CDATA[5-осов Dual I.S. 2 (двоен стабилизатор на изображението), Устойчиво на пръски / прах / замръзване]]></data>
+         </dataGroup>
+         <dataGroup nodeName="FacetedSlider" attributeName="FacetedSlider"
+                    transAttributeName="FacetedSlider"
+                    dataType="string"/>
+         <dataGroup nodeName="FacetedNavigation" attributeName="FacetedNavigation"
+                    transAttributeName="FacetedNavigation"
+                    dataType="string"/>
+      </dataGroup>
+      <dataGroup nodeName="Variation" attributeName="Variation" transAttributeName="Variation"
+                 dataType="string">
+         <data nodeName="VariationName1" attributeName="Variation Name 1"
+               transAttributeName="Variation Name 1"
+               dataType="string"><![CDATA[Color]]></data>
+         <data nodeName="VariationImage1" attributeName="Variation Image 1"
+               transAttributeName="Variation Image 1"
+               dataType="file"><![CDATA[DC-GH5LEG-Variation_Image_1Global-1_bg_bg.png]]></data>
+         <data nodeName="VariationImageforSeeAll1"
+               attributeName="Variation Image for See All 1"
+               transAttributeName="Variation Image for See All 1"
+               dataType="file"><![CDATA[DC-GH5LEG-Variation_Image_for_See_All_1Global-1_bg_bg.png]]></data>
+         <data nodeName="VariationIconImage1" attributeName="Variation Icon Image 1"
+               transAttributeName="Variation Icon Image 1"
+               dataType="file"><![CDATA[DC-GH5LEG-Variation_Icon_Image_1Global-1_bg_bg.gif]]></data>
+         <data nodeName="VariationText1" attributeName="Variation Text 1"
+               transAttributeName="Variation Text 1"
+               dataType="string"><![CDATA[Black]]></data>
+         <data nodeName="VariationMeasurementName1"
+               attributeName="Variation Measurement Name 1"
+               transAttributeName="Variation Measurement Name 1"
+               dataType="string"><![CDATA[DC-GH5LEG-K]]></data>
+         <data nodeName="VariationUMN1" attributeName="Variation UMN 1"
+               transAttributeName="Variation UMN 1"
+               dataType="string"><![CDATA[DC-GH5L-K]]></data>
+      </dataGroup>
+      <dataGroup nodeName="Demo" attributeName="Demo" transAttributeName="Demo"
+                 dataType="string">
+         <dataGroup nodeName="Demo1" attributeName="Demo 1" transAttributeName="Demo 1"
+                    dataType="string">
+            <data nodeName="DemoTitle1" attributeName="Demo Title 1"
+                  transAttributeName="Demo Title 1"
+                  dataType="string"/>
+            <data nodeName="DemoID1" attributeName="Demo ID 1" transAttributeName="Demo ID 1"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="Demo2" attributeName="Demo 2" transAttributeName="Demo 2"
+                    dataType="string">
+            <data nodeName="DemoTitle2" attributeName="Demo Title 2"
+                  transAttributeName="Demo Title 2"
+                  dataType="string"/>
+            <data nodeName="DemoID2" attributeName="Demo ID 2" transAttributeName="Demo ID 2"
+                  dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="Environmental" attributeName="Environmental"
+                 transAttributeName="Environmental"
+                 dataType="string">
+         <dataGroup nodeName="EnergyContents" attributeName="Energy Contents"
+                    transAttributeName="Energy Contents"
+                    dataType="string">
+            <data nodeName="EnergyClassArrow" attributeName="Energy Class Arrow"
+                  transAttributeName="Energy Class Arrow"
+                  dataType="string"/>
+            <data nodeName="EnergyLabel" attributeName="Energy Label"
+                  transAttributeName="Energy Label"
+                  dataType="file"/>
+            <data nodeName="ProductFiche" attributeName="Product Fiche"
+                  transAttributeName="Product Fiche"
+                  dataType="file"/>
+            <data nodeName="Eco-DesignInformation" attributeName="Eco-Design Information"
+                  transAttributeName="Eco-Design Information"
+                  dataType="file"/>
+            <data nodeName="Other" attributeName="Other" transAttributeName="Other"
+                  dataType="file"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="TechnicalFeature" attributeName="TechnicalFeature"
+                 transAttributeName="TechnicalFeature"
+                 dataType="string">
+         <dataGroup nodeName="TYPE" attributeName="TYPE" transAttributeName="ТИП" dataType="string">
+            <data nodeName="Type" attributeName="Type" transAttributeName="Тип" dataType="string"><![CDATA[Digital Single Lens Mirrorless camera]]></data>
+            <data nodeName="Recordingmedia" attributeName="Recording media"
+                  transAttributeName="Записваща медия"
+                  dataType="string"><![CDATA[SD карта с памет, SDHC карта с памет, SDXC карта с памет (съвместима със стандартни SDHC/SDXC карти с памет с клас на скоростта UHS-I/UHS-II UHS Speed Class 3)]]></data>
+            <data nodeName="Imagesensorsize" attributeName="Image sensor size"
+                  transAttributeName="Размер на сензор за изображения"
+                  dataType="string"><![CDATA[17.3 x 13.0 mm (in 4:3 aspect ratio)]]></data>
+            <data nodeName="Lensmount" attributeName="Lens mount"
+                  transAttributeName="Байонет на обектива"
+                  dataType="string"><![CDATA[Micro Four Thirds mount]]></data>
+         </dataGroup>
+         <dataGroup nodeName="IMAGESENSOR" attributeName="IMAGE SENSOR"
+                    transAttributeName="СЕНЗОР ЗА ИЗОБРАЖЕНИЕ"
+                    dataType="string">
+            <data nodeName="Type" attributeName="Type" transAttributeName="Тип" dataType="string"><![CDATA[Live MOS Sensor]]></data>
+            <data nodeName="Totalpixels" attributeName="Total pixels"
+                  transAttributeName="Общо пиксели"
+                  dataType="string"><![CDATA[21,77 мегапиксела]]></data>
+            <data nodeName="Cameraeffectivepixels" attributeName="Camera effective pixels"
+                  transAttributeName="Камера ефективни пиксели"
+                  dataType="string"><![CDATA[20,33 мегапиксела]]></data>
+            <data nodeName="Colorfilter" attributeName="Color filter"
+                  transAttributeName="Цветен филтър"
+                  dataType="string"><![CDATA[Първичен цветен филтър]]></data>
+            <data nodeName="Dustreductionsystem" attributeName="Dust reduction system"
+                  transAttributeName="Система за намаление на праха"
+                  dataType="string"><![CDATA[Филтър за свръхзвукови вълни]]></data>
+         </dataGroup>
+         <data nodeName="IMAGESTABILIZATIONSYSTEM" attributeName="IMAGE STABILIZATION SYSTEM"
+               transAttributeName="СИСТЕМА ЗА СТАБИЛИЗИРАНЕ НА ИЗОБРАЖЕНИЯТА"
+               dataType="string"><![CDATA[Tип изместване на сензора за изображения (5-осов/5-кратен*), Dual I.S. (Dual I.S. 2 съвместим)/* Въз основа на CIPA стандарт [Посока Yaw (наляво надясно)/Pitch (нагоре и назад): фокусно разстояние f=60 мм (еквивалент на 35 мм фотоапарат f=120 мм), когато се използва H-FS12060.]]></data>
+         <dataGroup nodeName="RECORDINGSYSTEM" attributeName="RECORDING SYSTEM"
+                    transAttributeName="ЗАПИСВАЩА СИСТЕМА"
+                    dataType="string">
+            <dataGroup nodeName="Recordingfileformat" attributeName="Recording file format"
+                       transAttributeName="Записване файлов формат"
+                       dataType="string">
+               <data nodeName="Stillimage" attributeName="Still image"
+                     transAttributeName="Статично изображение"
+                     dataType="string"><![CDATA[JPEG (DCF, Exif 2.31), RAW]]></data>
+               <data nodeName="6KPHOTO14KPHOTO" attributeName="6K PHOTO*1 / 4K PHOTO"
+                     transAttributeName="6K PHOTO*1/4K PHOTO"
+                     dataType="string"><![CDATA[6K PHOTO: MP4 (H.265/HEVC, аудио формат: AAC (2-канален))/4K PHOTO: MP4 (H.264/MPEG-4 AVC, аудио формат: AAC (2-канален))]]></data>
+               <data nodeName="Motionpicture" attributeName="Motion picture"
+                     transAttributeName="Видеозапис"
+                     dataType="string"><![CDATA[MOV: H.264/MPEG-4 AVC (аудио формат: LPCM (2-канален 48kHz/16-битов, 48kHz/24-битов*, 96kHz/24-битов*))  *Когато прикачвате DMW-XLR1 (продава се отделно)./MP4: H.264/MPEG-4 AVC, H.265/HEVC*7 (аудио формат: LPCM (2 ch 48 kHz/16-bit), AAC (2 ch))/прогресивен AVCHD, AVCHD (Аудиоформат: Dolby Audio 2-канален)]]></data>
+            </dataGroup>
+            <data nodeName="Systemfrequency" attributeName="System frequency"
+                  transAttributeName="Честота на системата"
+                  dataType="string"><![CDATA[59,94Hz, 50,00Hz, 24,00Hz]]></data>
+            <data nodeName="Aspectratio" attributeName="Aspect ratio"
+                  transAttributeName="Аспектно съотношение"
+                  dataType="string"><![CDATA[4:3, 3:2, 16:9, 1:1]]></data>
+            <data nodeName="Imagequality" attributeName="Image quality"
+                  transAttributeName="Качество на изображението"
+                  dataType="string"><![CDATA[RAW, RAW+Fine, RAW+Standard, Fine, Standard]]></data>
+            <data nodeName="ColorSpace" attributeName="Color Space"
+                  transAttributeName="Цвят пространство"
+                  dataType="string"><![CDATA[sRGB, AdobeRGB]]></data>
+            <dataGroup nodeName="FilesizePixels-StillImage"
+                       attributeName="File size(Pixels) -Still Image"
+                       transAttributeName="Размер на файла (пиксели) – неподвижно изображение"
+                       dataType="string">
+               <data nodeName="43" attributeName="4:3" transAttributeName="4:3" dataType="string"><![CDATA[5184 x 3888(L)/3712 x 2784(M)/2624 x 1968(S)/4992 x 3744(6K PHOTO)/3328 x 2496(4K PHOTO)]]></data>
+               <data nodeName="32" attributeName="3:2" transAttributeName="3:2" dataType="string"><![CDATA[5184 x 3456(L)/ 3712 x 2480(M)/2624 x 1752(S)/5184 x 3456(6K PHOTO)/3504 x 2336(4K PHOTO)]]></data>
+               <data nodeName="169" attributeName="16:9" transAttributeName="16:9" dataType="string"><![CDATA[5184 x 2920(L)/3840 x 2160(M)/1920 x 1080(S)/3840 x 2160(4K PHOTO)]]></data>
+               <data nodeName="11" attributeName="1:1" transAttributeName="1:1" dataType="string"><![CDATA[3888 x 3888(L)/2784 x 2784(M)/1968 x 1968(S)/2880 x 2880(4K PHOTO)]]></data>
+            </dataGroup>
+            <dataGroup nodeName="FilesizePixels-Motionpicture"
+                       attributeName="File size (Pixels) -Motion picture"
+                       transAttributeName="Размер на файла (пиксели) – видеозапис"
+                       dataType="string">
+               <data nodeName="MOV24-5994Hz" attributeName="MOV*2/*4-59.94Hz"
+                     transAttributeName="MOV*2/*4-59,94 Hz"
+                     dataType="string"><![CDATA[<[C4K] 4096x2160> 23,98p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM, аудио с висока честота на дискретизация)*7/<[C4K] 4096x2160> 23.98p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM, аудио с висока честота на дискретизация) / 100 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)/<[4K] 3840x2160> 59.94p, 150 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)/<[4K] 3840x2160> 29.97p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM, аудио с висока честота на дискретизация)*7/<[4K] 3840x2160> 29.97p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM, аудио с висока честота на дискретизация) / 100 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)/<[4K] 3840x2160> 23.98p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM, аудио с висока честота на дискретизация)*7/<[4K] 3840x2160> 23.98p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM, аудио с висока честота на дискретизация) / 100Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)/<[Full HD] 1920x1080> 59.94p, 200 Mbps (4:2:2 10-bit ALL-Intra) (LPCM, аудио с висока честота на дискретизация)*7/<[Full HD] 1920x1080> 59.94p, 100 Mbps (4:2:2 10-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)*6/<[Full HD] 1920x1080> 59.94p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)/<[Full HD] 1920x1080> 29.97p, 200 Mbps (4:2:2 10-bit ALL-Intra) (LPCM, аудио с висока честота на дискретизация)*7/<[Full HD] 1920x1080> 29.97p, 100 Mbps (4:2:2 10-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)*6/<[Full HD] 1920x1080> 29.97p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)/<[Full HD] 1920x1080> 23.98p, 200 Mbps (4:2:2 10-bit ALL-Intra) (LPCM, аудио с висока честота на дискретизация)*7/<[Full HD] 1920x1080> 23.98p, 100 Mbps (4:2:2 10-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)*6/<[Full HD] 1920x1080> 23.98p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)]]></data>
+               <data nodeName="MOV24-5000Hz" attributeName="MOV*2/*4-50.00Hz"
+                     transAttributeName="MOV*2/*4-50,00 Hz"
+                     dataType="string"><![CDATA[<[4K] 3840x2160> 50.00p, 150 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)/<[4K] 3840x2160> 25.00p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM, аудио с висока честота на дискретизация)*7/<[4K] 3840x2160> 25.00p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM, аудио с висока честота на дискретизация) / 100 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)/<[Full HD] 1920x1080> 50.00p, 200 Mbps (4:2:2 10-bit ALL-Intra) (LPCM, аудио с висока честота на дискретизация)*7/<[Full HD] 1920x1080> 50.00p, 100 Mbps (4:2:2 10-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)*6/<[Full HD] 1920x1080> 50.00p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)/<[Full HD] 1920x1080> 25.00p, 200 Mbps (4:2:2 10-bit ALL-Intra) (LPCM, аудио с висока честота на дискретизация)*7/<[Full HD] 1920x1080> 25.00p, 100 Mbps (4:2:2 10-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)*6/<[Full HD] 1920x1080> 25.00p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)]]></data>
+               <data nodeName="MOV24-2400Hz" attributeName="MOV*2/*4-24.00Hz"
+                     transAttributeName="MOV*2/*4-24,00 Hz"
+                     dataType="string"><![CDATA[<[C4K] 4096x2160> 24.00p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM, аудио с висока честота на дискретизация)*7/<[C4K] 4096x2160> 24.00p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM, аудио с висока честота на дискретизация) / 100 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)/<[4K] 3840x2160> 24.00p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM, аудио с висока честота на дискретизация)*7/<[4K] 3840x2160> 24.00p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM, аудио с висока честота на дискретизация) / 100 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)/<[Full HD] 1920x1080> 24.00p, 200 Mbps (4:2:2 10-bit ALL-Intra) (LPCM, аудио с висока честота на дискретизация)*7/<[Full HD] 1920x1080> 24.00p, 100 Mbps (4:2:2 10-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)*6/<[Full HD] 1920x1080> 24.00p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)]]></data>
+               <data nodeName="MP42-5994Hz" attributeName="MP4*2-59.94Hz"
+                     transAttributeName="MP4*2-59,94Hz"
+                     dataType="string"><![CDATA[<[C4K] 4096x2160> 23.98p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM)  *7/<[C4K] 4096x2160> 23.98p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM) / 100 Mbps (4:2:0 8-bit LongGOP) (LPCM)/<[4K] 3840x2160> 59.94p, 150 Mbps (4:2:0 8-bit LongGOP) (LPCM)/<[4K] 3840x2160> 29.97p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM) *7/<[4K] 3840x2160> 29.97p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM) / 100 Mbps (4:2:0 8-bit LongGOP) (LPCM) / 100 Mbps (4:2:0 8-bit LongGOP) (AAC)/<[4K] 3840x2160> 23.98p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM) *7/<[4K] 3840x2160> 23.98p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM) / 100 Mbps (4:2:0 8-bit LongGOP) (LPCM) / 100 Mbps (4:2:0 8-bit LongGOP) (AAC)/<[4K] 3840x2160> 29,97p, 72 Mbps (4:2:0 10-bit LongGOP) (AAC) (HEVC, HLG запис) *7/<[4K] 3840x2160> 23,98p, 72 Mbps (4:2:0 10-bit LongGOP) (AAC) (HEVC, HLG запис) *7/<[Full HD] 1920x1080> 59.94p, 200 Mbps (4:2:2 10-bit ALL-Intra) (LPCM) *7/<[Full HD] 1920x1080> 59.94p, 100 Mbps (4:2:2 10-bit LongGOP) (LPCM) *6/<[Full HD] 1920x1080> 59.94p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM)/<[Full HD] 1920x1080> 29.97p, 200 Mbps (4:2:2 10-bit ALL-Intra) (LPCM) *7/<[Full HD] 1920x1080> 29.97p, 100 Mbps (4:2:2 10-bit LongGOP) (LPCM) *6/<[Full HD] 1920x1080> 29.97p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM)/<[Full HD] 1920x1080> 23.98p, 200 Mbps (4:2:2 10-bit ALL-Intra) (LPCM) *7/<[Full HD] 1920x1080> 23.98p, 100 Mbps (4:2:2 10-bit LongGOP) (LPCM) *6/<[Full HD] 1920x1080> 23.98p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM)/<[Full HD] 1920x1080> 59.94p, 28 Mbps (4:2:0 8-bit LongGOP) (AAC)/<[Full HD] 1920x1080> 29.97p, 20 Mbps (4:2:0 8-bit LongGOP) (AAC)/<[Full HD] 1920x1080> 23.98p, 24 Mbps (4:2:0 8-bit LongGOP) (AAC)]]></data>
+               <data nodeName="MP42-5000Hz" attributeName="MP4*2-50.00Hz"
+                     transAttributeName="MP4*2-50,00Hz"
+                     dataType="string"><![CDATA[<[4K] 3840x2160>50.00p, 150 Mbps (4:2:0 8-bit LongGOP) (LPCM)/<[4K] 3840x2160> 25.00p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM) *7/<[4K] 3840x2160> 25.00p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM) / 100 Mbps (4:2:0 8-bit LongGOP) (LPCM) / 100 Mbps (4:2:0 8-bit LongGOP) (AAC)/<[4K] 3840x2160> 25,00p, 72 Mbps (4:2:0 10-bit LongGOP) (AAC) (HEVC, HLG запис) *7/<[Full HD] 1920x1080> 50.00p, 200 Mbps (4:2:2 10-bit ALL-Intra) (LPCM) *7/<[Full HD] 1920x1080> 50.00p, 100 Mbps (4:2:2 10-bit LongGOP) (LPCM) *6/<[Full HD] 1920x1080> 50.00p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM)/<[Full HD] 1920x1080> 25.00p, 200 Mbps (4:2:2 10-bit ALL-Intra) (LPCM) *7/<[Full HD] 1920x1080> 25.00p, 100 Mbps (4:2:2 10-bit LongGOP) (LPCM) *6/<[Full HD] 1920x1080> 25.00p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM)/<[Full HD] 1920x1080> 50.00p, 28 Mbps (4:2:0 8-bit LongGOP) (AAC)/<[Full HD] 1920x1080> 25.00p, 20 Mbps (4:2:0 8-bit LongGOP) (AAC)]]></data>
+               <data nodeName="MP42-2400Hz" attributeName="MP4*2-24.00Hz"
+                     transAttributeName="MP4*2-24,00Hz"
+                     dataType="string"><![CDATA[<[C4K] 4096x2160> 24.00p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM)  *7/<[C4K] 4096x2160> 24.00p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM) / 100 Mbps (4:2:0 8-bit LongGOP) (LPCM)/<[4K] 3840x2160> 24.00p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM) *7/<[4K] 3840x2160> 24.00p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM) / 100 Mbps (4:2:0 8-bit LongGOP) (LPCM)/<[Full HD] 1920x1080> 24.00p, 200 Mbps (4:2:2 10-bit ALL-Intra) (LPCM) *7/<[Full HD] 1920x1080> 24.00p, 100 Mbps (4:2:2 10-bit LongGOP) (LPCM) *6/<[Full HD] 1920x1080> 24.00p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM)/<[Full HD] 1920x1080> 24.00p, 24 Mbps (4:2:0 8-bit LongGOP) (AAC)]]></data>
+               <data nodeName="AVCHDProgressive2AVCHD2-5994Hz"
+                     attributeName="AVCHD Progressive*2/ AVCHD*2-59.94Hz"
+                     transAttributeName="Прогресивно AVCHD*2/AVCHD*2-59,94Hz"
+                     dataType="string"><![CDATA[<[Full HD] 1920 x 1080> 59,94p, 28 Mbps (LongGOP) (Dolby)/<[Full HD] 1920 x 1080> 59,94i, 24 Mbps (LongGOP) (Dolby) (сензорът постига 29,97 кадъра/сек)/<[Full HD] 1920 x 1080> 59,94i, 17 Mbps (LongGOP) (Dolby) (сензорът постига 59,97 кадъра/сек)/<[Full HD] 1920 x 1080> 23,98p, 24 Mbps (LongGOP) (Dolby)]]></data>
+               <data nodeName="AVCHDProgressive2AVCHD2-5000Hz"
+                     attributeName="AVCHD Progressive*2/ AVCHD*2-50.00Hz"
+                     transAttributeName="Прогресивно AVCHD*2/AVCHD*2-50,00Hz"
+                     dataType="string"><![CDATA[<[Full HD] 1920 x 1080> 50,00p, 28 Mbps (LongGOP) (Dolby)/<[Full HD] 1920 x 1080> 50,00i, 24 Mbps (LongGOP) (Dolby) (сензорът постига 25,00 кадъра/сек)/<[Full HD] 1920 x 1080> 50,00i, 17 Mbps (LongGOP) (Dolby) (сензорът постига 50,00 кадъра/сек)]]></data>
+            </dataGroup>
+            <data nodeName="ContinuousrecordabletimeMotionpicture"
+                  attributeName="Continuous recordable time (Motion picture)"
+                  transAttributeName="Време за непрекъснат запис (видеозапис)"
+                  dataType="string"><![CDATA[AVCHD [FHD/60p]: Прибл. 150 мин (заден монитор), 150 мин (LVF) с H-ES12060, приблиз. 160 мин (заден монитор), 150 мин (LVF) с H-HSA12035/H-FS12060/AVCHD [FHD/60i]: Прибл. 150 мин (заден монитор), 150 мин (LVF) с H-ES12060, приблиз. 160 мин (заден монитор), 160 мин (LVF) с H-HSA12035/H-FS12060/MP4 [4K/60p]: Прибл. 100 мин (заден монитор), 100 мин (LVF) с H-ES12060/H-HSA12035/H-FS12060/MP4 [4K/30p]: Прибл. 110 мин (заден монитор), 110 мин (LVF) с H-ES12060/H-HSA12035/H-FS12060]]></data>
+            <data nodeName="ActualrecordabletimeMotionpicture"
+                  attributeName="Actual recordable time (Motion picture)"
+                  transAttributeName="Действително време за запис (видеозапис)"
+                  dataType="string"><![CDATA[AVCHD [FHD/60p]: Прибл. 75 мин (заден монитор), 75 мин (LVF) с H-ES12060, приблиз. 80 мин (заден монитор), 75 мин (LVF) с H-HSA12035/H-FS12060/AVCHD [FHD/60i]: Прибл. 75 мин (заден монитор), 75 мин (LVF) с H-ES12060, приблиз. 80 мин (заден монитор), 80 мин (LVF) с H-HSA12035/H-FS12060/MP4 [4K/60p]: Прибл. 50 мин (заден монитор), 50 мин (LVF) с H-ES12060/H-HSA12035/H-FS12060/MP4 [4K/30p]: Прибл. 55 мин (заден монитор), 55 мин (LVF) с H-ES12060/H-HSA12035/H-FS12060]]></data>
+         </dataGroup>
+         <dataGroup nodeName="WIRELESS" attributeName="WIRELESS" transAttributeName="БЕЗЖИЧНО"
+                    dataType="string">
+            <data nodeName="WiFi" attributeName="WiFi" transAttributeName="Wi-Fi"
+                  dataType="string"><![CDATA[IEEE 802.11a/b/g/n/ac * 5 GHz Wi-Fi не е налично в някои държави./1-13, 36, 40, 44, 48, 52, 56, 60, 64, 100, 104, 108, 112, 116, 120, 124, 128, 132, 136, 140 ch]]></data>
+            <data nodeName="QRCodeConnection" attributeName="QR Code Connection"
+                  transAttributeName="Връзка чрез QR код"
+                  dataType="string"><![CDATA[Да]]></data>
+            <data nodeName="Password-lessconnection" attributeName="Password-less connection"
+                  transAttributeName="Връзка без парола"
+                  dataType="string"><![CDATA[Да (избор на Вкл./Изкл.)]]></data>
+            <data nodeName="Bluetooth" attributeName="Bluetooth" transAttributeName="Bluetooth"
+                  dataType="string"><![CDATA[Bluetooth® v4.2 (Bluetooth Low Energy (BLE))]]></data>
+         </dataGroup>
+         <dataGroup nodeName="VIEWFINDER" attributeName="VIEWFINDER" transAttributeName="ВИЗЬОР"
+                    dataType="string">
+            <data nodeName="Type" attributeName="Type" transAttributeName="Тип" dataType="string"><![CDATA[OLED Live View Finder (3,680k точки)]]></data>
+            <data nodeName="Fieldofview" attributeName="Field of view"
+                  transAttributeName="Поле на наблюдение"
+                  dataType="string"><![CDATA[Прибл. 100%]]></data>
+            <data nodeName="Magnification" attributeName="Magnification"
+                  transAttributeName="Увеличение"
+                  dataType="string"><![CDATA[Прибл. 1,52x/0,76x (еквивалент на 35-милиметров фотоапарат) с 50-милиметров обектив до безкрайност; -1,0 м-1]]></data>
+            <data nodeName="Eyepoint" attributeName="Eye point" transAttributeName="Eye point"
+                  dataType="string"><![CDATA[Приблизително 21 mm от окуляра на обектива]]></data>
+            <data nodeName="Diopteradjustment" attributeName="Diopter adjustment"
+                  transAttributeName="Настройка диоптър"
+                  dataType="string"><![CDATA[-4.0 – +3.0 (dpt)]]></data>
+            <data nodeName="Eyesensor" attributeName="Eye sensor"
+                  transAttributeName="Сензор за очи"
+                  dataType="string"><![CDATA[Да]]></data>
+            <data nodeName="Eyesensoradjustment" attributeName="Eye sensor adjustment"
+                  transAttributeName="Регулиране на сензора за очи"
+                  dataType="string"><![CDATA[Висок / нисък]]></data>
+         </dataGroup>
+         <dataGroup nodeName="FOCUS" attributeName="FOCUS" transAttributeName="ФОКУС"
+                    dataType="string">
+            <data nodeName="Type" attributeName="Type" transAttributeName="Тип" dataType="string"><![CDATA[Система за контрастен автофокус]]></data>
+            <data nodeName="DFDtechnology" attributeName="DFD technology"
+                  transAttributeName="DFD технология"
+                  dataType="string"><![CDATA[Да]]></data>
+            <data nodeName="PostFocus" attributeName="Post Focus" transAttributeName="Post Focus"
+                  dataType="string"><![CDATA[Да]]></data>
+            <data nodeName="FocusStacking" attributeName="Focus Stacking"
+                  transAttributeName="Надстройка на фокуса"
+                  dataType="string"><![CDATA[Да]]></data>
+            <data nodeName="Focusmode" attributeName="Focus mode"
+                  transAttributeName="Режим Фокус"
+                  dataType="string"><![CDATA[AFS (Единичен) / AFF (Гъвкав) / AFC (Непрекъснат) / MF]]></data>
+            <data nodeName="AFmode" attributeName="AF mode" transAttributeName="AF режим"
+                  dataType="string"><![CDATA[Разпознаване на лица/очи/Проследяване/225 зони/Персонализирано мулти/1 зона/Точково/(Налична е пълна сензорна област) (Мащабируем размер на кадър на автофокус (чрез преден/заден бутон) и гъвкава позиция на автофокус (чрез джойстик))]]></data>
+            <data nodeName="AFdetectiverange" attributeName="AF detective range"
+                  transAttributeName="AF обхват на детекция"
+                  dataType="string"><![CDATA[EV -4 – 18 (еквивалент на ISO100)]]></data>
+            <data nodeName="AFassistlamp" attributeName="AF assist lamp"
+                  transAttributeName="AF помощна лампа"
+                  dataType="string"><![CDATA[Да]]></data>
+            <data nodeName="AFlock" attributeName="AF lock" transAttributeName="AF заключване"
+                  dataType="string"><![CDATA[Да (бутон за БЛОКИРАНЕ НА автоматичното фокусиране/автоматично експониране)]]></data>
+            <data nodeName="AFcustomsetting" attributeName="AF custom setting"
+                  transAttributeName="Персонализирана настройка на автофокус"
+                  dataType="string"><![CDATA[Чувствителност на автофокус, чувствителност на превключване на зона на автофокус, предвиждане на движещ се обект]]></data>
+            <data nodeName="Others" attributeName="Others" transAttributeName="Други"
+                  dataType="string"><![CDATA[Автофокус на една снимка, автофокус на затвора, освобождаване с полунатискане, бърз автофокус, непрекъснат автофокус (в режим на видеозапис), автофокус със сензор за очи, автофокус + ръчно фокусиране, MF Assist, сензорен MF Assist, открояване на фокуса, сензорен автофокус и сензорна автоматична експонация, автофокус с тъчпад, сензорен затвор]]></data>
+         </dataGroup>
+         <dataGroup nodeName="EXPOSURECONTROL" attributeName="EXPOSURE CONTROL"
+                    transAttributeName="КОНТРОЛ НА ЕКСПОЗИЦИЯТА"
+                    dataType="string">
+            <data nodeName="Lightmeteringsystem" attributeName="Light metering system"
+                  transAttributeName="Система за измерване на светлината"
+                  dataType="string"><![CDATA[Многошаблонна сензорна система за зона 1 728]]></data>
+            <data nodeName="Lightmeteringmode" attributeName="Light metering mode"
+                  transAttributeName="Режим Измерване на светлината"
+                  dataType="string"><![CDATA[Множествено/централно/точково]]></data>
+            <data nodeName="Meteringrange" attributeName="Metering range"
+                  transAttributeName="Обхват на измерване"
+                  dataType="string"><![CDATA[EV0-18 （обектив F2,0 , ISO100 еквивалент)]]></data>
+            <data nodeName="Exposuremode" attributeName="Exposure mode"
+                  transAttributeName="Режим експозиция"
+                  dataType="string"><![CDATA[Програма AE, приоритет на блендата AE, приоритет на скоростта AE, ръчна експозиция]]></data>
+            <data nodeName="ISOsensitivityStandardOutputSensitivity"
+                  attributeName="ISO sensitivity (Standard Output Sensitivity)"
+                  transAttributeName="ISO чувствителност (Стандартна изход чувствителност)"
+                  dataType="string"><![CDATA[Статично изображение: Автоматично/интелигентно ISO/100 (удължено)/200/400/800/1600/3200/6400/12800/25600 (сменяемо на 1/3 EV стъпки)/Режим на творчески видеозапис: Автоматично/100 (удължено)/200/400/800/1600/3200/6400/12800 (сменяемо на 1/3 EV стъпки)]]></data>
+            <data nodeName="Exposurecompensation" attributeName="Exposure compensation"
+                  transAttributeName="Компенсация на експозицията"
+                  dataType="string"><![CDATA[1/3 EV стъпка ±5EV (±3EV за видеозапис)]]></data>
+            <data nodeName="AElock" attributeName="AE lock" transAttributeName="AE заключване"
+                  dataType="string"><![CDATA[Да (бутон за БЛОКИРАНЕ НА автоматичното фокусиране/автоматично експониране)]]></data>
+         </dataGroup>
+         <dataGroup nodeName="WHITEBALANCE" attributeName="WHITE BALANCE"
+                    transAttributeName="БАЛАНС БЯЛО"
+                    dataType="string">
+            <data nodeName="Whitebalance" attributeName="White balance"
+                  transAttributeName="Баланс бяло"
+                  dataType="string"><![CDATA[AWB/AWBc/дневна светлина/облачно/сянка/лампа/светкавица/настройка на бялото 1, 2, 3, 4/настройка на цветна температура 1, 2, 3, 4]]></data>
+            <data nodeName="Whitebalanceadjustment" attributeName="White balance adjustment"
+                  transAttributeName="Настройване баланс бяло"
+                  dataType="string"><![CDATA[Отклонение синьо/кехлибарено, отклонение магента/зелено]]></data>
+            <data nodeName="Colortemperaturesetting" attributeName="Color temperature setting"
+                  transAttributeName="Настройване на Температура на цвят"
+                  dataType="string"><![CDATA[2500-10000K в 100K]]></data>
+         </dataGroup>
+         <dataGroup nodeName="SHUTTER" attributeName="SHUTTER" transAttributeName="ЗАТВОР"
+                    dataType="string">
+            <data nodeName="Type" attributeName="Type" transAttributeName="Тип" dataType="string"><![CDATA[Затвор на фокусна равнина]]></data>
+            <data nodeName="Shutterspeed" attributeName="Shutter speed"
+                  transAttributeName="Скорост на затвора"
+                  dataType="string"><![CDATA[Статично изображение: Режим Bulb (макс. 30 минути), 1/8000 – 60/Електронен затвор при първо перде: Крушка (макс. 30 минути), 1/2000 – 60/Електронен затвор: 1/16,000 - 1/Филми: 59,94Hz: 1/16 000 - 1/30, 50,00Hz: 1/16 000 - 1/25, 24,00Hz: 1/16 000 - 1/24 (24,00Hz: 1/16 000 - 1/24 (При използване на синхронно сканиране)]]></data>
+            <data nodeName="Shutterlife" attributeName="Shutter life"
+                  transAttributeName="Експлоатационен живот на затвора"
+                  dataType="string"><![CDATA[Приблизително 200 000 изображения]]></data>
+            <data nodeName="Selftimer" attributeName="Self timer" transAttributeName="Self timer"
+                  dataType="string"><![CDATA[10 сек, 3 изображения/2 сек/10 сек]]></data>
+            <data nodeName="Remotecontrol" attributeName="Remote control"
+                  transAttributeName="Дистанционно управление"
+                  dataType="string"><![CDATA[Дистанционно управление с функция Крушка от DMW-RSL1 (продава се отделно)]]></data>
+         </dataGroup>
+         <dataGroup nodeName="6KPHOTO14KPHOTO" attributeName="6K PHOTO*1 / 4K PHOTO"
+                    transAttributeName="6K PHOTO*1/4K PHOTO"
+                    dataType="string">
+            <data nodeName="Burstspeed" attributeName="Burst speed"
+                  transAttributeName="Скорост на последователно заснемане"
+                  dataType="string"><![CDATA[[6K PHOTO] 30 кадъра/сек/[4K PHOTO] 60 кадъра/сек, 30 кадъра/сек]]></data>
+            <data nodeName="Exifinformation" attributeName="Exif information"
+                  transAttributeName="Информация за Exif"
+                  dataType="string"><![CDATA[Да (Всяко JPEG изображение, изрязано от 6K/4K серийния файл, е съвместимо с EXIF информацията.)]]></data>
+            <data nodeName="Markingfunction" attributeName="Marking function"
+                  transAttributeName="Функция за маркиране"
+                  dataType="string"><![CDATA[Да (в режим серийно заснемане в 6K/4K (S/S))]]></data>
+            <data nodeName="Looprecfunction" attributeName="Loop rec function"
+                  transAttributeName="Функция за непрекъснато заснемане"
+                  dataType="string"><![CDATA[Да (в режим серийно заснемане в 6K*7/4K (S/S))]]></data>
+         </dataGroup>
+         <dataGroup nodeName="BRACKET" attributeName="BRACKET" transAttributeName="КЛИН"
+                    dataType="string">
+            <data nodeName="AEbracket" attributeName="AE bracket" transAttributeName="AE група"
+                  dataType="string"><![CDATA[3, 5, 7 кадъра при 1/3, 2/3 или 1 EV стъпка, макс. ±3 EV, единично/серийно]]></data>
+            <data nodeName="ApertureBracket" attributeName="Aperture Bracket"
+                  transAttributeName="Клин на блендата"
+                  dataType="string"><![CDATA[3, 5 или всички позиции в 1 EV стъпка]]></data>
+            <data nodeName="FocusBracket" attributeName="Focus Bracket"
+                  transAttributeName="Клин на фокуса"
+                  dataType="string"><![CDATA[1 до 999 кадъра, стъпките на фокуса могат да се зададат в 5 нива]]></data>
+            <data nodeName="Whitebalancebracket" attributeName="White balance bracket"
+                  transAttributeName="Категория баланс бяло"
+                  dataType="string"><![CDATA[3 експонации в оста синьо/кехлибарено или в оста магента/зелено, настройка за температура на цвят]]></data>
+         </dataGroup>
+         <dataGroup nodeName="BURSTSHOOTING" attributeName="BURST SHOOTING"
+                    transAttributeName="ПОСЛЕДОВАТЕЛНО ЗАСНЕМАНЕ"
+                    dataType="string">
+            <data nodeName="Burstspeed" attributeName="Burst speed"
+                  transAttributeName="Скорост на последователно заснемане"
+                  dataType="string"><![CDATA[[Механичен затвор] AFS/MF: H: 12 кадъра/сек, M: 7 кадъра/сек (с Live View), L: 2 кадъра/сек (с Live View)/[Механичен затвор] AFF/AFC: H: 9 кадъра/сек, M: 7 кадъра/сек (с Live View), L: 2 кадъра/сек (с Live View)/[Електронен затвор] AFS/MF: H: 12 кадъра/сек, M: 7 кадъра/сек (с Live View), L: 2 кадъра/сек (с Live View)/[Електронен затвор] AFF/AFC: H: 9 кадъра/сек, M: 7 кадъра/сек (с Live View), L: 2 кадъра/сек (с Live View)]]></data>
+            <data nodeName="Numberofrecordableimages" attributeName="Number of recordable images"
+                  transAttributeName="Брой на записваните изображения"
+                  dataType="string"><![CDATA[Прибл. над 60 изображения (когато има RAW файлове със съответната скорост)/Прибл. над 600 изображения (когато няма RAW файлове)/(в зависимост от размера на картата памет, батерията, размера на картината и компресията)]]></data>
+         </dataGroup>
+         <dataGroup nodeName="FLASH" attributeName="FLASH" transAttributeName="СВЕТКАВИЦА"
+                    dataType="string">
+            <data nodeName="Flashtype" attributeName="Flash type"
+                  transAttributeName="Тип светкавица"
+                  dataType="string"><![CDATA[Външна светкавица TTL (продава се отделно)]]></data>
+            <data nodeName="FlashMode" attributeName="Flash Mode"
+                  transAttributeName="Режим Светкавица"
+                  dataType="string"><![CDATA[Автоматична*, автоматична/намаляване на червените очи*, принудителна, принудителна/намаляване на червените очи, бавно синхронизиране, бавно синхронизиране/намаляване на червените очи, принудително изключване * само за iA и iA+.]]></data>
+            <data nodeName="Synchronizationspeed" attributeName="Synchronization speed"
+                  transAttributeName="Скорост на синхронизация"
+                  dataType="string"><![CDATA[По-малко от 1/250 секунди]]></data>
+            <data nodeName="Flashoutputadjustment" attributeName="Flash output adjustment"
+                  transAttributeName="Регулиране на силата на светкавицата"
+                  dataType="string"><![CDATA[1/3EV стъпка ±3EV]]></data>
+            <data nodeName="Flashsynchronization" attributeName="Flash synchronization"
+                  transAttributeName="Синхронизация на светкавицата"
+                  dataType="string"><![CDATA[Синхронизация по първо перде, синхронизация по второ перде.]]></data>
+            <data nodeName="Synchronizationforflashdimmingandexposurecompensation"
+                  attributeName="Synchronization for flash dimming and exposure compensation"
+                  transAttributeName="Синхронизиране за приглушаване на светкавицата и компенсиране на експозицията"
+                  dataType="string"><![CDATA[Да]]></data>
+            <data nodeName="Wirelesscontrol" attributeName="Wireless control"
+                  transAttributeName="Безжичен контрол"
+                  dataType="string"><![CDATA[Да (Когато използвате DMW-FL200L/FL360L/FL580L (продава се отделно)), безжичен канал: 1-канален/2-канален/3-канален/4-канален]]></data>
+            <data nodeName="Flashsyncsocket" attributeName="Flash sync socket"
+                  transAttributeName="Цокъл за синхронизиране на светкавицата"
+                  dataType="string"><![CDATA[Да]]></data>
+         </dataGroup>
+         <dataGroup nodeName="REARMONITOR" attributeName="REAR MONITOR"
+                    transAttributeName="ЗАДЕН ЕКРАН"
+                    dataType="string">
+            <data nodeName="Type" attributeName="Type" transAttributeName="Тип" dataType="string"><![CDATA[TFT LCD монитор със статично управление с докосване]]></data>
+            <data nodeName="Monitorsize" attributeName="Monitor size"
+                  transAttributeName="Размер на монитора"
+                  dataType="string"><![CDATA[Свободен ъгъл 3,2-инчов(8,0 см)/съотношение 3:2/широкоъгълен изглед]]></data>
+            <data nodeName="Pixels" attributeName="Pixels" transAttributeName="Пиксели"
+                  dataType="string"><![CDATA[Прибл. 1 620 000 точки]]></data>
+            <data nodeName="Filedofview" attributeName="Filed of view"
+                  transAttributeName="Поле на видимост"
+                  dataType="string"><![CDATA[Прибл. 100%]]></data>
+            <data nodeName="Monitoradjustment" attributeName="Monitor adjustment"
+                  transAttributeName="Настройка монитор"
+                  dataType="string"><![CDATA[Яркост, контраст, наситеност, червено-зелено, синьо-жълто]]></data>
+         </dataGroup>
+         <dataGroup nodeName="LIVEVIEW" attributeName="LIVE VIEW" transAttributeName="LIVE VIEW"
+                    dataType="string">
+            <data nodeName="Digitalzoom" attributeName="Digital zoom"
+                  transAttributeName="Дигитално приближаване"
+                  dataType="string"><![CDATA[2x, 4x]]></data>
+            <data nodeName="ExtraTeleConversion" attributeName="Extra Tele Conversion"
+                  transAttributeName="Допълнителна теле-конверсия"
+                  dataType="string"><![CDATA[Статично изображение: Макс. 2x/4K PHOTO: 1,6x (4:3), 1,5x (3:2), 1,4x (16:9, 1:1)/Видеозапис: 2,7x (FHD), 1,4x (4K)]]></data>
+            <data nodeName="Otherfunctions" attributeName="Other functions"
+                  transAttributeName="Други функции"
+                  dataType="string"><![CDATA[Датчик за ниво, хистограма в реално време, водещи линии (3 шаблона), централен маркер, открояване на дисплея (снимки/филми), шаблон "Зебра" (снимки/филми).]]></data>
+         </dataGroup>
+         <dataGroup nodeName="DIRECTIONDETECTIONFUNCTION"
+                    attributeName="DIRECTION DETECTION FUNCTION"
+                    transAttributeName="ФУНКЦИЯ ЗА ОТКРИВАНЕ НА ПОСОКА"
+                    dataType="string">
+            <data nodeName="DirectionDetectionFunction"
+                  attributeName="Direction Detection Function"
+                  transAttributeName="Функция за откриване на посока"
+                  dataType="string"><![CDATA[Да]]></data>
+         </dataGroup>
+         <dataGroup nodeName="NULL" attributeName="NULL" transAttributeName="БУТОН ФУНКЦИИ"
+                    dataType="string">
+            <data nodeName="REC" attributeName="REC" transAttributeName="REC" dataType="string"><![CDATA[Wi-Fi / Q.MENU / LVF / Přepínač displeje / LVF / Styl displeje monitoru / AF/AE LOCK / AF-ON / Náhled / AE jedním stisknutím / Dotykové AE / Hladinoměr / Nastavení oblasti ostření / Ovládání zoomu / RAW+JPG na jeden snímek / Spot Metering na jeden snímek / Zámek spuštění / Přepínač funkcí / Styl fotografie / Výběr filtru / Poměr stran / Velikost snímku / Kvalita / AFS/AFF / Režim měření / Sekvenční snímání / 6K/4K PHOTO / Autočasovač / Bracket / Osvětlení a stín / i. Dynamic / i. Resolution / Post Focus / HDR / Druh závěrky / Režim blesku / Nastavení blesku. / Nastavení bezdrátového blesku / Ex. tele konverze / Digitální zoom / Stabilizátor / Vypnout/Zapnout každou položku ve vyvážení bílé / Vypnout/Zapnout každou položku ve stylu fotografie / Režim AF/MF / Zapnout nahrávání/přehrávání / Vypnout / Ořez 4K Live / Nastavení záznamu Nastavení záznamu / Kvalita nahrávání záznamu / Volitelná rychlost snímků / Režim obrazu při nahrávání / Synchro Scan / Zobrazení časového kódu / Mikrofon Úprava směrovosti / Barevné pruhy / WFM/Vector Scope / Focus Transition / Zobrazení monitoru LUT* / Zobrazení LUT HDMI* / Tichý režim / Peaking / Histogram / Vodicí linky / Vodicí zebry / Černobílý živý náhled / Oblast nahrávání / Zobrazení priority videa / Krokový zoom / Rychlost zoomu / Obnovení výchozího nastavení / Nahrávání videa*7 / Cílový slot*7 / Min. rychlost závěrky*7 / Zámek stabilizátoru obrazu (video)*7 / Nastavení úrovně mikrofonu*7 / Asistent HLG View Assist (HDMI)*7 / Zobrazení Anamorphic Desqueeze Display*7 / Asistent HLG View Assist*7 / Vodicí linky pro video*7 / Konstantní náhled*7 / Zámek kroužku ostření*8 / E-stabilizace (video)*8 / Zobrazení úrovně nahrávání mikrofonu *8 / Live View Boost*8 / Noční režim*8
+*Je vyžadován klíč pro upgrade softwaru DMW-SFU1 (v prodeji samostatně).]]></data>
+            <data nodeName="PLAY" attributeName="PLAY" transAttributeName="PLAY"
+                  dataType="string"><![CDATA[Wi-Fi / Přepínání hledáčku LVF/monitoru / Změna slotu / Přehrávání 6K/4K Photo / Smazat jednu fotografii / Chránit / Hodnocení 1, 2, 3, 4, 5 / Nastavení tisku / Kopírovat / Vypnout / Obnovení výchozího nastavení / Přepínání nahrávání/přehrávání*8 / RAW Processing*8 / Hromadné uložení 6K/4K PHOTO*8 / Zobrazení Anamorphic Desqueeze Display*8 / Asistent HLG View Assist*7 / Asistent HLG View Assist (HDMI) *7 / Zobrazení monitoru LUT*1/8* / Noční režim*8
+*Je vyžadován klíč pro upgrade softwaru DMW-SFU1 (v prodeji samostatně).]]></data>
+         </dataGroup>
+         <dataGroup nodeName="PHOTOSTYLE" attributeName="PHOTO STYLE"
+                    transAttributeName="СТИЛ НА СНИМКАТА"
+                    dataType="string">
+            <data nodeName="PhotoStyle" attributeName="Photo Style"
+                  transAttributeName="Фото стил"
+                  dataType="string"><![CDATA[Стандартен/жив/естествен/монохромен/L. монохромен/L. монохромен D*8/пейзажен/портретен/персонализиран 1, 2, 3, 4/кинематографичен D/кинематографичен V/Like709*9/Hybrid Log Gamma*1/*7/V-LogL**/*9/*Когато е избран режимът за творчески видеозапис. **Необходим е софтуерен ключ за надстройка DMW-SFU1(продава се отделно).]]></data>
+         </dataGroup>
+         <dataGroup nodeName="CREATIVECONTROL" attributeName="CREATIVE CONTROL"
+                    transAttributeName="КРЕАТИВЕН КОНТРОЛ"
+                    dataType="string">
+            <data nodeName="CreativeControl" attributeName="Creative Control"
+                  transAttributeName="Творчески контрол"
+                  dataType="string"><![CDATA[Експресивен/ретро/отминали дни/висок ключ/нисък ключ/сепия/монохром/динамичен монохром/груб монохром*/копринен монохром*/импресия/високодинамичен/напречна обработка/ефект на играчка/изпъкване на играчка/обезцветяване/ефект на миниатюра/меко фокусиране*/приказка/звезден филтър*/едноточков цвят/слънчева светлина**
+ *Само за снимки. **Не е наличен в 4:2:2 10-битово видео или 4K видеозапис.]]></data>
+         </dataGroup>
+         <dataGroup nodeName="CREATIVEVIDEOMODE" attributeName="CREATIVE VIDEO MODE"
+                    transAttributeName="РЕЖИМ НА ТВОРЧЕСКИ ВИДЕОЗАПИС"
+                    dataType="string">
+            <data nodeName="Exposuremode" attributeName="Exposure mode"
+                  transAttributeName="Режим експозиция"
+                  dataType="string"><![CDATA[Програмно AE/ приоритет на блендата / приоритет на затвора / ръчно експониране]]></data>
+            <dataGroup nodeName="Variableframerate" attributeName="Variable frame rate"
+                       transAttributeName="Променлива кадрова честота"
+                       dataType="string">
+               <data nodeName="5994Hz" attributeName="59.94Hz" transAttributeName="59,94Hz"
+                     dataType="string"><![CDATA[<MOV/MP4(LPCM)/FHD/59,94p> 2, 30, 56, 58, 60, 62, 64, 90, 120, 150, 180 кадъра в секунда/<MOV/MP4(LPCM)/4K/29,97p, AVCHD/FHD/29,97p> 2, 15, 26, 28, 30, 32, 34, 45, 60 кадъра в секунда/<MOV/MP4(LPCM)/FHD/29,97p> 2, 15, 26, 28, 30, 32, 34, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180 кадъра в секунда/<MOV/MP4(LPCM)/4K/23,98p, AVCHD/FHD/23,98p> 2, 12, 20, 22, 24, 26, 28, 36, 48, 60 кадъра в секунда/<MOV/MP4(LPCM)/FHD/23,98p> 2, 12, 20, 22, 24, 26, 28, 36, 48, 60, 72, 84, 96, 108, 120, 132, 144, 156, 168, 180 кадъра в секунда]]></data>
+               <data nodeName="5000Hz" attributeName="50.00Hz" transAttributeName="50,00Hz"
+                     dataType="string"><![CDATA[<MOV/MP4(LPCM)/FHD/50,00p> 2, 25, 46, 48, 50, 52, 54, 75, 100, 150, 180 кадъра в секунда/<MOV/MP4(LPCM)/4K/25,00p, AVCHD/FHD/25,00p> 2, 12, 21, 23, 25, 27, 30, 37, 60 кадъра в секунда/<MOV/MP4(LPCM)/FHD/25,00p> 2, 12, 21, 23, 25, 27, 30, 37, 50, 62, 75, 87, 100, 125, 150, 175, 180 кадъра в секунда]]></data>
+               <data nodeName="2400Hz" attributeName="24.00Hz" transAttributeName="24,00Hz"
+                     dataType="string"><![CDATA[<MOV/MP4(LPCM)/C4K/24,00p, MOV/MP4(LPCM)/4K/24,00p> 2, 12, 20, 22, 24, 26, 28, 36, 48, 60 кадъра в секунда/<MOV/MP4(LPCM)/FHD/24,00p> 2, 12, 20, 22, 24, 26, 28, 36, 48, 60, 72, 84, 96, 108, 120, 132, 144, 156, 168, 180 кадъра в секунда]]></data>
+            </dataGroup>
+         </dataGroup>
+         <dataGroup nodeName="Anamorphic4Kmode43" attributeName="Anamorphic 4K mode (4:3)"
+                    transAttributeName="Анаморфичен 4K режим (4:3)"
+                    dataType="string">
+            <data nodeName="MOV24-5994Hz" attributeName="MOV*2/*4-59.94Hz"
+                  transAttributeName="MOV*2/*4-59,94 Hz"
+                  dataType="string"><![CDATA[<3328x2496> 59.94p, 150 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)/<3328x2496> 29.97p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM, аудио с висока честота на дискретизация)*7/<3328x2496> 29.97p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM, аудио с висока честота на дискретизация) *6/<3328x2496> 29.97p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)/<3328x2496> 23.98p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM, аудио с висока честота на дискретизация)*7/<3328x2496> 23.98p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM, аудио с висока честота на дискретизация) *6/<3328x2496> 23.98p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)]]></data>
+            <data nodeName="MOV24-5000Hz" attributeName="MOV*2/*4-50.00Hz"
+                  transAttributeName="MOV*2/*4-50,00 Hz"
+                  dataType="string"><![CDATA[<3328x2496> 50.00p, 150 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)/<3328x2496> 25.00p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM, аудио с висока честота на дискретизация)*7/<3328x2496> 25.00p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM, аудио с висока честота на дискретизация) *6/<3328x2496> 25.00p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)]]></data>
+            <data nodeName="MOV24-2400Hz" attributeName="MOV*2/*4-24.00Hz"
+                  transAttributeName="MOV*2/*4-24,00 Hz"
+                  dataType="string"><![CDATA[<3328x2496> 24.00p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM, аудио с висока честота на дискретизация)*7/<3328x2496> 24.00p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM, аудио с висока честота на дискретизация) *6/<3328x2496> 24.00p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM, аудио с висока честота на дискретизация)]]></data>
+            <data nodeName="MP42-5994Hz" attributeName="MP4*2-59.94Hz"
+                  transAttributeName="MP4*2-59,94Hz"
+                  dataType="string"><![CDATA[<3328x2496> 59.94p, 150 Mbps (4:2:0 8-bit LongGOP) (LPCM)/<3328x2496> 29.97p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM) *7/<3328x2496> 29.97p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM) *6/<3328x2496> 29.97p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM)/<3328x2496> 23.98p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM)  *7/<3328x2496> 23.98p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM) *6/<3328x2496> 23.98p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM)]]></data>
+            <data nodeName="MP42-5000Hz" attributeName="MP4*2-50.00Hz"
+                  transAttributeName="MP4*2-50,00Hz"
+                  dataType="string"><![CDATA[<3328x2496> 50.00p, 150 Mbps (4:2:0 8-bit LongGOP) (LPCM)/<3328x2496> 25.00p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM) *7/<3328x2496> 25.00p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM) *6/<3328x2496> 25.00p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM)]]></data>
+            <data nodeName="MP42-2400Hz" attributeName="MP4*2-24.00Hz"
+                  transAttributeName="MP4*2-24,00Hz"
+                  dataType="string"><![CDATA[<3328x2496> 24.00p, 400 Mbps (4:2:2 10-bit ALL-Intra) (LPCM)  *7/<3328x2496> 24.00p, 150 Mbps (4:2:2 10-bit LongGOP) (LPCM) *6/<3328x2496> 24.00p, 100 Mbps (4:2:0 8-bit LongGOP) (LPCM)]]></data>
+         </dataGroup>
+         <dataGroup nodeName="High-ResolutionAnamorphicmode43"
+                    attributeName="High-Resolution Anamorphic mode (4:3)"
+                    transAttributeName="Анаморфичен режим с висока разделителна способност (4:3)"
+                    dataType="string">
+            <data nodeName="MP425994Hz" attributeName="MP4*2/59.94Hz"
+                  transAttributeName="MP4*2/59,94 Hz"
+                  dataType="string"><![CDATA[<4992x3744> MP4/59.94p 29.97p, 200 Mbps (4:2:0 10-bit LongGOP) (LPCM) (HEVC) *7/<4992x3744> MP4/59.94p 23.98p, 200 Mbps (4:2:0 10-bit LongGOP) (LPCM) (HEVC) *7]]></data>
+            <data nodeName="MP425000HZ" attributeName="MP4*2/50.00HZ"
+                  transAttributeName="MP4*2/50,00 Hz"
+                  dataType="string"><![CDATA[<4992x3744> MP4/59.94p 25.00p, 200 Mbps (4:2:0 10-bit LongGOP) (LPCM) (HEVC) *7]]></data>
+            <data nodeName="MP422400Hz" attributeName="MP4*2/24.00Hz"
+                  transAttributeName="MP4*2/24,00 Hz"
+                  dataType="string"><![CDATA[<4992x3744> MP4/59.94p 24.00p, 200 Mbps (4:2:0 10-bit LongGOP) (LPCM) (HEVC) *7]]></data>
+         </dataGroup>
+         <dataGroup nodeName="MOTIONPICTUREFUNCTION" attributeName="MOTION PICTURE FUNCTION"
+                    transAttributeName="ФУНКЦИЯ ЗА ВИДЕО"
+                    dataType="string">
+            <data nodeName="LUTdisplay" attributeName="LUT display"
+                  transAttributeName="LUT дисплей"
+                  dataType="string"><![CDATA[Дисплей на LUT монитор/LUT HDMI дисплей *Необходим е софтуерен ключ за надстройка DMW-SFU1 (продава се отделно).]]></data>
+            <data nodeName="Masterpedestallevel" attributeName="Master pedestal level"
+                  transAttributeName="Главна отправна точка"
+                  dataType="string"><![CDATA[31 стъпки]]></data>
+            <data nodeName="Luminancelevel" attributeName="Luminance level"
+                  transAttributeName="Ниво на осветеност"
+                  dataType="string"><![CDATA[8-битов: 0-255/16-235/16-255/10-битов: 0-1023/64-940/64-1023]]></data>
+            <data nodeName="WaveformmonitorVectorscope"
+                  attributeName="Wave form monitor / Vectorscope"
+                  transAttributeName="Монитор на формата на вълните/векторскоп"
+                  dataType="string"><![CDATA[Възможност за избиране]]></data>
+            <data nodeName="Synchroscan" attributeName="Synchro scan"
+                  transAttributeName="Синхронизирано сканиране"
+                  dataType="string"><![CDATA[Да]]></data>
+            <data nodeName="Timecode" attributeName="Time code" transAttributeName="Времеви код"
+                  dataType="string"><![CDATA[Отброяване нагоре: Стартиране при запис/избор на свободно стартиране, режим с времеви код: Възможност за избор на пропускане/непропускане на кадри (Когато е избрана честота на системата [59,94Hz].)]]></data>
+            <data nodeName="SSGainoperation" attributeName="SS/Gain operation"
+                  transAttributeName="Работа с SS/усилване"
+                  dataType="string"><![CDATA[Продължителност на натискането на затвора/ISO / ъгъл /ISO / продължителност на натискането на затвора/dB]]></data>
+            <data nodeName="Colorbars1kHztesttone" attributeName="Color bars / 1kHz test tone"
+                  transAttributeName="Цветови ленти / 1K Hz тестов тон"
+                  dataType="string"><![CDATA[Да (SMPTE / EBU / ARIB) / Да]]></data>
+            <data nodeName="Photostyleformotionpicture"
+                  attributeName="Photo style for motion picture"
+                  transAttributeName="Стил на снимката за видео"
+                  dataType="string"><![CDATA[Кинематографичен D/кинематографичен V/Like709*9/Hybrid Log Gamma*/*7/V-LogL**/*9/*Когато е избран режимът за творчески видеозапис. **Необходим е софтуерен ключ за надстройка DMW-SFU1(продава се отделно).]]></data>
+            <data nodeName="Kneecontrol" attributeName="Knee control"
+                  transAttributeName="Контрол на коляното"
+                  dataType="string"><![CDATA[Да (в режим Like709)]]></data>
+         </dataGroup>
+         <dataGroup nodeName="PLAYBACK" attributeName="PLAYBACK"
+                    transAttributeName="ВЪЗПРОИЗВЕЖДАНЕ"
+                    dataType="string">
+            <data nodeName="Playbackmode" attributeName="Playback mode"
+                  transAttributeName="Режим възпроизвеждане"
+                  dataType="string"><![CDATA[Дисплей с 30 миниатюри, дисплей с 12 миниатюри, календарен дисплей, мащабирано възпроизвеждане (макс. 16x), слайдшоу (всички/само снимки/само видео, с опция за избор на продължителност и ефекти), режим на възпроизвеждане (нормален/само снимки/само видео), защита, оценка, редактиране на текст, редактиране на разпознаването на лица, задаване на печатане във формат DPOF, RAW обработка, групово запаметяване на 6K/4K PHOTO, намаляване на шума на 6K/4K PHOTO, светлинна композиция, Clear Retouch, клеймо с текст, копиране, преоразмеряване, изрязване, завъртане, разделяне на видеоклип, серийно заснемане през интервал, видеоклип със стоп кадри, завъртане на дисплея, анаморфичен дисплей без притискане*7, асистент за преглед на HLG*7, дисплей на LUT монитор*8, LUT HDMI дисплей*8,сортиране на снимки, потвърждаване за изтриване, създаване на статични изображения от видеозапис]]></data>
+         </dataGroup>
+         <dataGroup nodeName="IMAGEPROTECTIONERASE" attributeName="IMAGE PROTECTION / ERASE"
+                    transAttributeName="ЗАЩИТА / ИЗТРИВАНЕ НА ИЗОБРАЖЕНИЯ"
+                    dataType="string">
+            <data nodeName="Protection" attributeName="Protection" transAttributeName="Защита"
+                  dataType="string"><![CDATA[Единичен / Мулти или Отказ]]></data>
+            <data nodeName="Erase" attributeName="Erase" transAttributeName="ИЗТРИВАНЕ"
+                  dataType="string"><![CDATA[Единичен / Мулти / Всички / Без ЛЮБИМ]]></data>
+         </dataGroup>
+         <dataGroup nodeName="PRINT" attributeName="PRINT" transAttributeName="ПРИНТИРАНЕ"
+                    dataType="string">
+            <data nodeName="DirectPrint" attributeName="Direct Print"
+                  transAttributeName="Директно принтиране"
+                  dataType="string"><![CDATA[Съвместимост с PictBridge]]></data>
+         </dataGroup>
+         <dataGroup nodeName="INTERFACE" attributeName="INTERFACE" transAttributeName="ИНТЕРФЕЙС"
+                    dataType="string">
+            <data nodeName="Headphoneoutput" attributeName="Headphone output"
+                  transAttributeName="Извод за слушалки"
+                  dataType="string"><![CDATA[φ3.5mm при слушалки]]></data>
+            <data nodeName="USB" attributeName="USB" transAttributeName="USB" dataType="string"><![CDATA[USB тип C, Super Speed USB3.1 GEN1]]></data>
+            <dataGroup nodeName="HDMI3" attributeName="HDMI*3" transAttributeName="HDMI*3"
+                       dataType="string">
+               <data nodeName="Monitor-through" attributeName="Monitor-through"
+                     transAttributeName="През екрана"
+                     dataType="string"><![CDATA[4:2:2 10-битово (Когато [качество на видеозапис] е зададено на [4:2:2 10-битово] или когато [качество на видеозапис] е зададено на [4K/60p]/[4K/50p] и [битов режим 4K/60p]/[битов режим 4K/50p] е зададено на [4:2:2 10-битово].) Когато в [качество на видеозапис] е избран режима [4K/60p] [4K/50p], е невъзможно да запишете видео или статично изображение на SD картата с памет в камерата.)/4:2:2 8-битово (Когато [качество на видеозапис] е зададено на [4:2:0 8-битово], с изключение на [4K 60p]/[4K/50p])/4:2:0 8-битово (Когато [качество на видеозапис] е зададено на [4K/60p]/[4K/50p] и [битов режим 4K/60p]/[битов режим 4K/50p] е зададено на [4:2:0 8-битово].)/Автом./4K/30p/25p/1080p/1080i/ИЗКЛ./ВКЛ./ИЗКЛ. на информационен дисплей (по избор)/Автоматично конвертиране в по-ниско качество/Асистент за преглед на HGC (HDMI) АВТОМАТИЧНО/РЕЖИМ1/РЕЖИМ2/ИЗКЛ. (с възможност за избор)*7]]></data>
+               <data nodeName="Playback" attributeName="Playback"
+                     transAttributeName="Възпроизвеждане"
+                     dataType="string"><![CDATA[HDMI TypeA/VIERA Link, аудио: Стерео/59,94Hz: Автом./4K/60p/4K/30p/1080p/1080i/720p/480p/50,00Hz: Автом./4K/50p/4K/25p/1080p/1080i/720p/576p/24,00Hz: Автом./C4K/4K/24p/1080p]]></data>
+            </dataGroup>
+            <data nodeName="Audiovideooutput" attributeName="Audio video output"
+                  transAttributeName="Аудио- видео изход"
+                  dataType="string"><![CDATA[He]]></data>
+            <data nodeName="Remoteinput" attributeName="Remote input"
+                  transAttributeName="Дистанционен вход"
+                  dataType="string"><![CDATA[φ2.5mm при дистанционно управление]]></data>
+            <data nodeName="Externalmicrophoneinput" attributeName="External microphone input"
+                  transAttributeName="Вход за външен микрофон"
+                  dataType="string"><![CDATA[φ3.5mm за външен микрофон/Опциите: стерео/автоматично насочване на обектив/насочен/супер насочен/ръчен се избират с прикрепване на DMW-MS2 (продава се отделно).]]></data>
+            <data nodeName="Microphone" attributeName="Microphone" transAttributeName="Микрофон"
+                  dataType="string"><![CDATA[Стерео, изолатор за потискане на шума от вятъра: ИЗКЛ./слаб/стандартен/висок/АВТОМАТИЧЕН]]></data>
+            <data nodeName="Speaker" attributeName="Speaker" transAttributeName="Високоговорител"
+                  dataType="string"><![CDATA[Mono]]></data>
+            <data nodeName="SDcardslot" attributeName="SD card slot"
+                  transAttributeName="Слот за SD карта"
+                  dataType="string"><![CDATA[Слот 1, слот 2]]></data>
+         </dataGroup>
+         <dataGroup nodeName="LANGUAGE" attributeName="LANGUAGE" transAttributeName="ЕЗИК"
+                    dataType="string">
+            <data nodeName="OSDlanguage" attributeName="OSD language"
+                  transAttributeName="Език на дисплея"
+                  dataType="string"><![CDATA[японски, английски, немски, френски, италиански, испански, полски, чешки, унгарски, румънски, нидерландски, турски, португалски, финландски, датски, шведски, гръцки]]></data>
+         </dataGroup>
+         <dataGroup nodeName="Software" attributeName="Software" transAttributeName="Софтуер"
+                    dataType="string">
+            <data nodeName="Recording" attributeName="Recording" transAttributeName="Запис"
+                  dataType="string"><![CDATA[LUMIX Tether*7/・ Този софтуер се използва за управляване на цифров фотоапарат Panasonic от компютър. Позволява ви да променяте различни настройки на фотоапарата, да извършвате дистанционен запис и да запаметявате дистанционно записаните изображения на компютъра.. Отидете на уеб сайта по-долу, за да изтеглите и инсталирате софтуера./http://panasonic.jp/support/global/cs/soft/download/d_lumixtether.html (For Windows / Mac)]]></data>
+            <data nodeName="PlaybackEditing" attributeName="Playback / Editing"
+                  transAttributeName="Přehrát/Upravit"
+                  dataType="string"><![CDATA[・ Софтуерът за редактиране и възпроизвеждане на изображения не се предлага в пакет с фотоапарата. За да направите това, PHOTOfunSTUDIO 10.0XE е налично за изтегляне на уеб сайта на Panasonic чрез компютър, свързан с интернет./http://panasonic.jp/support/global/cs/soft/download/d_pfs10xe.html (За Windows)/・ Софтуерът за обработка на файлове в RAW формат на компютър не е включен в комплекта на този фотоапарат. За тази цел софтуерът SILKYPIX Developer Studio е наличен за изтегляне от уеб сайта на Ichikawa Soft Laboratory чрез компютър, свързан към интернет./http://www.isl.co.jp/SILKYPIX/english/p/ (За Windows/Mac)]]></data>
+            <data nodeName="Standardaccessories" attributeName="Standard accessories"
+                  transAttributeName="Стандартни аксесоари"
+                  dataType="string"><![CDATA[Зарядно устройство (включен променливотоков кабел), батерия, калъф на корпуса, капаче на гнездото на светкавицата, купичка на визьора, капака на гнездото за синхронизиране на светкавицата, капаче за конектора на захвата на батерията, свързващ USB кабел, каишка за през рамо, поставка за кабел]]></data>
+         </dataGroup>
+         <dataGroup nodeName="POWER" attributeName="POWER" transAttributeName="МОЩНОСТ"
+                    dataType="string">
+            <data nodeName="Battery" attributeName="Battery" transAttributeName="Батерия"
+                  dataType="string"><![CDATA[Литиево-йонна батерия (7,2 V, 1860 mAh, 14 Wh) (включена)]]></data>
+            <data nodeName="BatterylifeCIPAstandard" attributeName="Battery life (CIPA standard)"
+                  transAttributeName="Живот на батерията (CIPA стандарт)"
+                  dataType="string"><![CDATA[Прибл. 410 изображения (заден монитор), 400 изображения (LVF), 1000 изображения (Power Save LVF режим*) с H-FS12060/Прибл. 410 изображения (заден монитор), 390 изображения (LVF), 1000 изображения (Power Save LVF режим*) с H-HSA12035/Прибл. 400 изображения (заден монитор), 380 изображения (LVF), 1000 изображения (Power Save LVF режим*) с H-ES12060/* При тестовите условия, посочени от Panasonic на базата на стандарта CIPA. Когато времето за влизане в режим на заспиване е настроено на 3 сек.]]></data>
+            <data nodeName="Batterygrip" attributeName="Battery grip"
+                  transAttributeName="Захват на батерията"
+                  dataType="string"><![CDATA[DMW-BGGH5 (продава се отделно)]]></data>
+         </dataGroup>
+         <dataGroup nodeName="DIMENSIONSWEIGHT" attributeName="DIMENSIONS / WEIGHT"
+                    transAttributeName="РАЗМЕРИ/ТЕГЛО"
+                    dataType="string">
+            <data nodeName="DimensionsWxHxD" attributeName="Dimensions (W x H x D)"
+                  transAttributeName="Размери (W x H x D)"
+                  dataType="string"><![CDATA[138,5 x 98,1 x 87,4 мм / 5,45 x 3,86 x 3,44 инча (без да се броят издатините)]]></data>
+            <data nodeName="Weight" attributeName="Weight" transAttributeName="Тегло"
+                  dataType="string"><![CDATA[Прибл. 725 г/1,60 фунта (SD карта, батерия, корпус)/Прибл. 645 г/1,42 фунта (само корпуса)/Прибл. 935 г/2,06 фунта (1 х SD карта, батерия, включително с обектив H-FS12060)/Прибл. 1030 г/2,27 фунта (1 х SD карта, батерия, включително с обектив H-HSA12035)/Прибл. 1045 г/2,30 фунта (1 х SD карта, батерия, включително с обектив H-ES12060)]]></data>
+         </dataGroup>
+         <dataGroup nodeName="OPERATINGENVIRONMENT" attributeName="OPERATING ENVIRONMENT"
+                    transAttributeName="СРЕДА НА РАБОТА"
+                    dataType="string">
+            <data nodeName="Operatingtemperature5" attributeName="Operating temperature*5"
+                  transAttributeName="Температура в работен режим*5"
+                  dataType="string"><![CDATA[-10 ℃ до 40 ℃ (14 °F до 104 °F)]]></data>
+            <data nodeName="Operatinghumidity" attributeName="Operating humidity"
+                  transAttributeName="Влажност при работа"
+                  dataType="string"><![CDATA[От 10% до 80％ относителна влажност]]></data>
+         </dataGroup>
+         <dataGroup nodeName="INTERCHANGEABLELENS-1" attributeName="INTERCHANGEABLE LENS-1"
+                    transAttributeName="СМЕНЯЕМИ ОБЕКТИВИ-1"
+                    dataType="string">
+            <data nodeName="Weatherproof" attributeName="Weatherproof"
+                  transAttributeName="Устойчивост на атмосферни влияния"
+                  dataType="string"><![CDATA[Устойчив на пръски / прах / замръзване]]></data>
+            <data nodeName="LensName" attributeName="Lens Name" transAttributeName="Име обектив"
+                  dataType="string"><![CDATA[LEICA DG VARIO-ELMARIT 12 – 60 мм / F2.8 – 4.0 ASPH. /POWER O.I.S.]]></data>
+            <data nodeName="LensConstruction" attributeName="Lens Construction"
+                  transAttributeName="Конструкция на обектива"
+                  dataType="string"><![CDATA[14 елемента в 12 групи (4 асферични лещи, 2 ED лещи)]]></data>
+            <data nodeName="NanoSurfaceCoating" attributeName="Nano Surface Coating"
+                  transAttributeName="Нано повърхностно покритие"
+                  dataType="string"><![CDATA[Да]]></data>
+            <data nodeName="Mount" attributeName="Mount" transAttributeName="Mонтиране"
+                  dataType="string"><![CDATA[Micro Four Thirds mount]]></data>
+            <data nodeName="OpticalImageStabilizer" attributeName="Optical Image Stabilizer"
+                  transAttributeName="Оптичен стабилизатор на изображение"
+                  dataType="string"><![CDATA[Да (МОЩЕН O.I.S.)]]></data>
+            <data nodeName="FocalLength" attributeName="Focal Length"
+                  transAttributeName="Разстояние на фокуса"
+                  dataType="string"><![CDATA[f = 12 – 60 мм (еквивалент на 24 – 120 мм при 35-милиметров фотоапарат)]]></data>
+            <data nodeName="ApertureType" attributeName="Aperture Type"
+                  transAttributeName="Апертура Тип"
+                  dataType="string"><![CDATA[9 диафрагмени платна / Диафрагма с кръгова бленда]]></data>
+            <data nodeName="MaximumAperture" attributeName="Maximum Aperture"
+                  transAttributeName="Максимален отвор на блендата"
+                  dataType="string"><![CDATA[F2.8 (широк ъгъл) – F4.0 (телефото)]]></data>
+            <data nodeName="MinimumAperture" attributeName="Minimum Aperture"
+                  transAttributeName="Минимална апертура"
+                  dataType="string"><![CDATA[F22]]></data>
+            <data nodeName="ClosestFocusingDistance" attributeName="Closest Focusing Distance"
+                  transAttributeName="Най-близко разстояние за фокусиране"
+                  dataType="string"><![CDATA[0,20 м / 0,66 фута (при фокусна дължина 12 мм) / 0,24 м / 0,79 фута (при фокусна дължина 60 мм)]]></data>
+            <data nodeName="Maximummagnification" attributeName="Maximum magnification"
+                  transAttributeName="Максимално увеличение"
+                  dataType="string"><![CDATA[Прибл. 0,3x / 0,6x (еквивалент на 35-милиметров фотоапарат)]]></data>
+            <data nodeName="DiagonalAngleofView" attributeName="Diagonal Angle of View"
+                  transAttributeName="Диагонален зрителен ъгъл"
+                  dataType="string"><![CDATA[От 84°(широк ъгъл) до 20°(телефото)]]></data>
+            <dataGroup nodeName="General" attributeName="General" transAttributeName="Основни"
+                       dataType="string">
+               <data nodeName="FilterSize" attributeName="Filter Size"
+                     transAttributeName="Филтър с размер"
+                     dataType="string"><![CDATA[φ62 мм / 2,44 инча]]></data>
+               <data nodeName="MaxDiameter" attributeName="Max. Diameter"
+                     transAttributeName="Макс. диаметър"
+                     dataType="string"><![CDATA[φ 68,4 мм / 2,69 инча]]></data>
+               <data nodeName="OverallLength" attributeName="Overall Length"
+                     transAttributeName="Обща дължина"
+                     dataType="string"><![CDATA[Прибл. 86 мм / 3,39 инча (от върха на обектива до основата на байонета на обектива)]]></data>
+               <data nodeName="Weightg" attributeName="Weight [g]" transAttributeName="Тегло [гр]"
+                     dataType="string"><![CDATA[Прибл. 320 г (без да се брои капачето за обектива, задното капаче за обектива и предпазния капак на обектива)]]></data>
+               <data nodeName="Weightoz" attributeName="Weight [oz]" transAttributeName="Тегло [Oz]"
+                     dataType="string"><![CDATA[Прибл. 11,29 унции (без да се брои капачето за обектива, задното капаче за обектива и предпазния капак на обектива)]]></data>
+            </dataGroup>
+         </dataGroup>
+         <data nodeName="NOTE" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[*1 6K PHOTO e функция за серийно заснемане с висока скорост, която отрязва неподвижно изображение от видеозапис със съотношение 4:3 или 3:2 с разделителна способност от около 18 мегапиксела (около 6000 x 3000 ефективен брой пиксели), обработени от 6K изображението.]]></data>
+         <data nodeName="NOTE_0" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[*2 За видеозаписи / записи с функцията 6K PHOTO/4K PHOTO]]></data>
+         <data nodeName="NOTE_1" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[– Използвайте карта с клас на скоростта SD „Class 4“ или по-висок при видеозапис в [AVCHD] или [MP4(на 28M bps)].]]></data>
+         <data nodeName="NOTE_2" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[– Използвайте карта с клас на скоростта SD с „UHS-I/UHS-II UHS Speed Class 3 (U3)“ при видеозапис в [MP4] формат с [4K], [MOV], [VFR] или [6K PHOTO/4K PHOTO].]]></data>
+         <data nodeName="NOTE_3" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[(Класът на SD скоростта представлява стандарт за скорост по отношение на непрекъснатото записване.)]]></data>
+         <data nodeName="NOTE_4" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[– MP4 видеозапис с [MP4] във формат [4K]:]]></data>
+         <data nodeName="NOTE_5" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[- При използване на SDHC карта с памет: Можете да продължите да записвате без прекъсване дори ако файлът надвиши 4 ГБ, но файлът на видеозаписа ще бъде разделен и записан/възпроизведен отделно.]]></data>
+         <data nodeName="NOTE_6" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[– При използване на SDXC карта с памет: Можете да продължите да записвате без прекъсване дори ако файлът надвиши 96 ГБ или 3 часа и 4 минути дължина, но файлът на видеозаписа ще бъде разделен и записан/възпроизведен отделно.]]></data>
+         <data nodeName="NOTE_7" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[– MP4 видеозапис с [MP4] във формат [FHD]:]]></data>
+         <data nodeName="NOTE_8" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[Можете да продължите да записвате без прекъсване дори ако файлът надвиши 4 ГБ или 30 минути дължина, но файлът на видеозаписа ще бъде разделен и записан/възпроизведен отделно.]]></data>
+         <data nodeName="NOTE_9" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[*3 За [4K 60p] [4K 50p] видео извеждане използвайте HDMI2.0 кабел с изписани върху него емблема HDMI и „4K съвместимо“.]]></data>
+         <data nodeName="NOTE_10" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[*4 Високочестотното аудио може да бъе избрано само когато използвате DMW-XLR1 (продава се отделно).]]></data>
+         <data nodeName="NOTE_11" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[*5 Камерата може да спре да записва, когато се използва при температура, по-висока или по-ниска от работната: – 10 до 40 градуса.]]></data>
+         <data nodeName="NOTE_12" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[*6 Фърмуерът трябва да се актуализира до версия 1.1 или по-нова.]]></data>
+         <data nodeName="NOTE_13" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[*7 Фърмуерът трябва да се актуализира до версия 2.0 или по-нова.]]></data>
+         <data nodeName="NOTE_14" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[- Необходим е видео клас на скоростта 60 или повече за запис ALL-Intra 400 Mbps. За видеозапис 4K ALL-Intra се препоръчва употребата на SD карта с памет с видео клас на скоростта 60 или по-висок.]]></data>
+         <data nodeName="NOTE_15" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[За [непрекъснато заснемане] на [6K PHOTO] се препоръчва употребата на SD карта с памет Panasonic с видео клас на скорост 90.]]></data>
+         <data nodeName="NOTE_16" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[・4:2:2 10-битов запис е режим на запис за филмово производство и видеото трябва да се обработи на компютър.]]></data>
+         <data nodeName="NOTE_17" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[Оригиналното видео не може да се възпроизведе на стандартен телевизор, рекордер Blu-ray Disc™ и плейър Blu-ray Disc™.]]></data>
+         <data nodeName="NOTE_18" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[Може да предизвика проблеми, като замръзване на образа, при възпроизвеждане на тези устройства.]]></data>
+         <data nodeName="NOTE_19" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[*8 Фърмуерът трябва да се актуализира до най-новата версия 2.3.]]></data>
+         <data nodeName="NOTE_20" attributeName="NOTE" transAttributeName="ЗАБЕЛЕЖКА"
+               dataType="string"><![CDATA[*9 Фърмуерът трябва да се актуализира до най-новата версия 2.3 за заснемане в режими, различни от режим за творчески видеозапис.]]></data>
+      </dataGroup>
+
+   </ItemContent>
+</ItemContents>

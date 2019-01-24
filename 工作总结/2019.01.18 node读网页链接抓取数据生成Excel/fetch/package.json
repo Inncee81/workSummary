@@ -1,0 +1,21 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sdn"
+  ],
+  "author": "sdn",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.1",
+    "cheerio": "^1.0.0-rc.2",
+    "exceljs": "^1.7.0",
+    "node-xlsx": "^0.12.1",
+    "superagent": "^4.1.0"
+  }
+}

@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemContents>
+   <ItemContent nodeName="ItemContent">
+      <data nodeName="ShortModelNumber" attributeName="Short Model Number"
+            transAttributeName="Short Model Number"
+            dataType="string"><![CDATA[DMC-G7HEC]]></data>
+      <data nodeName="UnifiedModelNumber" attributeName="Unified Model Number"
+            transAttributeName="Unified Model Number"
+            dataType="string"><![CDATA[DMC-G7HEC-K]]></data>
+      <data nodeName="catalogName" attributeName="catalogName"
+            transAttributeName="catalogName"
+            dataType="string"><![CDATA[Cameras and Camcorder]]></data>
+      <dataGroup nodeName="Category" attributeName="Category" transAttributeName="Category"
+                 dataType="string">
+         <data nodeName="CategoryTree1" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[Cameras and Camcorder]]></data>
+         <data nodeName="CategoryTree2" attributeName="CategoryTree"
+               transAttributeName="CategoryTree"
+               dataType="string"><![CDATA[Digital Cameras]]></data>
+      </dataGroup>
+      <dataGroup nodeName="GeneralData" attributeName="GeneralData"
+                 transAttributeName="GeneralData"
+                 dataType="string">
+         <data nodeName="BrandName" attributeName="Brand Name" transAttributeName="Brand Name"
+               dataType="string"><![CDATA[Panasonic]]></data>
+         <data nodeName="ProductType" attributeName="Product Type"
+               transAttributeName="Product Type"
+               dataType="string"><![CDATA[Main Unit]]></data>
+         <data nodeName="NumberofDaysNew" attributeName="Number of Days New"
+               transAttributeName="Number of Days New"
+               dataType="number"><![CDATA[90]]></data>
+         <dataGroup nodeName="SalesRegion" attributeName="Sales Region"
+                    transAttributeName="Sales Region"
+                    dataType="string">
+            <data nodeName="locale" attributeName="locale" transAttributeName="locale"
+                  dataType="string"><![CDATA[es_es]]></data>
+         </dataGroup>
+         <dataGroup nodeName="Dates" attributeName="Dates" transAttributeName="Dates"
+                    dataType="string">
+            <data nodeName="WebPublishingDate" attributeName="Web Publishing Date"
+                  transAttributeName="Web Publishing Date"
+                  dataType="date"><![CDATA[2015-05-18T12:00:00.0Z]]></data>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="MarketingDescription" attributeName="MarketingDescription"
+                 transAttributeName="MarketingDescription"
+                 dataType="string">
+         <data nodeName="ModelName" attributeName="Model Name" transAttributeName="Model Name"
+               dataType="string"><![CDATA[Micro Sistema G]]></data>
+         <dataGroup nodeName="ShortDescriptions" attributeName="ShortDescriptions"
+                    transAttributeName="ShortDescriptions"
+                    dataType="string">
+            <data nodeName="ShortDescription" attributeName="Short Description"
+                  transAttributeName="Short Description"
+                  dataType="string"><![CDATA[La cámara digital de lente individual sin espejo híbrida 4K cuenta con un rendimiento fotográfico y movilidad elevados]]></data>
+         </dataGroup>
+         <dataGroup nodeName="SalesArguments" attributeName="SalesArguments"
+                    transAttributeName="SalesArguments"
+                    dataType="string">
+            <data nodeName="SalesArgument" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"><![CDATA[Capta el momento perfecto — vídeo 4K y fotografía 4K]]></data>
+            <data nodeName="SalesArgument_0" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"><![CDATA[Modos de fotografía 4K mejorados; ráfaga 4K, ráfaga 4K S/S y pre-burst 4K]]></data>
+            <data nodeName="SalesArgument_1" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"><![CDATA[Céntrate en el momento — Contraste AF con tecnología DFD y un seguimiento de AF]]></data>
+            <data nodeName="SalesArgument_2" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"><![CDATA[Todo en el sitio adecuado — Diseño de cuerpo sofisticado]]></data>
+            <data nodeName="SalesArgument_3" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"><![CDATA[Calidad de imagen alta incluso en condiciones de poca luz]]></data>
+            <data nodeName="SalesArgument_4" attributeName="Sales Argument"
+                  transAttributeName="Sales Argument"
+                  dataType="string"><![CDATA[Desata tu creatividad con Wi-Fi®]]></data>
+         </dataGroup>
+         <dataGroup nodeName="LongDescription" attributeName="LongDescription"
+                    transAttributeName="LongDescription"
+                    dataType="string">
+            <data nodeName="Heading" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"><![CDATA[Capta el momento perfecto — vídeo 4K y fotografía 4K]]></data>
+            <data nodeName="Paragraph" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"><![CDATA[Con la introducción de la LUMIX G7, podrás grabar vídeo en 4K (de hasta QFHD: 3840x2160 píxeles, 25 fps,100 Mbit/s). Además, se han integrado tres funciones de fotografía 4K para capturar las oportunidades fotográficas fugaces; ráfaga 4K, ráfaga 4K S/S (inicio/parada) y 4K Pre-burst. Todas estas funciones te permiten capturar el momento perfecto a una velocidad de ráfaga elevada de 30 fps y guardarlo como fotografías de 8 megapíxeles. La LUMIX G7 híbrida libera tu creatividad tanto en vídeo como en fotografía.
+・ A la hora de grabar vídeos en 4K, utiliza una tarjeta clasificada como UHS Speed Class 3.]]></data>
+            <data nodeName="Heading_0" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"><![CDATA[Céntrate en el momento — Contraste AF con tecnología DFD y un seguimiento de AF rápido y preciso]]></data>
+            <data nodeName="Paragraph_0" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"><![CDATA[Prepárate para atrapar la siguiente y súbita oportunidad de disparo que se te presente. Añadir la nueva tecnología de profundidad a partir del desenfoque (DFD)* al Contraste AF ha logrado alcanzar una precisión superior y una velocidad mayor en aproximadamente 0,07 segundos**. Esto se combina con el rendimiento de seguimiento AF de aproximadamente un 200 %***, disparo en ráfaga 8 fps (AFS) / 6 fps (AFC) y compatibilidad con tarjeta de memoria SDXC UHS-II para convertir esos momentos únicos en la vida en recuerdos que duren para siempre.
+* Únicamente funciona con los objetivos Micro Cuatro Tercios de Panasonic.
+** En AFS, con H-FS14140.
+*** Comparativa de Panasonic con LUMIX G6.]]></data>
+            <data nodeName="Heading_1" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"><![CDATA[Todo en el sitio adecuado — Diseño de cuerpo sofisticado y funcionamiento intuitivo]]></data>
+            <data nodeName="Paragraph_1" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"><![CDATA[La LUMIX G7 cuenta con un diseño de cuerpo sofisticado con una empuñadura que se adapta a la mano y un nivel de manejo intuitivo. OLED LVF de 2360 k puntos te permite encuadrar las imágenes incluso bajo condiciones de luz solar directa y el diseño del cuerpo te permite personalizar libremente los ajustes. Los diales delanteros/traseros controlan los ajustes de apertura principal y la velocidad del obturador a la vez que puedes intercambiar entre ajustes temporales de balance de blancos e ISO. También se pueden asignar ajustes a los botones de función. El modo de fotos en 4K puede activarse rápidamente mediante la función de fotos en 4K en el dial del modo de accionamiento.]]></data>
+            <data nodeName="Heading_2" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"><![CDATA[Calidad de imagen alta incluso en condiciones de poca luz]]></data>
+            <data nodeName="Paragraph_2" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"><![CDATA[El sensor Digital Live MOS de 16 megapíxeles en combinación con el motor Venus proporciona: captura de imágenes de alta calidad y procesamiento de señales de alta velocidad. El sistema de reducción de ruido superior permite obtener imágenes nítidas incluso en condiciones de poca luz con hasta un ISO de 25 600. El motor Venus también es excelente en la compensación de difracción para lograr imágenes nítidas y claras incluso al disparar con una apertura pequeña. Además, LUMIX G7 es capaz de enfocar en condiciones de poca luz hasta -4 EV. Lo cual es el equivalente a la luz de una noche estrellada sin ninguna otra fuente de luz.]]></data>
+            <data nodeName="Heading_3" attributeName="Heading" transAttributeName="Heading"
+                  dataType="string"><![CDATA[Desata tu creatividad con Wi-Fi®]]></data>
+            <data nodeName="Paragraph_3" attributeName="Paragraph" transAttributeName="Paragraph"
+                  dataType="string"><![CDATA[Las funciones de conectividad de la LUMIX G7 amplían la capacidad de uso de la cámara de muchas formas. La cámara puede controlarse con la aplicación 'Panasonic Image App' en tu dispositivo smartphone o tableta, que te permite ver la imagen, enfocar, accionar el obturador desde la distancia o revisar fotografías en la gran pantalla de tu tableta. O incluso compartir las imágenes en los medios sociales. Cuando utilizas el registro/etiquetado GPS de tu smartphone o tableta, podrás adjuntar automáticamente la información de dónde se tomaron las fotografías a cada fotografía.]]></data>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="DigitalAssets" attributeName="DigitalAssets"
+                 transAttributeName="DigitalAssets"
+                 dataType="string">
+         <dataGroup nodeName="Images" attributeName="Images" transAttributeName="Images"
+                    dataType="string">
+            <dataGroup nodeName="HiRes-Image" attributeName="HiRes-Image"
+                       transAttributeName="HiRes-Image"
+                       dataType="string">
+               <data nodeName="Image" attributeName="Image" transAttributeName="Image"
+                     dataType="file"><![CDATA[DMC-G7HEC-HiRes-Image__Image--1Europe-1_es_es.jpg]]></data>
+            </dataGroup>
+            <dataGroup nodeName="AdditionalWebImage" attributeName="AdditionalWebImage"
+                       transAttributeName="AdditionalWebImage"
+                       dataType="string">
+               <data nodeName="HiRes-Image" attributeName="HiRes-Image"
+                     transAttributeName="HiRes-Image"
+                     dataType="file"><![CDATA[DMC-G7HEC-Additional_WebImage__HiRes-Image--1Europe-1_es_es.jpg]]></data>
+               <data nodeName="HiRes-Image_0" attributeName="HiRes-Image"
+                     transAttributeName="HiRes-Image"
+                     dataType="file"><![CDATA[DMC-G7HEC-Additional_WebImage__HiRes-Image--2Europe-1_es_es.jpg]]></data>
+               <data nodeName="HiRes-Image_1" attributeName="HiRes-Image"
+                     transAttributeName="HiRes-Image"
+                     dataType="file"><![CDATA[DMC-G7HEC-Additional_WebImage__HiRes-Image--3Europe-1_es_es.jpg]]></data>
+            </dataGroup>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="Overview" attributeName="Overview" transAttributeName="Overview"
+                 dataType="string">
+         <data nodeName="OverviewTemplateSelector" attributeName="Overview Template Selector"
+               transAttributeName="Overview Template Selector"
+               dataType="string"><![CDATA[LEFT]]></data>
+         <data nodeName="DisplayModelNumber" attributeName="Display Model Number"
+               transAttributeName="Display Model Number"
+               dataType="string"><![CDATA[lumix-2015-g7-1-3-hmx2]]></data>
+         <data nodeName="FullProductName" attributeName="Full Product Name"
+               transAttributeName="Full Product Name"
+               dataType="string"><![CDATA[Cámara digital de objetivo individual sin espejo LUMIX DMC-G7]]></data>
+         <data nodeName="ModelNumber" attributeName="Model Number"
+               transAttributeName="Model Number"
+               dataType="string"><![CDATA[DMC-G7H]]></data>
+         <data nodeName="DescriptionForSeeAll" attributeName="Description For See All"
+               transAttributeName="Description For See All"
+               dataType="string"><![CDATA[Cámara DSLM (Digital Single Lens Mirrorless) con grabación de vídeo 4K y modos de fotografía 4K mejorados para captar la esencia del momento. Kit de objetivos de 14-140 mm]]></data>
+         <data nodeName="ProductMainPicture" attributeName="Product Main Picture"
+               transAttributeName="Product Main Picture"
+               dataType="file"><![CDATA[DMC-G7HEC-Product_Main_PictureGlobal-1_es_es.jpg]]></data>
+         <data nodeName="ProductMainImageCopyRights"
+               attributeName="Product Main Image Copy Rights"
+               transAttributeName="Product Main Image Copy Rights"
+               dataType="flag"/>
+         <data nodeName="ProductMainImageExpireDate"
+               attributeName="Product Main Image Expire Date"
+               transAttributeName="Product Main Image Expire Date"
+               dataType="date"/>
+         <data nodeName="ProductLogoImage" attributeName="Product Logo Image"
+               transAttributeName="Product Logo Image"
+               dataType="file"/>
+         <data nodeName="PromotionLogoImage" attributeName="Promotion Logo Image"
+               transAttributeName="Promotion Logo Image"
+               dataType="file"/>
+         <data nodeName="SubBrandLogoImage" attributeName="Sub Brand Logo Image"
+               transAttributeName="Sub Brand Logo Image"
+               dataType="file"><![CDATA[DMC-G7HEC-Sub_Brand_Logo_ImageGlobal-1_es_es.png]]></data>
+         <data nodeName="KeyCopy" attributeName="Key Copy" transAttributeName="Key Copy"
+               dataType="string"><![CDATA[Extrae "los momentos" con fotografía 4K]]></data>
+         <data nodeName="SubCopy" attributeName="Sub Copy" transAttributeName="Sub Copy"
+               dataType="string"><![CDATA[Guarda esos momentos preciosos con una belleza sobrecogedora en vídeo 4K Y captura momentos especiales con fotografía 4K. Esta cámara 4K híbrida los conservará de forma magnífica para siempre.]]></data>
+         <data nodeName="SalesDateForTopPage" attributeName="Sales Date For Top Page"
+               transAttributeName="Sales Date For Top Page"
+               dataType="string"/>
+         <data nodeName="Annotation" attributeName="Annotation"
+               transAttributeName="Annotation"
+               dataType="string"/>
+         <data nodeName="MicrositeBannerImage" attributeName="Microsite Banner Image"
+               transAttributeName="Microsite Banner Image"
+               dataType="file"/>
+         <data nodeName="MicrositeBannerImageURL" attributeName="Microsite Banner Image URL"
+               transAttributeName="Microsite Banner Image URL"
+               dataType="string"/>
+      </dataGroup>
+      <dataGroup nodeName="Features" attributeName="Features" transAttributeName="Features"
+                 dataType="string">
+         <data nodeName="NumberOfFeatures" attributeName="Number Of Features"
+               transAttributeName="Number Of Features"
+               dataType="number"><![CDATA[5]]></data>
+         <dataGroup nodeName="Feature1" attributeName="Feature 1" transAttributeName="Feature 1"
+                    dataType="string">
+            <data nodeName="SectorName1" attributeName="Sector Name 1"
+                  transAttributeName="Sector Name 1"
+                  dataType="string"><![CDATA[Características principales]]></data>
+            <data nodeName="FactorName1-1" attributeName="Factor Name 1-1"
+                  transAttributeName="Factor Name 1-1"
+                  dataType="string"><![CDATA[Vídeo 4K y fotografía 4K — Capta el momento perfecto]]></data>
+            <data nodeName="FactorID1-1" attributeName="Factor ID 1-1"
+                  transAttributeName="Factor ID 1-1"
+                  dataType="string"><![CDATA[lumix-2015-g7-2-1-1-pal]]></data>
+            <data nodeName="FactorName1-2" attributeName="Factor Name 1-2"
+                  transAttributeName="Factor Name 1-2"
+                  dataType="string"><![CDATA[Céntrate en el momento]]></data>
+            <data nodeName="FactorID1-2" attributeName="Factor ID 1-2"
+                  transAttributeName="Factor ID 1-2"
+                  dataType="string"><![CDATA[lumix-2015-g7-2-1-2]]></data>
+            <data nodeName="FactorName1-3" attributeName="Factor Name 1-3"
+                  transAttributeName="Factor Name 1-3"
+                  dataType="string"><![CDATA[Todo en el sitio correcto]]></data>
+            <data nodeName="FactorID1-3" attributeName="Factor ID 1-3"
+                  transAttributeName="Factor ID 1-3"
+                  dataType="string"><![CDATA[lumix-2015-g7-2-1-3]]></data>
+         </dataGroup>
+         <dataGroup nodeName="Feature2" attributeName="Feature 2" transAttributeName="Feature 2"
+                    dataType="string">
+            <data nodeName="SectorName2" attributeName="Sector Name 2"
+                  transAttributeName="Sector Name 2"
+                  dataType="string"><![CDATA[Vídeo 4K y fotografía 4K]]></data>
+            <data nodeName="FactorName2-1" attributeName="Factor Name 2-1"
+                  transAttributeName="Factor Name 2-1"
+                  dataType="string"><![CDATA[Vídeo 4K — Más detalles que Full HD]]></data>
+            <data nodeName="FactorID2-1" attributeName="Factor ID 2-1"
+                  transAttributeName="Factor ID 2-1"
+                  dataType="string"><![CDATA[lumix-2015-g7-2-2-1]]></data>
+            <data nodeName="FactorName2-2" attributeName="Factor Name 2-2"
+                  transAttributeName="Factor Name 2-2"
+                  dataType="string"><![CDATA[Fotografía 4K — Captura el momento perfecto]]></data>
+            <data nodeName="FactorID2-2" attributeName="Factor ID 2-2"
+                  transAttributeName="Factor ID 2-2"
+                  dataType="string"><![CDATA[lumix-2015-g7-2-2-2]]></data>
+            <data nodeName="FactorName2-3" attributeName="Factor Name 2-3"
+                  transAttributeName="Factor Name 2-3"
+                  dataType="string"><![CDATA[Modos de fotografía 4K — Desata tu creatividad]]></data>
+            <data nodeName="FactorID2-3" attributeName="Factor ID 2-3"
+                  transAttributeName="Factor ID 2-3"
+                  dataType="string"><![CDATA[lumix-2015-g7-2-2-3]]></data>
+         </dataGroup>
+         <dataGroup nodeName="Feature3" attributeName="Feature 3" transAttributeName="Feature 3"
+                    dataType="string">
+            <data nodeName="SectorName3" attributeName="Sector Name 3"
+                  transAttributeName="Sector Name 3"
+                  dataType="string"><![CDATA[Rendimiento de enfoque]]></data>
+            <data nodeName="FactorName3-1" attributeName="Factor Name 3-1"
+                  transAttributeName="Factor Name 3-1"
+                  dataType="string"><![CDATA[Autoenfoque de alta velocidad con tecnología DFD]]></data>
+            <data nodeName="FactorID3-1" attributeName="Factor ID 3-1"
+                  transAttributeName="Factor ID 3-1"
+                  dataType="string"><![CDATA[lumix-2015-g7-2-3-1]]></data>
+            <data nodeName="FactorName3-2" attributeName="Factor Name 3-2"
+                  transAttributeName="Factor Name 3-2"
+                  dataType="string"><![CDATA[Seguimiento de AF rápido y preciso]]></data>
+            <data nodeName="FactorID3-2" attributeName="Factor ID 3-2"
+                  transAttributeName="Factor ID 3-2"
+                  dataType="string"><![CDATA[lumix-2015-g7-2-3-2]]></data>
+            <data nodeName="FactorName3-3" attributeName="Factor Name 3-3"
+                  transAttributeName="Factor Name 3-3"
+                  dataType="string"><![CDATA[Enfoque en condiciones de poca luz — Star Light AF]]></data>
+            <data nodeName="FactorID3-3" attributeName="Factor ID 3-3"
+                  transAttributeName="Factor ID 3-3"
+                  dataType="string"><![CDATA[lumix-2015-g7-2-3-3]]></data>
+         </dataGroup>
+         <dataGroup nodeName="Feature4" attributeName="Feature 4" transAttributeName="Feature 4"
+                    dataType="string">
+            <data nodeName="SectorName4" attributeName="Sector Name 4"
+                  transAttributeName="Sector Name 4"
+                  dataType="string"><![CDATA[Calidad de imagen elevada]]></data>
+            <data nodeName="FactorName4-1" attributeName="Factor Name 4-1"
+                  transAttributeName="Factor Name 4-1"
+                  dataType="string"><![CDATA[Calidad de imagen alta incluso en condiciones de poca luz]]></data>
+            <data nodeName="FactorID4-1" attributeName="Factor ID 4-1"
+                  transAttributeName="Factor ID 4-1"
+                  dataType="string"><![CDATA[lumix-2015-g7-2-4-1]]></data>
+         </dataGroup>
+         <dataGroup nodeName="Feature5" attributeName="Feature 5" transAttributeName="Feature 5"
+                    dataType="string">
+            <data nodeName="SectorName5" attributeName="Sector Name 5"
+                  transAttributeName="Sector Name 5"
+                  dataType="string"><![CDATA[Diseño y control]]></data>
+            <data nodeName="FactorName5-1" attributeName="Factor Name 5-1"
+                  transAttributeName="Factor Name 5-1"
+                  dataType="string"><![CDATA[Visual y encuadre perfectos]]></data>
+            <data nodeName="FactorID5-1" attributeName="Factor ID 5-1"
+                  transAttributeName="Factor ID 5-1"
+                  dataType="string"><![CDATA[lumix-2015-g7-2-5-1]]></data>
+            <data nodeName="FactorName5-2" attributeName="Factor Name 5-2"
+                  transAttributeName="Factor Name 5-2"
+                  dataType="string"><![CDATA[Selección de enfoque / Ampliación de enfoque]]></data>
+            <data nodeName="FactorID5-2" attributeName="Factor ID 5-2"
+                  transAttributeName="Factor ID 5-2"
+                  dataType="string"><![CDATA[lumix-2015-g7-2-5-2]]></data>
+            <data nodeName="FactorName5-3" attributeName="Factor Name 5-3"
+                  transAttributeName="Factor Name 5-3"
+                  dataType="string"><![CDATA[Desata tu creatividad con Wi-Fi®]]></data>
+            <data nodeName="FactorID5-3" attributeName="Factor ID 5-3"
+                  transAttributeName="Factor ID 5-3"
+                  dataType="string"><![CDATA[lumix-2015-g7-2-5-3]]></data>
+            <data nodeName="FactorName5-4" attributeName="Factor Name 5-4"
+                  transAttributeName="Factor Name 5-4"
+                  dataType="string"><![CDATA[Capacidad de ampliación para un uso flexible]]></data>
+            <data nodeName="FactorID5-4" attributeName="Factor ID 5-4"
+                  transAttributeName="Factor ID 5-4"
+                  dataType="string"><![CDATA[lumix-2015-g7-2-5-4]]></data>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="GetInspired" attributeName="Get Inspired"
+                 transAttributeName="Get Inspired"
+                 dataType="string">
+         <data nodeName="GetInspiredTemplateSelector"
+               attributeName="Get Inspired Template Selector"
+               transAttributeName="Get Inspired Template Selector"
+               dataType="string"/>
+         <data nodeName="GetInspiredTitle1" attributeName="Get Inspired Title 1"
+               transAttributeName="Get Inspired Title 1"
+               dataType="string"><![CDATA[Vídeos]]></data>
+         <data nodeName="GetInspiredID1" attributeName="Get Inspired ID 1"
+               transAttributeName="Get Inspired ID 1"
+               dataType="string"><![CDATA[lumix-2015-g7-4-1]]></data>
+         <data nodeName="GetInspiredTitle2" attributeName="Get Inspired Title 2"
+               transAttributeName="Get Inspired Title 2"
+               dataType="string"><![CDATA[Fotos de muestra]]></data>
+         <data nodeName="GetInspiredID2" attributeName="Get Inspired ID 2"
+               transAttributeName="Get Inspired ID 2"
+               dataType="string"><![CDATA[lumix-2015-g7-4-2]]></data>
+         <data nodeName="GetInspiredTitle3" attributeName="Get Inspired Title 3"
+               transAttributeName="Get Inspired Title 3"
+               dataType="string"><![CDATA[Fotos 4K]]></data>
+         <data nodeName="GetInspiredID3" attributeName="Get Inspired ID 3"
+               transAttributeName="Get Inspired ID 3"
+               dataType="string"><![CDATA[lumix-2015-g7-4-3]]></data>
+      </dataGroup>
+      <dataGroup nodeName="Accessory" attributeName="Accessory" transAttributeName="Accessory"
+                 dataType="string">
+         <dataGroup nodeName="AccessoryCategory" attributeName="AccessoryCategory"
+                    transAttributeName="AccessoryCategory"
+                    dataType="string">
+            <data nodeName="AccessoryTemplateSelector"
+                  attributeName="Accessory Template Selector"
+                  transAttributeName="Accessory Template Selector"
+                  dataType="string"/>
+            <data nodeName="AccessoryCategoryTitle1" attributeName="Accessory Category Title 1"
+                  transAttributeName="Accessory Category Title 1"
+                  dataType="string"><![CDATA[Objetivos]]></data>
+            <data nodeName="AccessoryCategoryID1" attributeName="AccessoryCategoryID 1"
+                  transAttributeName="AccessoryCategoryID 1"
+                  dataType="string"><![CDATA[lumix-2015-g7-5-1]]></data>
+            <data nodeName="AccessoryCategoryTitle2" attributeName="Accessory Category Title 2"
+                  transAttributeName="Accessory Category Title 2"
+                  dataType="string"><![CDATA[Filtros / adaptadores de montaje]]></data>
+            <data nodeName="AccessoryCategoryID2" attributeName="AccessoryCategoryID 2"
+                  transAttributeName="AccessoryCategoryID 2"
+                  dataType="string"><![CDATA[lumix-2015-g7-5-2-h]]></data>
+            <data nodeName="AccessoryCategoryTitle3" attributeName="Accessory Category Title 3"
+                  transAttributeName="Accessory Category Title 3"
+                  dataType="string"><![CDATA[Flashes / Micrófonos]]></data>
+            <data nodeName="AccessoryCategoryID3" attributeName="AccessoryCategoryID 3"
+                  transAttributeName="AccessoryCategoryID 3"
+                  dataType="string"><![CDATA[lumix-2015-g7-5-3]]></data>
+            <data nodeName="AccessoryCategoryTitle4" attributeName="Accessory Category Title 4"
+                  transAttributeName="Accessory Category Title 4"
+                  dataType="string"><![CDATA[Batería]]></data>
+            <data nodeName="AccessoryCategoryID4" attributeName="AccessoryCategoryID 4"
+                  transAttributeName="AccessoryCategoryID 4"
+                  dataType="string"><![CDATA[lumix-2015-g7-5-4]]></data>
+            <data nodeName="AccessoryCategoryTitle5" attributeName="Accessory Category Title 5"
+                  transAttributeName="Accessory Category Title 5"
+                  dataType="string"><![CDATA[Otros]]></data>
+            <data nodeName="AccessoryCategoryID5" attributeName="AccessoryCategoryID 5"
+                  transAttributeName="AccessoryCategoryID 5"
+                  dataType="string"><![CDATA[lumix-2015-g7-5-5]]></data>
+         </dataGroup>
+         <dataGroup nodeName="AccessoryItems" attributeName="AccessoryItems"
+                    transAttributeName="AccessoryItems"
+                    dataType="string"/>
+      </dataGroup>
+      <dataGroup nodeName="KeyTechnicalFeature" attributeName="KeyTechnicalFeature"
+                 transAttributeName="KeyTechnicalFeature"
+                 dataType="string">
+         <data nodeName="TechnicalFeatureTemplateSelector"
+               attributeName="Technical Feature Template Selector"
+               transAttributeName="Technical Feature Template Selector"
+               dataType="string"><![CDATA[LEFT]]></data>
+         <data nodeName="ProductImage" attributeName="Product Image"
+               transAttributeName="Product Image"
+               dataType="file"><![CDATA[DMC-G7HEC-Product_ImageGlobal-1_es_es.png]]></data>
+         <data nodeName="ProductThumbnail" attributeName="Product Thumbnail"
+               transAttributeName="Product Thumbnail"
+               dataType="file"/>
+         <data nodeName="CopyText" attributeName="Copy Text" transAttributeName="Copy Text"
+               dataType="string"/>
+         <data nodeName="KeySpecs1" attributeName="Key Specs 1"
+               transAttributeName="Key Specs 1"
+               dataType="string"><![CDATA[Vídeo de 4K / Foto de 4K]]></data>
+         <data nodeName="KeySpecsValue1" attributeName="Key Specs Value 1"
+               transAttributeName="Key Specs Value 1"
+               dataType="string"><![CDATA[4K Pre-Burst, ráfaga 4K, ráfaga 4K (inicio y parada)]]></data>
+         <data nodeName="KeySpecs2" attributeName="Key Specs 2"
+               transAttributeName="Key Specs 2"
+               dataType="string"><![CDATA[OLED de 2360 k puntos]]></data>
+         <data nodeName="KeySpecsValue2" attributeName="Key Specs Value 2"
+               transAttributeName="Key Specs Value 2"
+               dataType="string"><![CDATA[Live View Finder]]></data>
+         <data nodeName="KeySpecs3" attributeName="Key Specs 3"
+               transAttributeName="Key Specs 3"
+               dataType="string"><![CDATA[16,00 megapíxeles]]></data>
+         <data nodeName="KeySpecsValue3" attributeName="Key Specs Value 3"
+               transAttributeName="Key Specs Value 3"
+               dataType="string"><![CDATA[Sensor digital Live MOS]]></data>
+         <dataGroup nodeName="TechnicalIcons" attributeName="TechnicalIcons"
+                    transAttributeName="TechnicalIcons"
+                    dataType="string">
+            <data nodeName="TechnicalIcons1" attributeName="Technical Icons 1"
+                  transAttributeName="Technical Icons 1"
+                  dataType="file"><![CDATA[DMC-G7HEC-Technical_Icons_1Global-1_es_es.png]]></data>
+            <data nodeName="TechnicalIconsText1" attributeName="Technical Icons Text 1"
+                  transAttributeName="Technical Icons Text 1"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL1" attributeName="Technical Icons URL 1"
+                  transAttributeName="Technical Icons URL 1"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons2" attributeName="Technical Icons 2"
+                  transAttributeName="Technical Icons 2"
+                  dataType="file"><![CDATA[DMC-G7HEC-Technical_Icons_2Global-1_es_es.png]]></data>
+            <data nodeName="TechnicalIconsText2" attributeName="Technical Icons Text 2"
+                  transAttributeName="Technical Icons Text 2"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL2" attributeName="Technical Icons URL 2"
+                  transAttributeName="Technical Icons URL 2"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons3" attributeName="Technical Icons 3"
+                  transAttributeName="Technical Icons 3"
+                  dataType="file"><![CDATA[DMC-G7HEC-Technical_Icons_3Global-1_es_es.png]]></data>
+            <data nodeName="TechnicalIconsText3" attributeName="Technical Icons Text 3"
+                  transAttributeName="Technical Icons Text 3"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL3" attributeName="Technical Icons URL 3"
+                  transAttributeName="Technical Icons URL 3"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons4" attributeName="Technical Icons 4"
+                  transAttributeName="Technical Icons 4"
+                  dataType="file"><![CDATA[DMC-G7HEC-Technical_Icons_4Global-1_es_es.png]]></data>
+            <data nodeName="TechnicalIconsText4" attributeName="Technical Icons Text 4"
+                  transAttributeName="Technical Icons Text 4"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL4" attributeName="Technical Icons URL 4"
+                  transAttributeName="Technical Icons URL 4"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons5" attributeName="Technical Icons 5"
+                  transAttributeName="Technical Icons 5"
+                  dataType="file"><![CDATA[DMC-G7HEC-Technical_Icons_5Global-1_es_es.png]]></data>
+            <data nodeName="TechnicalIconsText5" attributeName="Technical Icons Text 5"
+                  transAttributeName="Technical Icons Text 5"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL5" attributeName="Technical Icons URL 5"
+                  transAttributeName="Technical Icons URL 5"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons6" attributeName="Technical Icons 6"
+                  transAttributeName="Technical Icons 6"
+                  dataType="file"><![CDATA[DMC-G7HEC-Technical_Icons_6Global-1_es_es.png]]></data>
+            <data nodeName="TechnicalIconsText6" attributeName="Technical Icons Text 6"
+                  transAttributeName="Technical Icons Text 6"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL6" attributeName="Technical Icons URL 6"
+                  transAttributeName="Technical Icons URL 6"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons7" attributeName="Technical Icons 7"
+                  transAttributeName="Technical Icons 7"
+                  dataType="file"><![CDATA[DMC-G7HEC-Technical_Icons_7Global-1_es_es.png]]></data>
+            <data nodeName="TechnicalIconsText7" attributeName="Technical Icons Text 7"
+                  transAttributeName="Technical Icons Text 7"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL7" attributeName="Technical Icons URL 7"
+                  transAttributeName="Technical Icons URL 7"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons8" attributeName="Technical Icons 8"
+                  transAttributeName="Technical Icons 8"
+                  dataType="file"><![CDATA[DMC-G7HEC-Technical_Icons_8Global-1_es_es.png]]></data>
+            <data nodeName="TechnicalIconsText8" attributeName="Technical Icons Text 8"
+                  transAttributeName="Technical Icons Text 8"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL8" attributeName="Technical Icons URL 8"
+                  transAttributeName="Technical Icons URL 8"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons9" attributeName="Technical Icons 9"
+                  transAttributeName="Technical Icons 9"
+                  dataType="file"><![CDATA[DMC-G7HEC-Technical_Icons_9Global-1_es_es.png]]></data>
+            <data nodeName="TechnicalIconsText9" attributeName="Technical Icons Text 9"
+                  transAttributeName="Technical Icons Text 9"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL9" attributeName="Technical Icons URL 9"
+                  transAttributeName="Technical Icons URL 9"
+                  dataType="string"/>
+            <data nodeName="TechnicalIcons10" attributeName="Technical Icons 10"
+                  transAttributeName="Technical Icons 10"
+                  dataType="file"/>
+            <data nodeName="TechnicalIconsText10" attributeName="Technical Icons Text 10"
+                  transAttributeName="Technical Icons Text 10"
+                  dataType="string"/>
+            <data nodeName="TechnicalIconsURL10" attributeName="Technical Icons URL 10"
+                  transAttributeName="Technical Icons URL 10"
+                  dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="Faceted" attributeName="Faceted" transAttributeName="Faceted"
+                 dataType="string">
+         <dataGroup nodeName="CompareFeature" attributeName="CompareFeature"
+                    transAttributeName="CompareFeature"
+                    dataType="string">
+            <data nodeName="CompareItem1" attributeName="Compare Item 1"
+                  transAttributeName="Compare Item 1"
+                  dataType="string"><![CDATA[Montura del objetivo]]></data>
+            <data nodeName="CompareValue1" attributeName="Compare Value 1"
+                  transAttributeName="Compare Value 1"
+                  dataType="string"><![CDATA[Montura Micro Cuatro Tercios]]></data>
+            <data nodeName="CompareItem2" attributeName="Compare Item 2"
+                  transAttributeName="Compare Item 2"
+                  dataType="string"><![CDATA[Tamaño del sensor de imagen]]></data>
+            <data nodeName="CompareValue2" attributeName="Compare Value 2"
+                  transAttributeName="Compare Value 2"
+                  dataType="string"><![CDATA[17,3 x 13,0 mm (en relación de aspecto de 4:3)]]></data>
+            <data nodeName="CompareItem3" attributeName="Compare Item 3"
+                  transAttributeName="Compare Item 3"
+                  dataType="string"><![CDATA[Píxeles efectivos de la cámara]]></data>
+            <data nodeName="CompareValue3" attributeName="Compare Value 3"
+                  transAttributeName="Compare Value 3"
+                  dataType="string"><![CDATA[16,00 megapíxeles]]></data>
+            <data nodeName="CompareItem4" attributeName="Compare Item 4"
+                  transAttributeName="Compare Item 4"
+                  dataType="string"><![CDATA[Formato del archivo de grabación]]></data>
+            <data nodeName="CompareValue4" attributeName="Compare Value 4"
+                  transAttributeName="Compare Value 4"
+                  dataType="string"><![CDATA[[Foto] JPEG (DCF, Exif 2.3), RAW, MPO (cuando se instala un objetivo 3D con el estándar Micro Cuatro Tercios)
+[Vídeo] MP4 (formato de audio: AAC 2 canales), AVCHD (formato de audio: Dolby Digital (2 canales)]]></data>
+            <data nodeName="CompareItem5" attributeName="Compare Item 5"
+                  transAttributeName="Compare Item 5"
+                  dataType="string"><![CDATA[Tamaño de archivo máximo [foto]]]></data>
+            <data nodeName="CompareValue5" attributeName="Compare Value 5"
+                  transAttributeName="Compare Value 5"
+                  dataType="string"><![CDATA[[4:3] 4592x3448 [3:2] 4592x3064 [16:9] 4592x2584 [1:1] 3424x3424]]></data>
+            <data nodeName="CompareItem6" attributeName="Compare Item 6"
+                  transAttributeName="Compare Item 6"
+                  dataType="string"><![CDATA[Tamaño máximo de archivo [vídeo]]]></data>
+            <data nodeName="CompareValue6" attributeName="Compare Value 6"
+                  transAttributeName="Compare Value 6"
+                  dataType="string"><![CDATA[[MP4] 4K: 3840x2160 25 p
+[AVCHD progresivo] FHD: 1920×1080 50 p
+[AVCHD] FHD: 1920x1080 50 i]]></data>
+            <data nodeName="CompareItem7" attributeName="Compare Item 7"
+                  transAttributeName="Compare Item 7"
+                  dataType="string"><![CDATA[Modo ráfaga]]></data>
+            <data nodeName="CompareValue7" attributeName="Compare Value 7"
+                  transAttributeName="Compare Value 7"
+                  dataType="string"><![CDATA[[16M]
+Velocidad, obturador mecánico: H 8 fps (con AFS), H 6 fps (con AFC, en AF de 1 área), M 6 fps (con Live View), L 2 fps (con Live View)
+Velocidad, obturador electrónico: SH 40 fps, H 10 fps, M 6 fps (con Live View), L 2 fps (con Live View)
+Número: Más de 13 imágenes (incluidos archivos RAW con una determinada velocidad), más de 100 imágenes (sin archivo RAW)* *Depende del tipo de tarjeta de memoria, aspecto, tamaño de la imagen y compresión.
+[4K]
+4K Pre-Burst 30 fps (aprox. 2 segundos), ráfaga 4K 30 fps (máx. 29 minutos 59 segundos)*, ráfaga 4K (S/S) 30 fps (máx. 29 minutos 59 segundos)* Depende del tipo de tarjeta de memoria y de la capacidad de la batería.]]></data>
+            <data nodeName="CompareItem8" attributeName="Compare Item 8"
+                  transAttributeName="Compare Item 8"
+                  dataType="string"><![CDATA[Sensibilidad ISO]]></data>
+            <data nodeName="CompareValue8" attributeName="Compare Value 8"
+                  transAttributeName="Compare Value 8"
+                  dataType="string"><![CDATA[Auto / ISO inteligente / 100 (ampliado) / 200 / 400 / 800 / 1600 / 3200 / 6400 / 12800 / 25600 (se puede cambiar a 1/3 paso EV)]]></data>
+            <data nodeName="CompareItem9" attributeName="Compare Item 9"
+                  transAttributeName="Compare Item 9"
+                  dataType="string"><![CDATA[Funciones creativas]]></data>
+            <data nodeName="CompareValue9" attributeName="Compare Value 9"
+                  transAttributeName="Compare Value 9"
+                  dataType="string"><![CDATA[Control creativo, Panorama creativo]]></data>
+            <data nodeName="CompareItem10" attributeName="Compare Item 10"
+                  transAttributeName="Compare Item 10"
+                  dataType="string"><![CDATA[Visor]]></data>
+            <data nodeName="CompareValue10" attributeName="Compare Value 10"
+                  transAttributeName="Compare Value 10"
+                  dataType="string"><![CDATA[Sí (OLED Live View Finder, equivalente a 2360 k puntos)]]></data>
+            <data nodeName="CompareItem11" attributeName="Compare Item 11"
+                  transAttributeName="Compare Item 11"
+                  dataType="string"><![CDATA[Monitor]]></data>
+            <data nodeName="CompareValue11" attributeName="Compare Value 11"
+                  transAttributeName="Compare Value 11"
+                  dataType="string"><![CDATA[Monitor de 3 pulgadas con control táctil estático, sin ángulos, aproximadamente 1040 k puntos]]></data>
+            <data nodeName="CompareItem12" attributeName="Compare Item 12"
+                  transAttributeName="Compare Item 12"
+                  dataType="string"><![CDATA[Flash]]></data>
+            <data nodeName="CompareValue12" attributeName="Compare Value 12"
+                  transAttributeName="Compare Value 12"
+                  dataType="string"><![CDATA[Flash integrado TTL, equivalente a GN6.6 (ISO100 ・m) / equivalente a GN9.3 (ISO200 ・m), desplegable integrado (Referencia)]]></data>
+            <data nodeName="CompareItem13" attributeName="Compare Item 13"
+                  transAttributeName="Compare Item 13"
+                  dataType="string"><![CDATA[Micrófono/altavoz]]></data>
+            <data nodeName="CompareValue13" attributeName="Compare Value 13"
+                  transAttributeName="Compare Value 13"
+                  dataType="string"><![CDATA[[Micrófono] estéreo, corta-viento: APAGADO / bajo / estándar / alto / AUTO
+[Altavoz] monaural]]></data>
+            <data nodeName="CompareItem14" attributeName="Compare Item 14"
+                  transAttributeName="Compare Item 14"
+                  dataType="string"><![CDATA[Interfaz]]></data>
+            <data nodeName="CompareValue14" attributeName="Compare Value 14"
+                  transAttributeName="Compare Value 14"
+                  dataType="string"><![CDATA[microHDMI, salida AV, USB, entrada remota (φ2,5 mm), entrada de micrófono externo (φ3,5 mm)]]></data>
+            <data nodeName="CompareItem15" attributeName="Compare Item 15"
+                  transAttributeName="Compare Item 15"
+                  dataType="string"><![CDATA[Wi-Fi]]></data>
+            <data nodeName="CompareValue15" attributeName="Compare Value 15"
+                  transAttributeName="Compare Value 15"
+                  dataType="string"><![CDATA[Sí]]></data>
+            <data nodeName="CompareItem16" attributeName="Compare Item 16"
+                  transAttributeName="Compare Item 16"
+                  dataType="string"><![CDATA[Tipo de batería y duración]]></data>
+            <data nodeName="CompareValue16" attributeName="Compare Value 16"
+                  transAttributeName="Compare Value 16"
+                  dataType="string"><![CDATA[Paquete de batería de li-ion (7,2 V, 1200 mAh, 8,7 Wh)/aprox. 350 imágenes con H-FS14140]]></data>
+            <data nodeName="CompareItem17" attributeName="Compare Item 17"
+                  transAttributeName="Compare Item 17"
+                  dataType="string"><![CDATA[Otros]]></data>
+            <data nodeName="CompareValue17" attributeName="Compare Value 17"
+                  transAttributeName="Compare Value 17"
+                  dataType="string"><![CDATA[Zapata accesoria]]></data>
+            <data nodeName="CompareItem18" attributeName="Compare Item 18"
+                  transAttributeName="Compare Item 18"
+                  dataType="string"><![CDATA[Dimensiones]]></data>
+            <data nodeName="CompareValue18" attributeName="Compare Value 18"
+                  transAttributeName="Compare Value 18"
+                  dataType="string"><![CDATA[124,9 x 86,2 x 77,4 mm / 4,92 x 3,39 x 3,05 pulgadas (las medidas no incluyen los salientes)]]></data>
+            <data nodeName="CompareItem19" attributeName="Compare Item 19"
+                  transAttributeName="Compare Item 19"
+                  dataType="string"><![CDATA[Peso]]></data>
+            <data nodeName="CompareValue19" attributeName="Compare Value 19"
+                  transAttributeName="Compare Value 19"
+                  dataType="string"><![CDATA[Aprox. 410 g/0,90 libras (tarjeta SD, batería, cuerpo)
+Aprox. 360 g/0,79 libras (solo el cuerpo)
+Aprox. 675 g/1,49 libras (tarjeta SD, batería, objetivo H-FS14140 incluido)]]></data>
+         </dataGroup>
+         <dataGroup nodeName="FacetedSlider" attributeName="FacetedSlider"
+                    transAttributeName="FacetedSlider"
+                    dataType="string"/>
+         <dataGroup nodeName="FacetedNavigation" attributeName="FacetedNavigation"
+                    transAttributeName="FacetedNavigation"
+                    dataType="string"/>
+      </dataGroup>
+      <dataGroup nodeName="Variation" attributeName="Variation" transAttributeName="Variation"
+                 dataType="string">
+         <data nodeName="VariationName1" attributeName="Variation Name 1"
+               transAttributeName="Variation Name 1"
+               dataType="string"><![CDATA[Color]]></data>
+         <data nodeName="VariationImage1" attributeName="Variation Image 1"
+               transAttributeName="Variation Image 1"
+               dataType="file"><![CDATA[DMC-G7HEC-Variation_Image_1Global-1_es_es.png]]></data>
+         <data nodeName="VariationImageforSeeAll1"
+               attributeName="Variation Image for See All 1"
+               transAttributeName="Variation Image for See All 1"
+               dataType="file"><![CDATA[DMC-G7HEC-Variation_Image_for_See_All_1Global-1_es_es.png]]></data>
+         <data nodeName="VariationIconImage1" attributeName="Variation Icon Image 1"
+               transAttributeName="Variation Icon Image 1"
+               dataType="file"><![CDATA[DMC-G7HEC-Variation_Icon_Image_1Global-1_es_es.gif]]></data>
+         <data nodeName="VariationText1" attributeName="Variation Text 1"
+               transAttributeName="Variation Text 1"
+               dataType="string"><![CDATA[Black]]></data>
+         <data nodeName="VariationMeasurementName1"
+               attributeName="Variation Measurement Name 1"
+               transAttributeName="Variation Measurement Name 1"
+               dataType="string"><![CDATA[DMC-G7HEC-K]]></data>
+         <data nodeName="VariationUMN1" attributeName="Variation UMN 1"
+               transAttributeName="Variation UMN 1"
+               dataType="string"><![CDATA[DMC-G7H-K]]></data>
+         <data nodeName="VariationName2" attributeName="Variation Name 2"
+               transAttributeName="Variation Name 2"
+               dataType="string"><![CDATA[Color]]></data>
+         <data nodeName="VariationImage2" attributeName="Variation Image 2"
+               transAttributeName="Variation Image 2"
+               dataType="file"><![CDATA[DMC-G7HEC-Variation_Image_2Global-1_es_es.png]]></data>
+         <data nodeName="VariationImageforSeeAll2"
+               attributeName="Variation Image for See All 2"
+               transAttributeName="Variation Image for See All 2"
+               dataType="file"><![CDATA[DMC-G7HEC-Variation_Image_for_See_All_2Global-1_es_es.png]]></data>
+         <data nodeName="VariationIconImage2" attributeName="Variation Icon Image 2"
+               transAttributeName="Variation Icon Image 2"
+               dataType="file"><![CDATA[DMC-G7HEC-Variation_Icon_Image_2Global-1_es_es.gif]]></data>
+         <data nodeName="VariationText2" attributeName="Variation Text 2"
+               transAttributeName="Variation Text 2"
+               dataType="string"><![CDATA[Silver]]></data>
+         <data nodeName="VariationMeasurementName2"
+               attributeName="Variation Measurement Name 2"
+               transAttributeName="Variation Measurement Name 2"
+               dataType="string"><![CDATA[DMC-G7HEC-S]]></data>
+         <data nodeName="VariationUMN2" attributeName="Variation UMN 2"
+               transAttributeName="Variation UMN 2"
+               dataType="string"><![CDATA[DMC-G7H-S]]></data>
+      </dataGroup>
+      <dataGroup nodeName="Demo" attributeName="Demo" transAttributeName="Demo"
+                 dataType="string">
+         <dataGroup nodeName="Demo1" attributeName="Demo 1" transAttributeName="Demo 1"
+                    dataType="string">
+            <data nodeName="DemoTitle1" attributeName="Demo Title 1"
+                  transAttributeName="Demo Title 1"
+                  dataType="string"/>
+            <data nodeName="DemoID1" attributeName="Demo ID 1" transAttributeName="Demo ID 1"
+                  dataType="string"/>
+         </dataGroup>
+         <dataGroup nodeName="Demo2" attributeName="Demo 2" transAttributeName="Demo 2"
+                    dataType="string">
+            <data nodeName="DemoTitle2" attributeName="Demo Title 2"
+                  transAttributeName="Demo Title 2"
+                  dataType="string"/>
+            <data nodeName="DemoID2" attributeName="Demo ID 2" transAttributeName="Demo ID 2"
+                  dataType="string"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="Environmental" attributeName="Environmental"
+                 transAttributeName="Environmental"
+                 dataType="string">
+         <dataGroup nodeName="EnergyContents" attributeName="Energy Contents"
+                    transAttributeName="Energy Contents"
+                    dataType="string">
+            <data nodeName="EnergyClassArrow" attributeName="Energy Class Arrow"
+                  transAttributeName="Energy Class Arrow"
+                  dataType="string"/>
+            <data nodeName="EnergyLabel" attributeName="Energy Label"
+                  transAttributeName="Energy Label"
+                  dataType="file"/>
+            <data nodeName="ProductFiche" attributeName="Product Fiche"
+                  transAttributeName="Product Fiche"
+                  dataType="file"/>
+            <data nodeName="Eco-DesignInformation" attributeName="Eco-Design Information"
+                  transAttributeName="Eco-Design Information"
+                  dataType="file"/>
+            <data nodeName="Other" attributeName="Other" transAttributeName="Other"
+                  dataType="file"/>
+         </dataGroup>
+      </dataGroup>
+      <dataGroup nodeName="TechnicalFeature" attributeName="TechnicalFeature"
+                 transAttributeName="TechnicalFeature"
+                 dataType="string">
+         <dataGroup nodeName="TYPE" attributeName="TYPE" transAttributeName="Tipo"
+                    dataType="string">
+            <data nodeName="Type" attributeName="Type" transAttributeName="Tipo"
+                  dataType="string"><![CDATA[Cámara sin espejo de objetivo único digital]]></data>
+            <data nodeName="Imagesensorsize" attributeName="Image sensor size"
+                  transAttributeName="Tamaño Sensor Imagen"
+                  dataType="string"><![CDATA[17,3 x 13 mm (en relación de aspecto 4:3)]]></data>
+            <data nodeName="Lensmount" attributeName="Lens mount"
+                  transAttributeName="Montura de objetivo"
+                  dataType="string"><![CDATA[Montura para sistema de Micro Cuatro Tercios]]></data>
+         </dataGroup>
+         <dataGroup nodeName="IMAGESENSOR" attributeName="IMAGE SENSOR"
+                    transAttributeName="Sensor de imagen"
+                    dataType="string">
+            <data nodeName="Type" attributeName="Type" transAttributeName="Tipo"
+                  dataType="string"><![CDATA[Sensor Live MOS]]></data>
+            <data nodeName="Totalpixels" attributeName="Total pixels"
+                  transAttributeName="Píxeles totales"
+                  dataType="string"><![CDATA[16.84 Megapíxeles]]></data>
+            <data nodeName="Cameraeffectivepixels" attributeName="Camera effective pixels"
+                  transAttributeName="Píxeles efectivos de cámara"
+                  dataType="string"><![CDATA[16.00 Megapíxeles]]></data>
+            <data nodeName="Colorfilter" attributeName="Color filter"
+                  transAttributeName="Filtro de color"
+                  dataType="string"><![CDATA[Filtro de color primario]]></data>
+            <data nodeName="Dustreductionsystem" attributeName="Dust reduction system"
+                  transAttributeName="Filtro de ondas supersónico"
+                  dataType="string"><![CDATA[Filtro de ondas supersónicas]]></data>
+         </dataGroup>
+         <dataGroup nodeName="RECORDINGSYSTEM" attributeName="RECORDING SYSTEM"
+                    transAttributeName="Sistema de grabación"
+                    dataType="string">
+            <dataGroup nodeName="Recordingfileformat" attributeName="Recording file format"
+                       transAttributeName="Formato de grabación de ficheros"
+                       dataType="string">
+               <data nodeName="Stillimage" attributeName="Still image"
+                     transAttributeName="Imagen fija"
+                     dataType="string"><![CDATA[JPEG (DCF, Exif 2.3), RAW, MPO (con lente 3D en el sistema Micro Cuatro Tercios)]]></data>
+               <data nodeName="Motionpicture" attributeName="Motion picture"
+                     transAttributeName="Imagen en movimiento"
+                     dataType="string"><![CDATA[AVCHD (formato de audio: Dolby Digital 2 canales), MP4 (formato de audio AAC 2 canales)]]></data>
+            </dataGroup>
+            <data nodeName="Aspectratio" attributeName="Aspect ratio"
+                  transAttributeName="Relación de aspecto"
+                  dataType="string"><![CDATA[4:3, 3:2, 16:9, 1:1]]></data>
+            <data nodeName="Imagequality" attributeName="Image quality"
+                  transAttributeName="Calidad de imagen"
+                  dataType="string"><![CDATA[RAW, RAW+Fino, RAW+Etándar, Fino, Estándar/MPO+Fine / MPO+Standard (con lente 3D en el sistema Micro Cuatro Tercios)]]></data>
+            <data nodeName="ColorSpace" attributeName="Color Space"
+                  transAttributeName="Espacio de color"
+                  dataType="string"><![CDATA[sRGB, AdobeRGB]]></data>
+            <dataGroup nodeName="FilesizePixels" attributeName="File size(Pixels)"
+                       transAttributeName="Tamaño de archivo(Píxeles)"
+                       dataType="string">
+               <data nodeName="StillImage" attributeName="Still Image"
+                     transAttributeName="Imagen fija"
+                     dataType="string"><![CDATA[[4:3] 4592x3448(L) / 3232x2424(M) / 2272x1704(S) / 1824x1368 (si se instala objetivo 3D con el estándar del sistema Micro Cuatro Tercios)/[3:2] 4592x3064(L) / 3232x2160(M) / 2272x1520(S) / 1824x1216 (si se instala objetivo 3D con el estándar del sistema Micro Cuatro Tercios)/[16:9] 4592x2584(L) / 3840x2160(M) / 1920x1080(S) / 1824x1024 (si se instala objetivo 3D con el estándar del sistema Micro Cuatro Tercios)/[1:1] 3424x3424(L) / 2416x2416(M) / 1712x1712(S) / 1712x1712 (si se instala objetivo 3D con el estándar del sistema Micro Cuatro Tercios)]]></data>
+            </dataGroup>
+            <dataGroup nodeName="Motionpicture" attributeName="Motion picture*"
+                       transAttributeName="Película*"
+                       dataType="string">
+               <data nodeName="MP4NTSCarea" attributeName="MP4*:NTSC area"
+                     transAttributeName="MP4*:área NTSC"
+                     dataType="string"><![CDATA[[4K] 3840x2160:4K/30p 100Mbps, 4K/24p 100Mbps/[Full HD] 1920x1080:FHD/60p 28Mbps, FHD/30p: 20Mbps/[HD] 1280x720:HD/30p 10Mbps/[VGA] 640x480:VGA/30p 4Mbps]]></data>
+               <data nodeName="MP4PALarea" attributeName="MP4*:PAL area"
+                     transAttributeName="MP4*:área PAL"
+                     dataType="string"><![CDATA[[4K] 3840x2160:4K/25p 100Mbps, 4K/24p 100Mbps/[Full HD] 1920x1080:FHD/50p 28Mbps, FHD/25p: 20Mbps/[HD] 1280x720:HD/25p 10Mbps/[VGA] 640x480:VGA/25p 4Mbps]]></data>
+               <data nodeName="AVCHDNTSCarea" attributeName="AVCHD*:NTSC area"
+                     transAttributeName="AVCHD*:área NTSC"
+                     dataType="string"><![CDATA[[Full HD] 1920x1080:FHD/60 p 28 Mbps, grabación 60 p/[Full HD] 1920x1080:FHD/60 i 17 Mbps, grabación 60 i/[Full HD] 1920x1080:FHD/30 p 24 Mbps, grabación 60 i (la salida del sensor es de 30 fps)/[Full HD] 1920x1080:FHD/24 p 24 Mbps]]></data>
+               <data nodeName="AVCHDPALarea" attributeName="AVCHD*:PAL area"
+                     transAttributeName="AVCHD*:área PAL"
+                     dataType="string"><![CDATA[[Full HD] 1920x1080:FHD/50 p 28 Mbps, grabación 50 p/[Full HD] 1920x1080:FHD/50 i 17 Mbps, grabación 50 i/[Full HD] 1920x1080:FHD/25 p 24 Mbps, grabación 50 i (la salida del sensor es de 25 fps)/[Full HD] 1920x1080:FHD/24 p 24 Mbps]]></data>
+            </dataGroup>
+            <data nodeName="ContinuousrecordabletimeMotionpicture"
+                  attributeName="Continuous recordable time (Motion picture)"
+                  transAttributeName="Tiempo de grabación continua (imagen en movimiento)"
+                  dataType="string"><![CDATA[AVCHD [FHD/60 i, FHD/50 i]: aprox. 130 minutos (monitor trasero), 140 minutos (LVF) con H-FS1442A/AVCHD [FHD/60 i, FHD/50 i]: aprox. 130 minutos (monitor trasero), 130 minutos (LVF) con H-FS14140/AVCHD [FHD/60 i, FHD/50 i]: aprox. 130 minutos (monitor trasero), 140 minutos (LVF) con H-FS45150/MP4 [4K/30 p, 4K/25 p]: aprox. 100 minutos (monitor trasero), 100 minutos (LVF) con H-FS1442A/MP4 [4K/30 p, 4K/25 p]: aprox. 100 minutos (monitor trasero), 100 minutos (LVF) con H-FS14140/MP4 [4K/30 p, 4K/25 p]: aprox. 100 minutos (monitor trasero), 110 minutos (LVF) con H-FS45150]]></data>
+            <data nodeName="ActualrecordabletimeMotionpicture"
+                  attributeName="Actual recordable time (Motion picture)"
+                  transAttributeName="Tiempo de grabación real (imagen en movimiento)"
+                  dataType="string"><![CDATA[AVCHD [FHD/60 i, FHD/50 i]: aprox. 65 minutos (monitor trasero), 70 minutos (LVF) con H-FS1442A/AVCHD [FHD/60 i, FHD/50 i]: aprox. 65 minutos (monitor trasero), 65 minutos (LVF) con H-FS14140/AVCHD [FHD/60 i, FHD/50 i]: aprox. 65 minutos (monitor trasero), 70 minutos (LVF) con H-FS45150/MP4 [4K/30 p, 4K/25 p]: aprox. 50 minutos (monitor trasero), 50 minutos (LVF) con H-FS1442A/MP4 [4K/30 p, 4K/25 p]: aprox. 50 minutos (monitor trasero), 50 minutos (LVF) con H-FS14140/MP4 [4K/30 p, 4K/25 p]: aprox. 50 minutos (monitor trasero), 55 minutos (LVF) con H-FS45150]]></data>
+         </dataGroup>
+         <dataGroup nodeName="WiFiFUNCTION" attributeName="WiFi FUNCTION"
+                    transAttributeName="Función WiFi"
+                    dataType="string">
+            <data nodeName="WiFi" attributeName="WiFi" transAttributeName="WiFi"
+                  dataType="string"><![CDATA[IEEE 802.11b/g/n, 2412 MHz - 2462 MHz (1-11 canales), Wi-Fi / WPA / WPA2, modo de infraestructura]]></data>
+            <data nodeName="NFC" attributeName="NFC" transAttributeName="NFC" dataType="string"><![CDATA[No]]></data>
+            <data nodeName="QRCodeConnection" attributeName="QR Code Connection"
+                  transAttributeName="Conexión de código QR"
+                  dataType="string"><![CDATA[Sí]]></data>
+            <data nodeName="Password-lessconnection" attributeName="Password-less connection"
+                  transAttributeName="Conexión sin contraseña"
+                  dataType="string"><![CDATA[Sí (se puede seleccionar ENCENDIDO/APAGADO)]]></data>
+         </dataGroup>
+         <dataGroup nodeName="FOCUS" attributeName="FOCUS" transAttributeName="FOCO"
+                    dataType="string">
+            <data nodeName="Type" attributeName="Type" transAttributeName="Tipo"
+                  dataType="string"><![CDATA[Sistema de Contraste AF]]></data>
+            <data nodeName="Focusmode" attributeName="Focus mode" transAttributeName="Modo foco"
+                  dataType="string"><![CDATA[AFS (único) / AFF (Flexible) / AFC (Continuo) / MF]]></data>
+            <data nodeName="AFmode" attributeName="AF mode" transAttributeName="Modo AF"
+                  dataType="string"><![CDATA[Detección de rostros/ojos / Seguimiento / 49 áreas / Multienfoque personalizado / 1 área / Pinpoint/(Área táctil total disponible)]]></data>
+            <data nodeName="AFdetectiverange" attributeName="AF detective range"
+                  transAttributeName="Rango de detección AF"
+                  dataType="string"><![CDATA[EV -4 - 18 (ISO100 equivalente)]]></data>
+            <data nodeName="AFassistlamp" attributeName="AF assist lamp"
+                  transAttributeName="Lámpara de ayuda AF"
+                  dataType="string"><![CDATA[Sí]]></data>
+            <data nodeName="AFlock" attributeName="AF lock" transAttributeName="Bloqueo AF"
+                  dataType="string"><![CDATA[Sim (AF/AE botón de BLOQUEO)]]></data>
+            <data nodeName="Others" attributeName="Others" transAttributeName="Otros"
+                  dataType="string"><![CDATA[AF de un disparo, AF de disparador, liberación al pulsar a la mitad, AF rápido, AF continuo (durante la grabación de una película), AF de sensor óptico, AF+MF, Asistente MF, Asistente MF táctil, Selección de enfoque, Función AF/AE táctil, AF con panel táctil, Disparador táctil]]></data>
+            <data nodeName="DFDtechnology" attributeName="DFD technology"
+                  transAttributeName="Tecnología DFD"
+                  dataType="string"><![CDATA[Sí]]></data>
+            <data nodeName="StarlightAF" attributeName="Starlight AF"
+                  transAttributeName="Starlight AF"
+                  dataType="string"><![CDATA[Sí]]></data>
+         </dataGroup>
+         <dataGroup nodeName="VIEWFINDER" attributeName="VIEWFINDER"
+                    transAttributeName="Visor óptico"
+                    dataType="string">
+            <data nodeName="Type" attributeName="Type" transAttributeName="Tipo"
+                  dataType="string"><![CDATA[OLED Live View Finder (2360 k puntos)]]></data>
+            <data nodeName="Fieldofview" attributeName="Field of view"
+                  transAttributeName="Campo de visión"
+                  dataType="string"><![CDATA[Aprox. 100%]]></data>
+            <data nodeName="Magnification" attributeName="Magnification"
+                  transAttributeName="Relación de aumento"
+                  dataType="string"><![CDATA[Aprox. 1,4 x / 0,7 x (equivalente a una cámara de 35 mm) con objetivo de 50 mm en infinito; -1,0 m-1]]></data>
+            <data nodeName="Eyepoint" attributeName="Eye point"
+                  transAttributeName="Punto de vista"
+                  dataType="string"><![CDATA[Aprox. 17,5 mm desde lente ocular]]></data>
+            <data nodeName="Diopteradjustment" attributeName="Diopter adjustment"
+                  transAttributeName="Ajuste dióptico"
+                  dataType="string"><![CDATA[-4,0 - +4,0 (DPT)]]></data>
+            <data nodeName="Eyesensor" attributeName="Eye sensor"
+                  transAttributeName="Sensor de ojos"
+                  dataType="string"><![CDATA[Sí]]></data>
+            <data nodeName="Eyesensoradjustment" attributeName="Eye sensor adjustment"
+                  transAttributeName="Ajuste del sensor de ojos"
+                  dataType="string"><![CDATA[Alta / Baja]]></data>
+         </dataGroup>
+         <dataGroup nodeName="EXPOSURECONTROL" attributeName="EXPOSURE CONTROL"
+                    transAttributeName="Control de exposición"
+                    dataType="string">
+            <data nodeName="Lightmeteringsystem" attributeName="Light metering system"
+                  transAttributeName="Sistema de medición de luz"
+                  dataType="string"><![CDATA[Sistema de detección multi-patrón de 1728-zone]]></data>
+            <data nodeName="Lightmeteringmode" attributeName="Light metering mode"
+                  transAttributeName="Modo de medición de luz"
+                  dataType="string"><![CDATA[Múltiple / Centro ponderado / Spot]]></data>
+            <data nodeName="Meteringrange" attributeName="Metering range"
+                  transAttributeName="Rango de medición"
+                  dataType="string"><![CDATA[EV 0 - 18 (F2.0 lens, ISO100 equivalente)]]></data>
+            <data nodeName="Exposuremode" attributeName="Exposure mode"
+                  transAttributeName="Modo Exposición"
+                  dataType="string"><![CDATA[Programa AE, Prioridad de Apertura AE, Prioridad de obturador AE, Manual,]]></data>
+            <data nodeName="ISOsensitivityStandardOutputSensitivity"
+                  attributeName="ISO sensitivity (Standard Output Sensitivity)"
+                  transAttributeName="Sensibilidad ISO (Sensibilidad Estándar)"
+                  dataType="string"><![CDATA[Auto / Intelligent ISO / 100 (Extended) / 200 / 400 / 800 / 1600 / 3200 / 6400 / 12800 / 25600 (intercambiable en pasos de 1/3 EV)/(Hasta ISO6400 en la grabación de imágenes en movimiento) (ISO automático en modo M)]]></data>
+            <data nodeName="Exposurecompensation" attributeName="Exposure compensation"
+                  transAttributeName="Compensación de exposición"
+                  dataType="string"><![CDATA[Paso de 1/3 EV ±5 EV (±3 EV en el caso de imágenes en movimiento)]]></data>
+            <data nodeName="AElock" attributeName="AE lock" transAttributeName="Bloqueo AE"
+                  dataType="string"><![CDATA[Sim (AF/AE botón de BLOQUEO)]]></data>
+            <data nodeName="AEbracket" attributeName="AE bracket" transAttributeName="Soporte AE"
+                  dataType="string"><![CDATA[3, 5, 7 fotogramas, en pasos de 1/3, 2/3 o 1 EV, máx. ±3 EV, un solo disparo/ráfaga]]></data>
+         </dataGroup>
+         <dataGroup nodeName="WHITEBALANCE" attributeName="WHITE BALANCE"
+                    transAttributeName="Balance de blancos"
+                    dataType="string">
+            <data nodeName="Whitebalance" attributeName="White balance"
+                  transAttributeName="Balance de blancos"
+                  dataType="string"><![CDATA[Auto / Luz de día / Nublado / Sombra / incandescente / Flash / Ajuste de Blancos 1, 2, 3, 4 / Ajuste de la temperatura de color]]></data>
+            <data nodeName="Whitebalanceadjustment" attributeName="White balance adjustment"
+                  transAttributeName="Ajuste del balance de blancos"
+                  dataType="string"><![CDATA[Dominante azul / ámbar, Dominante magenta / verde]]></data>
+            <data nodeName="Colortemperaturesetting" attributeName="Color temperature setting"
+                  transAttributeName="Configuración de la temperatura de color"
+                  dataType="string"><![CDATA[2500-10000K en 100K]]></data>
+            <data nodeName="Whitebalancebracket" attributeName="White balance bracket"
+                  transAttributeName="Soporte de balance a blanco"
+                  dataType="string"><![CDATA[3 exposiciones en axis azul/ámbar axis o axis magenta/verde.]]></data>
+         </dataGroup>
+         <dataGroup nodeName="SHUTTER" attributeName="SHUTTER" transAttributeName="SHUTTER"
+                    dataType="string">
+            <data nodeName="Type" attributeName="Type" transAttributeName="Tipo"
+                  dataType="string"><![CDATA[Obturador de plano focal]]></data>
+            <data nodeName="Shutterspeed" attributeName="Shutter speed"
+                  transAttributeName="Velocidad de obturador"
+                  dataType="string"><![CDATA[Imagen sin movimiento: bombilla (máx. 2 minutos), 1/4000 - 60/Película: 1/16,000 - 1/25/Obturador electrónico: 1/16,000 - 1]]></data>
+            <data nodeName="Selftimer" attributeName="Self timer"
+                  transAttributeName="Temporizador personal"
+                  dataType="string"><![CDATA[10 segundos, 3 imágenes / 2 segundos / 10 segundos]]></data>
+            <data nodeName="Remotecontrol" attributeName="Remote control"
+                  transAttributeName="Mando a distancia"
+                  dataType="string"><![CDATA[Control remoto con función Bulb por DMW-RSL1 (Opcional)]]></data>
+         </dataGroup>
+         <dataGroup nodeName="SCENEGUIDE" attributeName="SCENE GUIDE"
+                    transAttributeName="GUÍA DE ESCENA"
+                    dataType="string">
+            <data nodeName="Stillimage" attributeName="Still image"
+                  transAttributeName="Imagen fija"
+                  dataType="string"><![CDATA[Retrato claro / Piel sedosa / Contraluz suavizado / Claro contraluz / Tono relajante / Cara dulce de niño / Paisaje diverso / Cielo azul brillante / Puesta de sol romántica / Puesta de sol brillante / Agua reluciente / Paisaje nocturno claro / Cielo nocturno frío / Paisaje nocturno cálido / Paisaje nocturno artístico / Luces y resplandores / Disparo nocturno cámara en mano / Claro retrato nocturno / Suave imagen de una flor / Comida apetecible / Postre atractivo / Movimiento animal congelado / Foto deportiva clara / Monocromática]]></data>
+            <data nodeName="Motionpicture" attributeName="Motion picture"
+                  transAttributeName="Imagen en movimiento"
+                  dataType="string"><![CDATA[Retrato claro / Piel sedosa / Contraluz suavizado / Claro contraluz / Tono relajante / Cara dulce de niño / Paisaje diverso / Cielo azul brillante / Puesta de sol romántica / Puesta de sol brillante / Paisaje nocturno claro / Cielo nocturno frío / Paisaje nocturno cálido / Paisaje nocturno artístico / Disparo nocturno cámara en mano / Claro retrato nocturno / Comida apetecible / Postre atractivo / Movimiento animal congelado / Foto deportiva clara / Monocromática]]></data>
+         </dataGroup>
+         <dataGroup nodeName="PANORAMASHOT" attributeName="PANORAMA SHOT"
+                    transAttributeName="DISPARO PANORAMA"
+                    dataType="string">
+            <data nodeName="Panoramashot" attributeName="Panorama shot"
+                  transAttributeName="Disparo panorama"
+                  dataType="string"><![CDATA[Sí (Estándar / Ancho)]]></data>
+         </dataGroup>
+         <dataGroup nodeName="BURSTSHOOTING" attributeName="BURST SHOOTING"
+                    transAttributeName="Disparo en ráfaga"
+                    dataType="string">
+            <data nodeName="Burstspeed" attributeName="Burst speed"
+                  transAttributeName="Velocidad de ráfaga"
+                  dataType="string"><![CDATA[Obturador mecánico: H: 8 fotogramas/seg. (con AFS), 6 fotogramas/seg. (con AFC), M: 6 fotogramas/seg. (con Live View), L: 2 fotogramas/seg. (con Live View)/Obturador electrónico: SH: 40 fotogramas/seg., H: 10 fotogramas/seg., M: 6 fotogramas/seg. (con Live View), L: 2 fotogramas/seg. (con Live View)]]></data>
+            <data nodeName="Numberofrecordableimages" attributeName="Number of recordable images"
+                  transAttributeName="Número de imágenes grabables"
+                  dataType="string"><![CDATA[Más de 13 imágenes (cuando existen archivos RAW con una determinada velocidad)/Más de 100 imágenes (cuando no existen archivos RAW)/(dependiendo del tipo de la tarjeta de memoria, el aspecto, el tamaño de la foto y la compresión)]]></data>
+         </dataGroup>
+         <dataGroup nodeName="FLASH" attributeName="FLASH" transAttributeName="FLASH"
+                    dataType="string">
+            <data nodeName="FlashMode" attributeName="Flash Mode"
+                  transAttributeName="Modo de Flash"
+                  dataType="string"><![CDATA[Auto*, Auto/Reducción de ojos rojos*, Forzado activado, Forzado activado/Reducción de ojos rojos, Sincronización lenta, Sincronización lenta/Reducción de ojos rojos, Apagado forzado (* solo para iA e iA+).]]></data>
+            <data nodeName="Synchronizationspeed" attributeName="Synchronization speed"
+                  transAttributeName="Velocidad de Sincronización"
+                  dataType="string"><![CDATA[Menos de 1/160 segundos]]></data>
+            <data nodeName="Flashoutputadjustment" attributeName="Flash output adjustment"
+                  transAttributeName="Salida para ajuste de flash"
+                  dataType="string"><![CDATA[Paso de 1/3EV ±3EV]]></data>
+            <data nodeName="Flashsynchronization" attributeName="Flash synchronization"
+                  transAttributeName="Sincronización de flash"
+                  dataType="string"><![CDATA[1era Sincronización a la cortinilla, 2a Sincronización a la cortinilla]]></data>
+            <data nodeName="Builtinflashtype" attributeName="Built in flash type"
+                  transAttributeName="Tipo de flash integrado"
+                  dataType="string"><![CDATA[Flash integrado TTL, equivalente a GN9.3 (ISO200 ・m) / equivalente a GN6.6 (ISO100 ・m), desplegable integrado (Referencia）]]></data>
+            <data nodeName="Synchronizationforflashdimmingandexposurecompensation"
+                  attributeName="Synchronization for flash dimming and exposure compensation"
+                  transAttributeName="Sincronización del flash de regulación y compensación de la exposición"
+                  dataType="string"><![CDATA[Sí]]></data>
+         </dataGroup>
+         <dataGroup nodeName="REARMONITOR" attributeName="REAR MONITOR"
+                    transAttributeName="MONITOR TRASERO"
+                    dataType="string">
+            <data nodeName="Type" attributeName="Type" transAttributeName="Tipo"
+                  dataType="string"><![CDATA[Monitor LCD TFT con control táctil estático]]></data>
+            <data nodeName="Monitorsize" attributeName="Monitor size"
+                  transAttributeName="Tamaño del monitor"
+                  dataType="string"><![CDATA[Ángulo libre de 3 pulgadas / Relación de aspecto 3:2 / Amplio ángulo de visión]]></data>
+            <data nodeName="Pixels" attributeName="Pixels" transAttributeName="Píxeles"
+                  dataType="string"><![CDATA[Aprox. 1040 k puntos]]></data>
+            <data nodeName="Filedofview" attributeName="Filed of view"
+                  transAttributeName="Archivo de vista"
+                  dataType="string"><![CDATA[Aprox. 100%]]></data>
+            <data nodeName="Monitoradjustment" attributeName="Monitor adjustment"
+                  transAttributeName="Ajuste de monitor"
+                  dataType="string"><![CDATA[Brillo, Contraste, Saturación, Rojo-verde, Azul-amarillo]]></data>
+         </dataGroup>
+         <dataGroup nodeName="4KPHOTOMODE" attributeName="4K PHOTO MODE"
+                    transAttributeName="MODO FOTOGRAFÍA 4K"
+                    dataType="string">
+            <data nodeName="4KPhotomode" attributeName="4K Photo mode*"
+                  transAttributeName="Modo fotografía 4K*"
+                  dataType="string"><![CDATA[4K Pre-Burst: 30 fotogramas/s, aprox. 2 segundos/Ráfaga 4K: 30 fotogramas/s, máx. 29 minutos 59 segundos/Ráfaga 4K (S/S): 30 fotogramas/s, máx. 29 minutos 59 segundos/(depende del tamaño de la tarjeta de memoria y de la capacidad de la batería)]]></data>
+            <data nodeName="Exifinformation" attributeName="Exif information"
+                  transAttributeName="Información Exif"
+                  dataType="string"><![CDATA[Sí]]></data>
+            <data nodeName="Selectableaspectratio" attributeName="Selectable aspect ratio"
+                  transAttributeName="Varias relaciones de aspecto"
+                  dataType="string"><![CDATA[Sí (se pueden seleccionar las relaciones de aspecto 4:3 / 3:2 / 16:9 / 1:1)]]></data>
+            <data nodeName="Exposuremode" attributeName="Exposure mode"
+                  transAttributeName="Modo Exposición"
+                  dataType="string"><![CDATA[Programa AE/ Prioridad a la Abertura / Prioridad a la Velocidad / Exposición Manual]]></data>
+            <data nodeName="Markingfunction" attributeName="Marking function"
+                  transAttributeName="Función de marcado"
+                  dataType="string"><![CDATA[Sí (en el modo Ráfaga 4K (S/S))]]></data>
+         </dataGroup>
+         <dataGroup nodeName="LIVEVIEW" attributeName="LIVE VIEW"
+                    transAttributeName="Visión en vivo"
+                    dataType="string">
+            <data nodeName="Digitalzoom" attributeName="Digital zoom"
+                  transAttributeName="Zoom digital"
+                  dataType="string"><![CDATA[2x, 4x]]></data>
+            <data nodeName="ExtraTeleConversion" attributeName="Extra Tele Conversion"
+                  transAttributeName="Conversión Extra Tele"
+                  dataType="string"><![CDATA[Imagen sin movimiento: Máx. 2x/Imagen en movimiento: 2.4x (FHD), 3.6x (HD), 4.8x (VGA)]]></data>
+            <data nodeName="Otherfunctions" attributeName="Other functions"
+                  transAttributeName="Otras funciones"
+                  dataType="string"><![CDATA[Indicador de nivel, Histograma en tiempo real, Líneas de guía (3 patrones), Marcador de centro, Resaltar visualización (imagen fija / imagen en movimiento), Patrón de zebra (imagen fija / imagen en movimiento)]]></data>
+         </dataGroup>
+         <data nodeName="TIMELAPSESHOT" attributeName="TIME LAPSE SHOT"
+               transAttributeName="DISPARO TIME LAPSE"
+               dataType="string"><![CDATA[Sí]]></data>
+         <data nodeName="STOPMOTIONANIMATION" attributeName="STOP MOTION ANIMATION"
+               transAttributeName="ANIMACIÓN STOP MOTION"
+               dataType="string"><![CDATA[Sí]]></data>
+         <dataGroup nodeName="DIRECTIONDETECTIONFUNCTION"
+                    attributeName="DIRECTION DETECTION FUNCTION"
+                    transAttributeName="FUNCIÓN DE DETECCIÓN DE DIRECCIÓN"
+                    dataType="string">
+            <data nodeName="DirectionDetectionFunction"
+                  attributeName="Direction Detection Function"
+                  transAttributeName="Función de detección de dirección"
+                  dataType="string"><![CDATA[Sí]]></data>
+         </dataGroup>
+         <dataGroup nodeName="FUNCTIONBUTTON" attributeName="FUNCTION BUTTON"
+                    transAttributeName="BOTÓN FUNCTION"
+                    dataType="string">
+            <data nodeName="Fn1Fn2Fn3Fn4Fn5Fn6Fn7Fn8Fn9Fn10Fn11"
+                  attributeName="Fn1, Fn2, Fn3, Fn4, Fn5, Fn6, Fn7, Fn8, Fn9, Fn10, Fn11"
+                  transAttributeName="Fn1, Fn2, Fn3, Fn4, Fn5, Fn6, Fn7, Fn8, Fn9, Fn10, Fn11"
+                  dataType="string"><![CDATA[Compensación de la exposición / Wi-Fi / MENÚ Q. / LVF/ Interruptor de monitor / AF / BLOQUEO AE / AF-ON / Vista preliminar / AE de una pulsación / AE táctil / Indicador de nivel / Ajuste de área de enfoque / Control de zoom / Bloqueo del botón del cursor / Interruptor del anillo de funcionamiento / Fotoestilo / Selección de filtro / Relación de aspecto / Tamaño de imagen / Calidad / AFS/AFF / Modo de medición / Velocidad de ráfaga / FOTOGRAFÍA 4K / Horquillado automático / Temporizador propio / Luces/sombras / i. Dinámica / i. Resolución / HDR / Obturador electrónico / Modo flash / Ajuste de flash. / Ex. de teleobjetivo adicional / Zoom digital / Estabilizador / Película instantánea / Ajuste de película / Modo imagen / Ajuste de dirección de micrófono / Modo silencioso / Peaking / Histograma / Línea de guía / Patrón de cebra / Vista monocromática en vivo / Área de grabación / Zoom escalado / Velocidad de zoom / Panel táctil / Sensibilidad / Balance de blancos / Modo AF / MF / Restaurar a predeterminado]]></data>
+         </dataGroup>
+         <dataGroup nodeName="PHOTOSTYLE" attributeName="PHOTO STYLE"
+                    transAttributeName="PHOTO STYLE"
+                    dataType="string">
+            <data nodeName="Stillimageandmotionpicture"
+                  attributeName="Still image and motion picture"
+                  transAttributeName="Imagen fija e imagen en movimiento"
+                  dataType="string"><![CDATA[Estándar / Vívido / Natural / Monocromático / Paisaje / Retrato / Personalizado / Cinelike D* / Cinelike V* *Cuando está seleccionado el modo de Vídeo creativo.]]></data>
+         </dataGroup>
+         <data nodeName="SILENTMODE" attributeName="SILENT MODE"
+               transAttributeName="MODO SILENCIOSO"
+               dataType="string"><![CDATA[Sí]]></data>
+         <dataGroup nodeName="CREATIVECONTROL" attributeName="CREATIVE CONTROL"
+                    transAttributeName="CONTROL CREATIVO"
+                    dataType="string">
+            <data nodeName="Stillimage" attributeName="Still image"
+                  transAttributeName="Imagen fija"
+                  dataType="string"><![CDATA[Expresivo / Retro / Viejos tiempos / Tonalidad alta / Tonalidad baja / Sepia / Monocromo / Monocromo dinámico / Rough Monochrome / Silky Monochrome / Arte impresionante / Dinámica alta / Proceso cruzado / Efecto cámara de juguete / Juguete pop / Bleach Bypass / Efecto miniatura / Foco suave / Fantasía / Filtro de estrellas / Color puntual]]></data>
+            <data nodeName="Motionpicture" attributeName="Motion picture"
+                  transAttributeName="Imagen en movimiento"
+                  dataType="string"><![CDATA[Expresivo / Retro / Viejos tiempos / Tonalidad alta / Tonalidad baja / Sepia / Monocromo / Monocromo dinámico / Arte impresionante / Dinámica alta / Proceso cruzado / Efecto cámara de juguete / Juguete pop / Bleach Bypass / Efecto miniatura / Fantasía / Color puntual]]></data>
+         </dataGroup>
+         <dataGroup nodeName="MOTIONPICTUREFUNCTION" attributeName="MOTION PICTURE FUNCTION"
+                    transAttributeName="FUNCIÓN DE IMAGEN EN MOVIMIENTO"
+                    dataType="string">
+            <data nodeName="Flickerreduction" attributeName="Flicker reduction"
+                  transAttributeName="reducción del parpadeo"
+                  dataType="string"><![CDATA[[1/50] / [1/60] / [1/100] / [1/120] / OFF]]></data>
+            <data nodeName="Cinelikegamma" attributeName="Cinelike gamma"
+                  transAttributeName="Gamma Cinema"
+                  dataType="string"><![CDATA[Cinelike D / Cinelike V]]></data>
+         </dataGroup>
+         <dataGroup nodeName="PLAYBACK" attributeName="PLAYBACK" transAttributeName="Reproducción"
+                    dataType="string">
+            <data nodeName="Playbackfunction" attributeName="Playback function"
+                  transAttributeName="Función de reproducción"
+                  dataType="string"><![CDATA[Reproducción normal, 30 miniaturas, 12 miniaturas, Reproducción de calendario, Reproducción con zoom (máx. 16x), Pase de diapositivas (Todas / Solo imágenes / FOTOGRAFÍA 4K / 3D / Selección de categorías / Favoritas; se puede seleccionar la duración y el efecto), Modo de reproducción (Normal / Imagen / Vídeo / FOTOGRAFÍA 4K / Reproducción 3D / Categoría / Favorito), Registro de ubicación, Procesamiento RAW, Borrar retoque, Editar título, Marcar texto, Dividir vídeo, Vídeo Time Lapse, Vídeo Stop Motion, Cambiar tamaño, Recorte, Girar, Girar visualización, Favorito, Ajuste de impresión DPOF, Proteger, Editar reconocimiento de cara, Ordenar imágenes, Crear imágenes fijas a partir de una película]]></data>
+         </dataGroup>
+         <dataGroup nodeName="IMAGEPROTECTIONERASE" attributeName="IMAGE PROTECTION / ERASE"
+                    transAttributeName="PROTECCIÓN DE IMAGEN / BORRAR"
+                    dataType="string">
+            <data nodeName="Protection" attributeName="Protection"
+                  transAttributeName="Protección"
+                  dataType="string"><![CDATA[Único / múltiple]]></data>
+            <data nodeName="Erase" attributeName="Erase" transAttributeName="Borra"
+                  dataType="string"><![CDATA[Single / Multi / Todo / Excepto favorito]]></data>
+         </dataGroup>
+         <dataGroup nodeName="PRINT" attributeName="PRINT" transAttributeName="IMPRIMIR"
+                    dataType="string">
+            <data nodeName="DirectPrint" attributeName="Direct Print"
+                  transAttributeName="Impresión directa"
+                  dataType="string"><![CDATA[Compatible PictBridge]]></data>
+         </dataGroup>
+         <dataGroup nodeName="INTERFACE" attributeName="INTERFACE" transAttributeName="Interfaz"
+                    dataType="string">
+            <data nodeName="USB" attributeName="USB" transAttributeName="USB" dataType="string"><![CDATA[USB 2.0 High Speed Multi]]></data>
+            <data nodeName="HDMI" attributeName="HDMI**" transAttributeName="HDMI**"
+                  dataType="string"><![CDATA[microHDMI TypeD / VIERA Link/Vídeo: Auto /  4K / 1080 p / 1080 i / 720 p / 480 p (576 p en sistema PAL)/Audio: Stereo]]></data>
+            <data nodeName="Audiovideooutput" attributeName="Audio video output"
+                  transAttributeName="Salida de Audio vídeo"
+                  dataType="string"><![CDATA[Tipo monaural, NTSC/PAL, NTSC solo para el área NTSC/* Visite el sitio web de la compañía de ventas de Panasonic en su país o región para obtener información sobre los productos que están disponibles en su mercado.]]></data>
+            <data nodeName="Microphone" attributeName="Microphone" transAttributeName="Micrófono"
+                  dataType="string"><![CDATA[Estéreo, Amortiguador de viento: Desactivado / Bajo / Estándar / Alto / AUTO]]></data>
+            <data nodeName="Speaker" attributeName="Speaker" transAttributeName="Altavoz"
+                  dataType="string"><![CDATA[Monaural]]></data>
+            <data nodeName="Remoteinput" attributeName="Remote input"
+                  transAttributeName="Entrada remota"
+                  dataType="string"><![CDATA[φ2,5 mm para mando a distancia]]></data>
+            <data nodeName="Externalmicrophoneinput" attributeName="External microphone input"
+                  transAttributeName="Entrada externa de micrófono"
+                  dataType="string"><![CDATA[φ3,5 mm para micrófono externo/Se puede seleccionar estéreo/Objetivo automático/Gun/Súper Gun/Manual al conectar DMW-MS2 (opcional).]]></data>
+         </dataGroup>
+         <dataGroup nodeName="LANGUAGE" attributeName="LANGUAGE" transAttributeName="IDIOMA"
+                    dataType="string">
+            <data nodeName="OSDlanguage" attributeName="OSD language"
+                  transAttributeName="Idioma OSD"
+                  dataType="string"><![CDATA[Japonés, Inglés, alemán, francés, italiano, español, polaco, checo, húngaro, el neerlandés, turco, portugués, finlandés, danés, sueco, griego]]></data>
+         </dataGroup>
+         <dataGroup nodeName="POWER" attributeName="POWER" transAttributeName="POWER"
+                    dataType="string">
+            <data nodeName="Battery" attributeName="Battery" transAttributeName="Batería"
+                  dataType="string"><![CDATA[Paquete de batería de li-ion (7,2 V, 1200 mAh, 8,7 Wh) (incluido)/Cargador de batería]]></data>
+            <data nodeName="BatterylifeCIPAstandard" attributeName="Battery life (CIPA standard)"
+                  transAttributeName="Vida de la Batería (CIPA estándar)"
+                  dataType="string"><![CDATA[aprox. 360 imágenes con H-FS1442A/aprox. 350 imágenes con H-FS14140/Aprox. 350 imágenes con H-FS45150]]></data>
+         </dataGroup>
+         <dataGroup nodeName="DIMENSIONSWEIGHT" attributeName="DIMENSIONS / WEIGHT"
+                    transAttributeName="DIMENSIONES / PESO"
+                    dataType="string">
+            <data nodeName="DimensionsWxHxD" attributeName="Dimensions (W x H x D)"
+                  transAttributeName="Dimensiones (ancho x alto x profundo)"
+                  dataType="string"><![CDATA[124,9 x 86,2 x 77,4 mm / 4,92 x 3,39 x 3,05 pulgadas (las medidas no incluyen los salientes)]]></data>
+            <data nodeName="Weight" attributeName="Weight" transAttributeName="Peso"
+                  dataType="string"><![CDATA[Aprox. 410 g / 0,90 libras (tarjeta SD, batería, cuerpo)/Aprox. 360 g / 0,79 libras (solo el cuerpo)/Aprox. 520 g / 1,15 libras (tarjeta SD, batería, objetivo H-FS1442A incluido)/Aprox. 675 g / 1,49 libras (tarjeta SD, batería, objetivo H-FS14140 incluido)/Aprox. 610 g / 1,34 libras (tarjeta SD, batería, objetivo H-FS45150 incluido)/Aprox. 720 g / 1,59 libras (tarjeta SD, batería, objetivo H-FS1442A + H-FS45150 incluido)]]></data>
+         </dataGroup>
+         <dataGroup nodeName="OPERATINGENVIRONMENT" attributeName="OPERATING ENVIRONMENT"
+                    transAttributeName="ENTORNO DE TRABAJO"
+                    dataType="string">
+            <data nodeName="Operatingtemperature" attributeName="Operating temperature"
+                  transAttributeName="Temperatura de funcionamiento"
+                  dataType="string"><![CDATA[0℃ a 40℃ (32°F a 104°F)]]></data>
+            <data nodeName="Operatinghumidity" attributeName="Operating humidity"
+                  transAttributeName="Humedad de funcionamiento"
+                  dataType="string"><![CDATA[Humedad relativa de entre 10% y 80％]]></data>
+         </dataGroup>
+         <dataGroup nodeName="STANDARDACCESSORIES" attributeName="STANDARD ACCESSORIES"
+                    transAttributeName="ACCESORIOS ESTÁNDAR"
+                    dataType="string">
+            <data nodeName="Software" attributeName="Software" transAttributeName="Software"
+                  dataType="string"><![CDATA[PHOTOfunSTUDIO 9,7 PE/(Windows Vista / Windows 7 / Windows 8 / Windows 8.1)/SILKYPIX® Developer Studio 4.3 SE/(Windows Vista / Windows 7 / Windows 8 / Windows 8.1, Mac OS X v10.5 - v10.10）/LoiLoScope (versión de prueba)/(Windows Vista / Windows 7 / Windows 8 / Windows 8.1)]]></data>
+            <data nodeName="Standardaccessories" attributeName="Standard accessories"
+                  transAttributeName="Accesorios estándar"
+                  dataType="string"><![CDATA[Kit DMC-G7H/Cubierta de la zapata accesoria, tapa para el cuerpo, paquete de la batería, cargador de la batería, cable de conexión USB, correa de hombro, DVD, cable CA*, capa del objetivo, tapa del objetivo, tapa trasera del objetivo/* Depende del país o región.]]></data>
+         </dataGroup>
+         <dataGroup nodeName="CREATIVEVIDEOMODE" attributeName="CREATIVE VIDEO MODE"
+                    transAttributeName="MODO VÍDEO CREATIVO"
+                    dataType="string">
+            <data nodeName="Exposuremode" attributeName="Exposure mode"
+                  transAttributeName="Modo Exposición"
+                  dataType="string"><![CDATA[Programa AE / Prioridad de apertura / Prioridad de obturador / Exposición manual]]></data>
+         </dataGroup>
+         <dataGroup nodeName="INTERCHANGEABLELENS-1" attributeName="INTERCHANGEABLE LENS-1"
+                    transAttributeName="OBJETIVOS INTERCAMBIABLES-1"
+                    dataType="string">
+            <data nodeName="LensName" attributeName="Lens Name"
+                  transAttributeName="Nombre de Objetivo"
+                  dataType="string"><![CDATA[LUMIX G VARIO 14-140mm / F3.5-5.6 ASPH. / POWER O.I.S.]]></data>
+            <data nodeName="LensConstruction" attributeName="Lens Construction"
+                  transAttributeName="Contrucción del objetivo"
+                  dataType="string"><![CDATA[14 elementos en 12 grupos (3 lentes asféricas, 2 lentes ED)]]></data>
+            <data nodeName="NanoSurfaceCoating" attributeName="Nano Surface Coating"
+                  transAttributeName="Recubrimiento de Nano Superficie"
+                  dataType="string"><![CDATA[-]]></data>
+            <data nodeName="Mount" attributeName="Mount" transAttributeName="Montura"
+                  dataType="string"><![CDATA[Montura para sistema de Micro Cuatro Tercios]]></data>
+            <data nodeName="OpticalImageStabilizer" attributeName="Optical Image Stabilizer"
+                  transAttributeName="Estabilizador Óptico de Imagen"
+                  dataType="string"><![CDATA[Sí (POWER O.I.S.)]]></data>
+            <data nodeName="FocalLength" attributeName="Focal Length"
+                  transAttributeName="Distancia focal"
+                  dataType="string"><![CDATA[f = 14-140mm (equivalente en cámara de 35mm 28-280mm)]]></data>
+            <data nodeName="ApertureType" attributeName="Aperture Type"
+                  transAttributeName="Tipo de abertura"
+                  dataType="string"><![CDATA[7 hojas de diafragma / diafragma de abertura circular]]></data>
+            <data nodeName="Aperturerange" attributeName="Aperture range"
+                  transAttributeName="Amplia apertura"
+                  dataType="string"><![CDATA[F3.5(Ancho) - F5.6(TELE)]]></data>
+            <data nodeName="MinimumAperture" attributeName="Minimum Aperture"
+                  transAttributeName="Abertura mínima"
+                  dataType="string"><![CDATA[F22]]></data>
+            <data nodeName="ClosestFocusingDistance" attributeName="Closest Focusing Distance"
+                  transAttributeName="Distancia de enfoque más cercana"
+                  dataType="string"><![CDATA[0.30m/0.98ft (a la distancia focal de 14-21mm) / 0.50m/1.64ft (a la distancia focal de 22-140mm)]]></data>
+            <data nodeName="Maximummagnification" attributeName="Maximum magnification"
+                  transAttributeName="Máximo aumento"
+                  dataType="string"><![CDATA[Aprox. 0,25 x / 0,50 x (equivalente en 35mm)]]></data>
+            <data nodeName="DiagonalAngleofView" attributeName="Diagonal Angle of View"
+                  transAttributeName="Ángulo de visión Diagonal"
+                  dataType="string"><![CDATA[75°(Ancho) to 8.8°(TELE)]]></data>
+            <dataGroup nodeName="General" attributeName="General" transAttributeName="General"
+                       dataType="string">
+               <data nodeName="FilterSize" attributeName="Filter Size"
+                     transAttributeName="Tamaño de filtro"
+                     dataType="string"><![CDATA[φ58mm / 2.28in]]></data>
+               <data nodeName="MaxDiameter" attributeName="Max. Diameter"
+                     transAttributeName="Diámetro máximo"
+                     dataType="string"><![CDATA[φ67mm / 2.64in]]></data>
+               <data nodeName="OverallLength" attributeName="Overall Length"
+                     transAttributeName="Longitud global"
+                     dataType="string"><![CDATA[Aprox. 75 mm / 2.95in (desde la punta del objetivo hasta la base de la montura del objetivo)]]></data>
+               <data nodeName="Weightg" attributeName="Weight [g]" transAttributeName="Peso [g]"
+                     dataType="string"><![CDATA[Aprox. 265 g (sin la tapa, la tapa trasera ni el parasol)]]></data>
+               <data nodeName="Weightoz" attributeName="Weight [oz]" transAttributeName="Peso [oz]"
+                     dataType="string"><![CDATA[Aprox. 9,35 oz (sin la tapa, la tapa trasera ni el parasol)]]></data>
+            </dataGroup>
+         </dataGroup>
+         <data nodeName="NOTE" attributeName="NOTE" transAttributeName="NOTA"
+               dataType="string"><![CDATA["* Sobre la grabación de una película / grabación de fotografías 4K]]></data>
+         <data nodeName="NOTE_0" attributeName="NOTE" transAttributeName="NOTA"
+               dataType="string"><![CDATA[- Utilice una tarjeta con SD Speed Class con ""Class 4"" o superior al grabar películas.]]></data>
+         <data nodeName="NOTE_1" attributeName="NOTE" transAttributeName="NOTA"
+               dataType="string"><![CDATA[- Usar una tarjeta con SD Speed Class con ""UHS-I / UHS-II UHS Speed Class 3 (U3)"" al grabar películas con [MP4] en [4K] o [4K PHOTO].]]></data>
+         <data nodeName="NOTE_2" attributeName="NOTE" transAttributeName="NOTA"
+               dataType="string"><![CDATA[(La clase de velocidad SD es el estándar de velocidad de la grabación continua.)]]></data>
+         <data nodeName="NOTE_3" attributeName="NOTE" transAttributeName="NOTA"
+               dataType="string"><![CDATA[- El tiempo máximo para grabar películas continuamente con [MP4] en [4K] es 29 minutos y 59 segundos.]]></data>
+         <data nodeName="NOTE_4" attributeName="NOTE" transAttributeName="NOTA"
+               dataType="string"><![CDATA[- Se puede grabar una película de forma continua con el tamaño configurado en [4K] en [MP4] o [4K PHOTO] sin necesidad de parar incluso si la película supera los 4 GB. Sin embargo, el contenido grabado debe reproducirse como múltiples archivos.]]></data>
+         <data nodeName="NOTE_5" attributeName="NOTE" transAttributeName="NOTA"
+               dataType="string"><![CDATA[- El tiempo máximo para grabar películas continuamente con [MP4] en [FHD] [HD] [VGA] es 29 minutos y 59 segundos o hasta 4 GB.]]></data>
+         <data nodeName="NOTE_6" attributeName="NOTE" transAttributeName="NOTA"
+               dataType="string"><![CDATA[- El tiempo máximo para grabar películas de forma continua con [AVCHD] es 29 minutos y 59 segundos en Europa.]]></data>
+         <data nodeName="NOTE_7" attributeName="NOTE" transAttributeName="NOTA"
+               dataType="string"><![CDATA[** Para una salida de vídeo [4K], usar un cable HDMI que tenga el logotipo HDMI impreso en él y que se describa como "compatible con 4K".]]></data>
+      </dataGroup>
+
+   </ItemContent>
+</ItemContents>
